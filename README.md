@@ -11,7 +11,6 @@ git clone https://github.com/timbernat/polymerist
 ```
 
 Next, recreate the conda environment (after installing the [Anaconda Distribution](https://www.anaconda.com/download)) from the packaged requirements:
-If you would prefer to use a developer install to suggest changes to the toolkit or fix bugs, follow the below steps from the [OpenFF Documentation](https://docs.openforcefield.org/projects/toolkit/en/latest/users/developing.html#setting-up-a-development-environment).
 ```sh
 conda env create -n polymerist_env -f reqs.yml
 conda activate polymerist_env
