@@ -1,4 +1,4 @@
-name: openff-pdb-pr
+name: polymerist_env
 channels:
   - openeye
   - conda-forge
@@ -296,7 +296,6 @@ dependencies:
   - python-json-logger=2.0.7=pyhd8ed1ab_0
   - python-tzdata=2023.3=pyhd8ed1ab_0
   - python_abi=3.11=4_cp311
-  - pytorch=2.0.0=cpu_generic_py311h59ffd09_2
   - pytorch-lightning=2.0.9=pyhd8ed1ab_0
   - pytz=2023.3.post1=pyhd8ed1ab_0
   - pyyaml=6.0.1=py311h459d7ec_0
@@ -410,4 +409,4 @@ dependencies:
       - sander==22.0
       - torch==2.0.1
       - triton==2.0.0
-prefix: /home/timber/miniconda3/envs/openff-pdb-pr
+prefix: /home/timber/miniconda3/envs/polymerist_env
