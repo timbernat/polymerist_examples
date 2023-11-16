@@ -6,7 +6,7 @@ First create a local clone of this repository and, within it, a clone of the in-
 the toolkit, first download and install . Then, run:
 ```sh
 git clone https://github.com/timbernat/polymerist_examples
-cd WaSP_simulations
+cd polymerist_examples
 git clone https://github.com/timbernat/polymerist
 ```
 
