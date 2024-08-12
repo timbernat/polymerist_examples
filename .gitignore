@@ -166,6 +166,7 @@ cython_debug/
 # demo files
 polymer_demos/*
 GROMACS_demo/*
+rxn_demos/*
 
 # internal folders
 polymerist/*
