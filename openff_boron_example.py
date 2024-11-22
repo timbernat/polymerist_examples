@@ -18,7 +18,7 @@ outdir.mkdir(exist_ok=True)
 # initialize molecule from SMILES string, generate conformation
 smi = 'C=C-c1ccccc1-B(O)(O)'
 offmol = Molecule.from_smiles(smi)
-offmol.generate_conformers(n_conformers=1, toolkit_registry=TKREGS['OpenEye Toolkit'])
+offmol.generate_conformers(n_conformers=1, toolkit_registry=TKREGS['OpenEye Toolkit']) # TODO: directly import OpenEye toolkit wrapper
 
 # assign partial charges
 esp_charger = molchargers.EspalomaCharger()
