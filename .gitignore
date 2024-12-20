@@ -163,7 +163,10 @@ cython_debug/
 # GNN models files
 .model.pt
 
-# demo files
+# internal/testing files
+testing.ipynb
+
+# demo output files
 polymer_demos/*
 GROMACS_demo/*
 
