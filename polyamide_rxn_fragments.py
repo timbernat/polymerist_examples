@@ -1,3 +1,5 @@
+'''Example of how to embed coordinates for and save images of repeat unit fragments for the MPD-TMC polyamide reactions'''
+
 import random
 from pathlib import Path
 
@@ -20,13 +22,20 @@ from polymerist.rdutils.reactions.reactions import AnnotatedReaction
 from polymerist.rdutils.reactions.reactors import PolymerizationReactor
 
 
+# Initialize receiving directories
+RXN_DIR = Path('rxn_demos')
+RXN_DIR.mkdir(exist_ok=True)
 
-MOLDIR = Path('rxn_frag_demo')
-MOLDIR.mkdir(exist_ok=True)
+example_dir = RXN_DIR / 'MPD-TMC'
+example_dir.mkdir(exist_ok=True)
 
+image_dir = example_dir / 'rxn_fragment_images'
+image_dir.mkdir(exist_ok=True)
+
+# Define reactants and reaction SMARTS
 reactant_smiles = {
-    'MPD' : 'c1ccc(N)cc1N',
-    'TMC' : 'c1c(C(=O)Cl)cc(C(=O)Cl)cc1(C(=O)Cl)',
+    'MPD' : 'c1ccc(N)cc1N',                         # m-phenylenediamine
+    'TMC' : 'c1c(C(=O)Cl)cc(C(=O)Cl)cc1(C(=O)Cl)',  # trimesoyl chloride
 }
 rxnsmarts = '[#7:1](-[*:2])(-[#1])-[#1:3].[#17]-[#6:4](=[#8:5])-[*:6]>>[#7:1](-[*:2])(-[#1:3])-[#6:4](=[#8:5])-[*:6]'
 
@@ -39,9 +48,7 @@ for molname, smi in reactant_smiles.items():
     monomer = Chem.MolFromSmiles(exp_smi, sanitize=False)
     Chem.SanitizeMol(monomer, sanitizeOps=specification.SANITIZE_AS_KEKULE)
     reactants.append(monomer)
-    
-    print(f'{molname} monomer:')
-    Draw.MolToImageFile(monomer, MOLDIR / f'{molname}.png')
+    Draw.MolToImageFile(monomer, image_dir / f'{molname}.png')
 
     # conformer embedding
     errcode = AllChem.EmbedMolecule(monomer, randomSeed=0xf00d, useRandomCoords=True, ETversion=2)
@@ -50,8 +57,9 @@ for molname, smi in reactant_smiles.items():
     conf = monomer.GetConformer(0)
 
     rdMolTransforms.CanonicalizeConformer(conf)
-    Draw.MolToImageFile(monomer, MOLDIR / f'{molname}_ETKDG.png')
+    Draw.MolToImageFile(monomer, image_dir / f'{molname}_ETKDG.png')
 
+    # rotate all dihedrals randomly
     for dihed_ids in monomer.GetSubstructMatches(DIHEDRAL_QUERY):
         try:
             rdMolTransforms.SetDihedralDeg(conf, *dihed_ids, random.uniform(0, 360))
@@ -59,15 +67,15 @@ for molname, smi in reactant_smiles.items():
             pass
         
     rdMolTransforms.CanonicalizeConformer(conf)
-    Draw.MolToImageFile(monomer, MOLDIR / f'{molname}_rand_torsion.png')
-    Chem.MolToPDBFile(monomer, MOLDIR / f'{molname}.pdb', flavor=32)
+    Draw.MolToImageFile(monomer, image_dir / f'{molname}_rand_torsion.png')
+        
+    # save to PDB file - TODO: figure out how to inject monomer names without disrupting RDKit defaults for all other AtomPDBResidueInfo
+    Chem.MolToPDBFile(monomer, example_dir / f'{molname}.pdb', flavor=32)
     monomer.RemoveAllConformers()
 
 # initialize reaction
 rxn = AnnotatedReaction.from_smarts(rxnsmarts)
-print('RXN Template:')
 reactor = PolymerizationReactor(rxn_schema=rxn)
-print('='*50)
 
 # perform fragment generation via polymerization
 PORT_ID_STREAM = int_complement([0])
@@ -78,13 +86,12 @@ all_frags = RecursiveDict()
 for i, (dimers, frags) in enumerate(reactor.propagate(reactants), start=1):
     for dimer in dimers:
         all_dimers[i] = dimer
-        Draw.MolToImageFile(dimer, MOLDIR / f'dimer_step_{i}.png')
+        Draw.MolToImageFile(dimer, image_dir / f'dimer_step_{i}.png')
 
     for frag, name in zip(frags, reactant_smiles.keys()):
         valence = portlib.get_num_ports(frag)
         all_frags[name][valence] = frag
-        Draw.MolToImageFile(frag, MOLDIR/f'{name}_{valence}-site.png')
-    print('='*50)
+        Draw.MolToImageFile(frag, image_dir / f'{name}_{valence}-site.png')
 
 # react remaining MPD site
 reactants_post = [
@@ -95,16 +102,14 @@ reactants_post = [
 for j, (dimers, frags) in enumerate(reactor.propagate(reactants_post), start=i+1): # resume progress
     for dimer in dimers:
         all_dimers[j] = dimer
-        Draw.MolToImageFile(dimer, MOLDIR / f'dimer_step_{j}.png')
+        Draw.MolToImageFile(dimer, image_dir / f'dimer_step_{j}.png')
 
     for frag, name in zip(frags, reactant_smiles.keys()):
         valence = portlib.get_num_ports(frag)
         all_frags[name][valence] = frag
-        Draw.MolToImageFile(frag, MOLDIR/f'{name}_{valence}-site.png')
-    print('='*50)
+        Draw.MolToImageFile(frag, image_dir / f'{name}_{valence}-site.png')
 
 # adjust port flavors
-print('With assigned ordered port flavors:')
 max_frags = []
 for name, frag_dict in all_frags.items():
     max_frags.append(frag_dict[max(frag_dict.keys())])
@@ -115,4 +120,4 @@ for i, linker_id in enumerate(portlib.get_linker_ids(combo), start=1):
 
 final_frags = Chem.GetMolFrags(combo, asMols=True)
 for frag, name in zip(final_frags, reactant_smiles.keys()):
-    Draw.MolToImageFile(frag, MOLDIR / f'{name}_final_fragment.png')
+    Draw.MolToImageFile(frag, image_dir / f'{name}_final_fragment.png')
