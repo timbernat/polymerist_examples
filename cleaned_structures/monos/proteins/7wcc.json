@@ -1,7 +1,11 @@
 {
-    "monomers": {
-        "FE": [
-            "[#26D0+3:1]"
-        ]
+    "__class__": "MonomerGroup",
+    "__values__": {
+        "monomers": {
+            "FE": [
+                "[#26D0+3:1]"
+            ]
+        },
+        "term_orient": {}
     }
 }

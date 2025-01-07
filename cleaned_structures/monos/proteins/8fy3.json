@@ -1,3 +1,7 @@
 {
-    "monomers": {}
+    "__class__": "MonomerGroup",
+    "__values__": {
+        "monomers": {},
+        "term_orient": {}
+    }
 }
