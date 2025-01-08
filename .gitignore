@@ -168,7 +168,7 @@ testing.ipynb
 
 # demo output files
 polymer_demos/*
-GROMACS_demo/*
+MD_demo_files/*
 
 rxn_demos/*
 RCT_demo/*
