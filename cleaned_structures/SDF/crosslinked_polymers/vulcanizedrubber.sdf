@@ -1,0 +1,235 @@
+
+     RDKit          3D
+
+103106  0  0  0  0  0  0  0  0999 V2000
+   -4.8330    3.4150    1.1860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7750    3.2680    0.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9270    4.2950   -0.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8110    4.4030   -1.1320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6900    5.3710   -0.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6770    5.1230   -1.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860    4.5420   -0.4460 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0350    4.0570   -1.2080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8930    5.1280   -1.8700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1320    4.4940   -2.5070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3460    4.6880   -1.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6930    4.2710   -2.4590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8310    3.2360    0.7720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8460    4.4220    1.6180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6590    2.7160    2.0110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0410    5.1870    0.5000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2280    4.7810   -2.0730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4020    3.4150   -1.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5800    5.3710    0.4120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0170    6.3870   -0.9350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5440    4.4980   -2.2560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0800    5.3130    0.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7240    3.3670   -1.9960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6820    3.4970   -0.5180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3190    5.6700   -2.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1850    5.8740   -1.1200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3960    5.2420   -1.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3810    5.1210   -2.3980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6910    3.9380   -3.4990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0940    3.4670   -1.8330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1800    3.1140    0.5540 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8200    1.7300   -0.9170 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7960    0.1270   -0.0270 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8940   -0.7540   -0.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3180   -0.3060   -0.2500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4660   -0.2090   -1.2920 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.5720    0.6160   -0.6140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7430    0.2170   -0.0840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7220    1.1470    0.5580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6890   -0.3260   -0.0990 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5380    0.4420    0.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9940    0.0750    1.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0240    0.5730    0.3110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4180    0.0230    0.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9200   -2.1370   -0.0230 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4710   -2.6440    1.9120 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4540   -4.4790    1.7460 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9610   -5.0310    2.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0440   -4.3420    1.1770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3880   -5.0570    1.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5730   -5.0990    2.6140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9500   -4.4970    2.3840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6210   -4.5410    1.2170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9030   -3.7730    0.9180 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.0640   -4.7620    0.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4350   -4.1400    0.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3240   -4.1930   -0.2530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6830   -3.5740   -0.2000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0670    0.2740    1.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7690   -0.7990   -1.7650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7810   -1.7810   -0.3260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6390   -0.9600    0.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2340    0.6760    0.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3390    1.6790   -0.5330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0370   -0.8300   -0.0950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6780    1.1050    0.0270 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8910    0.8500    1.5970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3740    2.1850    0.5520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0950   -0.0900   -1.0920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4570    1.5210    0.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1130    0.2950    1.9590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2060   -0.7180    1.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1540    0.8330    0.5160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5050   -0.4090    1.5530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6770   -4.7410    0.7040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2080   -4.9140    3.0990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9640   -6.1080    1.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6730   -4.2750    0.1480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1980   -3.3230    1.5510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3240   -6.0020    0.6250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6890   -5.2960    2.2000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3220   -4.9850    3.6770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3510   -3.9110    3.2090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2020   -5.1130    0.3900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1250   -3.0970    1.7520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0400   -5.5240    1.4800 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9220   -5.3070   -0.2540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6980   -3.6320    1.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0640   -4.6970   -1.1820 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4480   -4.3430   -0.3420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7860   -2.8330   -0.9980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8730   -3.0750    0.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0420    6.0880   -1.7390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6230   -6.1800    2.4330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8820    3.6550   -4.0240 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5050    1.7260   -3.6130 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8800    0.7230   -2.8400 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1800   -1.8290   -1.9390 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -3.4020   -1.3640 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7420   -4.0420    0.4470 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8000    1.8310   -0.8900 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9590   -1.2470   -0.6480 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5350   -2.7330   -0.5800 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 13  1  0
+  1 14  1  0
+  1 15  1  0
+  2  3  2  0
+  2101  1  0
+  3  4  1  0
+  3 16  1  0
+  4  5  1  0
+  4 17  1  0
+  4 18  1  0
+  5  6  1  0
+  5 19  1  0
+  5 20  1  0
+  6  7  1  0
+  6 21  1  0
+  6 93  1  0
+  7  8  1  0
+  7 22  1  1
+  7 31  1  0
+  8  9  1  0
+  8 23  1  0
+  8 24  1  0
+  9 10  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 11  2  0
+ 10 95  1  0
+ 11 12  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 33 34  1  0
+ 33 40  1  0
+ 33 59  1  1
+ 34 35  1  0
+ 34 60  1  0
+ 34 61  1  0
+ 35 36  1  0
+ 35 62  1  0
+ 35 63  1  0
+ 36 37  1  1
+ 36 97  1  0
+ 36 98  1  0
+ 37 38  2  0
+ 37 64  1  0
+ 38 39  1  0
+ 38 65  1  0
+ 39 66  1  0
+ 39 67  1  0
+ 39 68  1  0
+ 40 41  1  0
+ 40 45  1  0
+ 40 69  1  6
+ 41 42  1  0
+ 41 70  1  0
+ 41 71  1  0
+ 42 43  2  0
+ 42 72  1  0
+ 43 44  1  0
+ 43101  1  0
+ 44 73  1  0
+ 44 74  1  0
+ 44102  1  0
+ 45 46  1  0
+ 46 47  1  0
+ 47 48  1  0
+ 47 51  1  0
+ 47 75  1  6
+ 48 49  1  0
+ 48 76  1  0
+ 48 77  1  0
+ 49 50  1  0
+ 49 78  1  0
+ 49 79  1  0
+ 50 80  1  0
+ 50 81  1  0
+ 50100  1  0
+ 51 52  1  0
+ 51 82  1  0
+ 51 94  1  0
+ 52 53  2  0
+ 52 83  1  0
+ 53 54  1  0
+ 53 84  1  0
+ 54 55  1  0
+ 54 85  1  1
+ 54103  1  0
+ 55 56  1  0
+ 55 86  1  0
+ 55 87  1  0
+ 56 57  2  0
+ 56 88  1  0
+ 57 58  1  0
+ 57 89  1  0
+ 58 90  1  0
+ 58 91  1  0
+ 58 92  1  0
+ 95 96  1  0
+ 96 97  1  0
+ 98 99  1  0
+ 99100  1  0
+102103  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"24": ["CH3", 1], "28": ["rubber3", 4], "32": ["rubber4", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["rubber3", 3], "32": ["rubber4", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["rubber3", 2], "32": ["rubber4", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 1], "28": ["rubber3", 1], "32": ["rubber4", 3], "36": ["rubber6", 3], "47": ["rubber9", 3]}', 'substructure_query_id': 3}, 4: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 2], "36": ["rubber6", 2], "37": ["rubber6", 3], "44": ["rubber8", 1], "47": ["rubber9", 2], "48": ["rubber9", 3]}', 'substructure_query_id': 1}, 5: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 3], "36": ["rubber6", 1], "37": ["rubber6", 2], "38": ["rubber6", 9], "44": ["rubber8", 2], "45": ["rubber8", 4], "47": ["rubber9", 1], "48": ["rubber9", 2], "49": ["rubber9", 9]}', 'substructure_query_id': 2}, 6: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["rubber6", 9], "37": ["rubber6", 1], "38": ["rubber6", 1], "44": ["rubber8", 3], "45": ["rubber8", 3], "47": ["rubber9", 9], "48": ["rubber9", 1], "49": ["rubber9", 1]}', 'substructure_query_id': 3}, 7: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["rubber6", 9], "38": ["rubber6", 2], "44": ["rubber8", 4], "45": ["rubber8", 2], "48": ["rubber9", 9], "49": ["rubber9", 2]}', 'substructure_query_id': 4}, 8: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 4], "38": ["rubber6", 3], "42": ["rubber7", 1], "45": ["rubber8", 1], "49": ["rubber9", 3]}', 'substructure_query_id': 1}, 9: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 3], "42": ["rubber7", 2]}', 'substructure_query_id': 2}, 10: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 2], "42": ["rubber7", 3]}', 'substructure_query_id': 3}, 11: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"25": ["CH3", 1], "29": ["rubber3", 1], "42": ["rubber7", 4]}', 'substructure_query_id': 4}, 12: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"24": ["CH3", 2], "28": ["rubber3", 5], "32": ["rubber4", 9]}', 'substructure_query_id': 9}, 13: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"24": ["CH3", 3], "28": ["rubber3", 6], "32": ["rubber4", 10]}', 'substructure_query_id': 10}, 14: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"24": ["CH3", 4], "32": ["rubber4", 11]}', 'substructure_query_id': 11}, 15: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["rubber3", 9], "32": ["rubber4", 7]}', 'substructure_query_id': 7}, 16: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 9], "28": ["rubber3", 10], "32": ["rubber4", 5], "36": ["rubber6", 5], "47": ["rubber9", 5]}', 'substructure_query_id': 5}, 17: {'residue_name': 'rubber4', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 10], "28": ["rubber3", 11], "32": ["rubber4", 6], "36": ["rubber6", 6], "47": ["rubber9", 6]}', 'substructure_query_id': 6}, 18: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 7], "36": ["rubber6", 7], "37": ["rubber6", 5], "44": ["rubber8", 12], "47": ["rubber9", 7], "48": ["rubber9", 5]}', 'substructure_query_id': 12}, 19: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 8], "36": ["rubber6", 8], "37": ["rubber6", 6], "44": ["rubber8", 13], "47": ["rubber9", 8], "48": ["rubber9", 6]}', 'substructure_query_id': 13}, 20: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 4], "37": ["rubber6", 7], "44": ["rubber8", 10], "45": ["rubber8", 6], "48": ["rubber9", 7]}', 'substructure_query_id': 10}, 21: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["rubber6", 12], "37": ["rubber6", 13], "38": ["rubber6", 13], "44": ["rubber8", 8], "45": ["rubber8", 8], "47": ["rubber9", 12], "48": ["rubber9", 13], "49": ["rubber9", 13]}', 'substructure_query_id': 8}, 22: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"38": ["rubber6", 7], "44": ["rubber8", 6], "45": ["rubber8", 10], "49": ["rubber9", 7]}', 'substructure_query_id': 6}, 23: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["rubber6", 12], "38": ["rubber6", 8], "44": ["rubber8", 7], "45": ["rubber8", 11], "48": ["rubber9", 12], "49": ["rubber9", 8]}', 'substructure_query_id': 7}, 24: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 5], "38": ["rubber6", 5], "42": ["rubber7", 10], "45": ["rubber8", 12], "49": ["rubber9", 5]}', 'substructure_query_id': 10}, 25: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 6], "38": ["rubber6", 6], "42": ["rubber7", 11], "45": ["rubber8", 13], "49": ["rubber9", 6]}', 'substructure_query_id': 11}, 26: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["rubber3", 9], "42": ["rubber7", 8]}', 'substructure_query_id': 8}, 27: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"25": ["CH3", 2], "42": ["rubber7", 5]}', 'substructure_query_id': 5}, 28: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"25": ["CH3", 3], "29": ["rubber3", 10], "42": ["rubber7", 6]}', 'substructure_query_id': 6}, 29: {'residue_name': 'rubber7', 'residue_number': 42, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"25": ["CH3", 4], "29": ["rubber3", 11], "42": ["rubber7", 7]}', 'substructure_query_id': 7}, 30: {'residue_name': 'bridge', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["DISULFIDE", 1], "10": ["bridge", 1]}', 'substructure_query_id': 1}, 31: {'residue_name': 'bridge', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["DISULFIDE", 2], "12": ["bridge", 1]}', 'substructure_query_id': 1}, 32: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 1], "50": ["rubber9", 1]}', 'substructure_query_id': 1}, 33: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 2], "50": ["rubber9", 2]}', 'substructure_query_id': 2}, 34: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 3], "50": ["rubber9", 3]}', 'substructure_query_id': 3}, 35: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["rubber5", 1]}', 'substructure_query_id': 1}, 36: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["rubber5", 2]}', 'substructure_query_id': 2}, 37: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["rubber5", 3]}', 'substructure_query_id': 3}, 38: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"26": ["CH3", 1], "34": ["rubber5", 4]}', 'substructure_query_id': 4}, 39: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 9], "50": ["rubber9", 9]}', 'substructure_query_id': 9}, 40: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 1]}', 'substructure_query_id': 1}, 41: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 2]}', 'substructure_query_id': 2}, 42: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 3]}', 'substructure_query_id': 3}, 43: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 4]}', 'substructure_query_id': 4}, 44: {'residue_name': 'bridge', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["DISULFIDE", 1], "15": ["bridge", 1]}', 'substructure_query_id': 1}, 45: {'residue_name': 'bridge', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["DISULFIDE", 2], "17": ["bridge", 1]}', 'substructure_query_id': 1}, 46: {'residue_name': 'rubber9', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 1], "40": ["rubber6", 1], "41": ["rubber6", 9], "46": ["rubber8", 3], "51": ["rubber9", 1], "52": ["rubber9", 9]}', 'substructure_query_id': 9}, 47: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 1], "40": ["rubber6", 2], "41": ["rubber6", 1], "46": ["rubber8", 2], "51": ["rubber9", 2], "52": ["rubber9", 1]}', 'substructure_query_id': 1}, 48: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 2], "40": ["rubber6", 3], "41": ["rubber6", 2], "46": ["rubber8", 1], "51": ["rubber9", 3], "52": ["rubber9", 2]}', 'substructure_query_id': 2}, 49: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 3], "41": ["rubber6", 3], "52": ["rubber9", 3]}', 'substructure_query_id': 3}, 50: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 3], "40": ["rubber6", 9], "46": ["rubber8", 4], "51": ["rubber9", 9]}', 'substructure_query_id': 3}, 51: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 4]}', 'substructure_query_id': 4}, 52: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 5]}', 'substructure_query_id': 5}, 53: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 1]}', 'substructure_query_id': 1}, 54: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 3], "31": ["rubber3", 1], "33": ["rubber4", 3], "35": ["rubber5", 1], "43": ["rubber7", 1]}', 'substructure_query_id': 3}, 55: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 4], "31": ["rubber3", 2], "33": ["rubber4", 2], "35": ["rubber5", 2], "43": ["rubber7", 2]}', 'substructure_query_id': 4}, 56: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 5], "31": ["rubber3", 3], "33": ["rubber4", 1], "35": ["rubber5", 3], "43": ["rubber7", 3]}', 'substructure_query_id': 5}, 57: {'residue_name': 'CH3', 'residue_number': 27, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["CH3", 1], "31": ["rubber3", 4], "33": ["rubber4", 0], "35": ["rubber5", 4], "43": ["rubber7", 4]}', 'substructure_query_id': 1}, 58: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 13], "50": ["rubber9", 13]}', 'substructure_query_id': 13}, 59: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 7], "50": ["rubber9", 7]}', 'substructure_query_id': 7}, 60: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 8], "50": ["rubber9", 8]}', 'substructure_query_id': 8}, 61: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 5], "50": ["rubber9", 5]}', 'substructure_query_id': 5}, 62: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 6], "50": ["rubber9", 6]}', 'substructure_query_id': 6}, 63: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["rubber5", 9]}', 'substructure_query_id': 9}, 64: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["rubber5", 8]}', 'substructure_query_id': 8}, 65: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"26": ["CH3", 2], "34": ["rubber5", 5]}', 'substructure_query_id': 5}, 66: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"26": ["CH3", 3], "34": ["rubber5", 6]}', 'substructure_query_id': 6}, 67: {'residue_name': 'rubber5', 'residue_number': 34, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"26": ["CH3", 4], "34": ["rubber5", 7]}', 'substructure_query_id': 7}, 68: {'residue_name': 'rubber9', 'residue_number': 50, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"39": ["rubber6", 12], "50": ["rubber9", 12]}', 'substructure_query_id': 12}, 69: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 10]}', 'substructure_query_id': 10}, 70: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 11]}', 'substructure_query_id': 11}, 71: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 9]}', 'substructure_query_id': 9}, 72: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 5]}', 'substructure_query_id': 5}, 73: {'residue_name': 'rubber3', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["rubber3", 6]}', 'substructure_query_id': 6}, 74: {'residue_name': 'rubber9', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 11], "40": ["rubber6", 13], "41": ["rubber6", 12], "46": ["rubber8", 8], "51": ["rubber9", 13], "52": ["rubber9", 12]}', 'substructure_query_id': 12}, 75: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 9], "40": ["rubber6", 7], "46": ["rubber8", 10], "51": ["rubber9", 7]}', 'substructure_query_id': 9}, 76: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 10], "40": ["rubber6", 8], "41": ["rubber6", 13], "46": ["rubber8", 11], "51": ["rubber9", 8], "52": ["rubber9", 13]}', 'substructure_query_id': 10}, 77: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 7], "40": ["rubber6", 5], "41": ["rubber6", 7], "46": ["rubber8", 12], "51": ["rubber9", 5], "52": ["rubber9", 7]}', 'substructure_query_id': 7}, 78: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 8], "40": ["rubber6", 6], "41": ["rubber6", 8], "46": ["rubber8", 13], "51": ["rubber9", 6], "52": ["rubber9", 8]}', 'substructure_query_id': 8}, 79: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 4], "41": ["rubber6", 5], "52": ["rubber9", 5]}', 'substructure_query_id': 4}, 80: {'residue_name': 'rubber1', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["rubber1", 5], "41": ["rubber6", 6], "52": ["rubber9", 6]}', 'substructure_query_id': 5}, 81: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 9], "46": ["rubber8", 6]}', 'substructure_query_id': 9}, 82: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 8]}', 'substructure_query_id': 8}, 83: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 7]}', 'substructure_query_id': 7}, 84: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 11]}', 'substructure_query_id': 11}, 85: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 9], "31": ["rubber3", 10], "33": ["rubber4", 5], "43": ["rubber7", 10]}', 'substructure_query_id': 9}, 86: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 10], "31": ["rubber3", 11], "33": ["rubber4", 6], "43": ["rubber7", 11]}', 'substructure_query_id': 10}, 87: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 8], "31": ["rubber3", 9], "33": ["rubber4", 7], "35": ["rubber5", 9]}', 'substructure_query_id': 8}, 88: {'residue_name': 'rubber2', 'residue_number': 23, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["rubber2", 7], "35": ["rubber5", 8], "43": ["rubber7", 8]}', 'substructure_query_id': 7}, 89: {'residue_name': 'CH3', 'residue_number': 27, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["CH3", 2], "31": ["rubber3", 5], "33": ["rubber4", 9], "35": ["rubber5", 5], "43": ["rubber7", 5]}', 'substructure_query_id': 2}, 90: {'residue_name': 'CH3', 'residue_number': 27, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["CH3", 3], "31": ["rubber3", 6], "33": ["rubber4", 10], "35": ["rubber5", 6], "43": ["rubber7", 6]}', 'substructure_query_id': 3}, 91: {'residue_name': 'CH3', 'residue_number': 27, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["CH3", 4], "33": ["rubber4", 11], "35": ["rubber5", 7], "43": ["rubber7", 7]}', 'substructure_query_id': 4}, 92: {'residue_name': 'rubber8', 'residue_number': 44, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["rubber1", 5], "36": ["rubber6", 13], "37": ["rubber6", 8], "38": ["rubber6", 12], "44": ["rubber8", 11], "45": ["rubber8", 7], "47": ["rubber9", 13], "48": ["rubber9", 8], "49": ["rubber9", 12]}', 'substructure_query_id': 11}, 93: {'residue_name': 'rubber2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["rubber2", 10], "40": ["rubber6", 12], "46": ["rubber8", 7], "51": ["rubber9", 12]}', 'substructure_query_id': 10}, 94: {'residue_name': 'bridge', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["DISULFIDE", 1], "11": ["bridge", 1]}', 'substructure_query_id': 1}, 95: {'residue_name': 'bridge', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["DISULFIDE", 2], "2": ["DISULFIDE", 2], "20": ["bridge", 1]}', 'substructure_query_id': 1}, 96: {'residue_name': 'bridge', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["DISULFIDE", 1], "13": ["bridge", 1]}', 'substructure_query_id': 1}, 97: {'residue_name': 'bridge', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["DISULFIDE", 1], "14": ["bridge", 1]}', 'substructure_query_id': 1}, 98: {'residue_name': 'bridge', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["DISULFIDE", 2], "6": ["DISULFIDE", 2], "21": ["bridge", 1]}', 'substructure_query_id': 1}, 99: {'residue_name': 'bridge', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["DISULFIDE", 1], "18": ["bridge", 1]}', 'substructure_query_id': 1}, 100: {'residue_name': 'bridge', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["bridge", 1]}', 'substructure_query_id': 1}, 101: {'residue_name': 'bridge', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["DISULFIDE", 1], "16": ["bridge", 1]}', 'substructure_query_id': 1}, 102: {'residue_name': 'bridge', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["DISULFIDE", 2], "19": ["bridge", 1]}', 'substructure_query_id': 1}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+-0.14078084751059419 -0.057542331507700738 -0.12122490628649599 -0.086970727881687943 -0.13537321611334688 -0.10559379681040651 -0.060907911500233468 -0.10032748802592165
+-0.076490890225666824 0.016037696981531322 -0.13365602119852907 -0.13072508200098878 0.063653040686350998 0.063653040686350998 0.063653040686350998 0.13790293411324614 0.072522688666087326
+0.072522688666087326 0.075512398043376144 0.075512398043376144 0.083251196900111374 0.10010347143719786 0.085470784464579758 0.085470784464579758 0.079955410221320328 0.079955410221320328
+0.12964952365468138 0.04734973982880706 0.04734973982880706 0.04734973982880706 -0.21691578253199464 -0.19405042751719362 -0.0094506973310292345 -0.1054048947899521 -0.05976548417498475
+0.042460188278657142 -0.016410874193805516 -0.14098904653479463 -0.11936347558190233 -0.023550309231776059 -0.066435415288704697 -0.031665798267620858 0.00068690628717535905
+-0.06530373915125734 -0.16675392909933931 -0.18555432184626466 -0.060375072052973565 -0.099382344624298874 -0.10243489964892274 -0.11182363702942735 -0.064423974594372574
+-0.099144380530613724 0.025625485935908496 -0.038295015683668908 -0.062891628584164444 -0.088236879548329178 -0.1185117103069008 -0.12275698407580263 0.11012168602059477
+0.081677664080363449 0.081677664080363449 0.073328409352999863 0.073328409352999863 0.078206587591868576 0.12884895876954192 0.04756454751799697 0.04756454751799697 0.04756454751799697
+0.12043305859873885 0.082121629276972946 0.082121629276972946 0.1262281127364456 0.10879067704985732 0.10879067704985732 0.1108501590878784 0.082638289788466629 0.082638289788466629
+0.076872367420893845 0.076872367420893845 0.09598929063389891 0.09598929063389891 0.08591558412621611 0.12852232531617278 0.10528090969632262 0.1172019429595291 0.085096586504679855
+0.085096586504679855 0.12765474990914458 0.11691940204213255 0.04756454751799697 0.04756454751799697 0.04756454751799697 0.083251196900111374 0.08591558412621611 -0.080164413890141312
+-0.077438708385723892 -0.10524203999926454 -0.11730829997946626 -0.066488314410942856 -0.16868711634566194 -0.25857242568423155 -0.13269970937659151 -0.15333070977618105
+
+$$$$

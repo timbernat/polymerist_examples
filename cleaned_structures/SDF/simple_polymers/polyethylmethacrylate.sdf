@@ -1,0 +1,246 @@
+
+     RDKit          3D
+
+110109  0  0  0  0  0  0  0  0999 V2000
+   -6.4560    1.2020    2.7190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2460    1.0260    1.6520 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -7.1250    2.0250    0.9150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7390   -0.3940    1.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3610   -0.7630    0.4160 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4050   -1.1890    2.4600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8750   -2.5380    2.3650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5300   -3.2510    3.6580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1800    1.8590    1.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0420    1.9270   -0.1710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8860    3.0500    1.2110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3800   -3.0400    1.5270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9600   -2.5480    2.2150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4490   -3.2330    3.8320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8670   -4.2910    3.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9980   -2.7480    4.5110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0160    1.6150    0.1580 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.7100    1.1350    1.4900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2670    3.1330   -0.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5750    0.8620   -1.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0110    1.4110   -2.0500 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5260   -0.4870   -0.8590 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0760   -1.2320   -1.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1960   -2.6890   -1.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2890    0.1560    1.7570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3620    1.8080    2.2880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0320    3.6780    0.9180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2980    3.3630   -0.2770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6700    3.5790   -0.7990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4100   -1.1420   -2.8210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0690   -0.8490   -2.2200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2400   -3.0820   -1.2010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5400   -3.2960   -2.3980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9080   -2.8040   -0.7350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4070    1.3530   -0.8230 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4680    1.3710    0.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6310    2.4750   -1.8340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5220   -0.0000   -1.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8380   -0.1290   -2.7280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2390   -1.0390   -0.7170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2420   -2.3370   -1.3210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2860   -3.3680   -0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3480    0.4230    0.8960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1460    2.1360    1.0750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9110    2.4300   -2.6560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5580    3.4580   -1.3600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6080    2.4010   -2.3190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3210   -2.4610   -1.8980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1050   -2.4640   -1.9820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2800   -4.3830   -0.6190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1850   -3.2380    0.4010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4280   -3.2520    0.4590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3440    1.9200   -0.8550 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0200    1.4400   -0.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2890    3.4630   -1.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5440    1.2870   -2.2330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7690    1.9360   -3.2470 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4860   -0.0710   -2.1880 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8750   -0.7280   -3.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7550   -0.7780   -4.4320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2240    0.4540    0.3010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0800    2.0950    0.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2490    3.8910   -1.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9940    3.9460   -0.0650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5940    3.7890   -1.7790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1570   -1.7520   -3.1440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7680   -0.2520   -3.8330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0690   -1.3960   -4.0670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1130   -1.2150   -5.3690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3500    0.2150   -4.6410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0520    1.4660   -0.2610 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5240    1.5690    0.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4790    2.6210   -1.1800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3240    0.1250   -0.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8420    0.0080   -2.0570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9180   -0.9180   -0.1800 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1270   -2.2230   -0.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1260   -3.1670   -0.1030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2710    0.6160    0.6240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4540    2.3050    0.9550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5170    2.5410   -1.5060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3690    3.5900   -0.6820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9040    2.6400   -2.1090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1470   -2.5460   -0.5100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -2.2270   -1.8250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2340   -3.1700    0.9870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2590   -4.1860   -0.4750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1030   -2.8420   -0.3200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    1.7490    2.5460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3470    1.1110    1.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8550    1.5510    1.0960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2650    1.5650    0.1070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4750   -0.4110    1.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1390   -1.1450    0.7040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7730   -0.8380    2.5130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9080   -2.2350    2.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9780   -2.5700    3.9500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9070    1.3740    2.7750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2670    1.5240    3.4110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9620    2.8390    2.4570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2790    0.9970    1.8510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7890    2.6000    1.4240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3120    1.3160    0.3230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2170    2.6500   -0.0360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0260    1.0690   -0.8370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9440   -2.4480    3.0850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6370   -2.8320    1.9240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2240   -1.9700    4.8330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0480   -3.6290    4.2130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9410   -2.3390    3.6860 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  2 18  1  0
+  3  9  1  0
+  3 10  1  0
+  3 11  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7 12  1  0
+  7 13  1  0
+  8 14  1  0
+  8 15  1  0
+  8 16  1  0
+ 17 18  1  1
+ 17 19  1  0
+ 17 20  1  0
+ 17 36  1  0
+ 18 25  1  0
+ 18 26  1  0
+ 19 27  1  0
+ 19 28  1  0
+ 19 29  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 23 30  1  0
+ 23 31  1  0
+ 24 32  1  0
+ 24 33  1  0
+ 24 34  1  0
+ 35 36  1  1
+ 35 37  1  0
+ 35 38  1  0
+ 35 54  1  0
+ 36 43  1  0
+ 36 44  1  0
+ 37 45  1  0
+ 37 46  1  0
+ 37 47  1  0
+ 38 39  2  0
+ 38 40  1  0
+ 40 41  1  0
+ 41 42  1  0
+ 41 48  1  0
+ 41 49  1  0
+ 42 50  1  0
+ 42 51  1  0
+ 42 52  1  0
+ 53 54  1  1
+ 53 55  1  0
+ 53 56  1  0
+ 53 72  1  0
+ 54 61  1  0
+ 54 62  1  0
+ 55 63  1  0
+ 55 64  1  0
+ 55 65  1  0
+ 56 57  2  0
+ 56 58  1  0
+ 58 59  1  0
+ 59 60  1  0
+ 59 66  1  0
+ 59 67  1  0
+ 60 68  1  0
+ 60 69  1  0
+ 60 70  1  0
+ 71 72  1  1
+ 71 73  1  0
+ 71 74  1  0
+ 71 91  1  0
+ 72 79  1  0
+ 72 80  1  0
+ 73 81  1  0
+ 73 82  1  0
+ 73 83  1  0
+ 74 75  2  0
+ 74 76  1  0
+ 76 77  1  0
+ 77 78  1  0
+ 77 84  1  0
+ 77 85  1  0
+ 78 86  1  0
+ 78 87  1  0
+ 78 88  1  0
+ 89 90  1  0
+ 89 98  1  0
+ 89 99  1  0
+ 89100  1  0
+ 90 91  1  0
+ 90 92  1  0
+ 90 93  1  0
+ 91101  1  0
+ 91102  1  0
+ 92103  1  0
+ 92104  1  0
+ 92105  1  0
+ 93 94  2  0
+ 93 95  1  0
+ 95 96  1  0
+ 96 97  1  0
+ 96106  1  0
+ 96107  1  0
+ 97108  1  0
+ 97109  1  0
+ 97110  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"12": ["polyethylmethacrylate_TERM2", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 1], "12": ["polyethylmethacrylate_TERM2", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 3], "12": ["polyethylmethacrylate_TERM2", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 7], "12": ["polyethylmethacrylate_TERM2", 6]}', 'substructure_query_id': 6}, 4: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 8], "12": ["polyethylmethacrylate_TERM2", 7]}', 'substructure_query_id': 7}, 5: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 9], "12": ["polyethylmethacrylate_TERM2", 8]}', 'substructure_query_id': 8}, 6: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 10], "12": ["polyethylmethacrylate_TERM2", 9]}', 'substructure_query_id': 9}, 7: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 11], "12": ["polyethylmethacrylate_TERM2", 10]}', 'substructure_query_id': 10}, 8: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 4], "12": ["polyethylmethacrylate_TERM2", 3]}', 'substructure_query_id': 3}, 9: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 5], "12": ["polyethylmethacrylate_TERM2", 4]}', 'substructure_query_id': 4}, 10: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 6], "12": ["polyethylmethacrylate_TERM2", 5]}', 'substructure_query_id': 5}, 11: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 15], "12": ["polyethylmethacrylate_TERM2", 14]}', 'substructure_query_id': 14}, 12: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 16], "12": ["polyethylmethacrylate_TERM2", 15]}', 'substructure_query_id': 15}, 13: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 12], "12": ["polyethylmethacrylate_TERM2", 11]}', 'substructure_query_id': 11}, 14: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 13], "12": ["polyethylmethacrylate_TERM2", 12]}', 'substructure_query_id': 12}, 15: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 14], "12": ["polyethylmethacrylate_TERM2", 13]}', 'substructure_query_id': 13}, 16: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 1], "2": ["polyethylmethacrylate", 1]}', 'substructure_query_id': 1}, 17: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 0], "1": ["polyethylmethacrylate", 0], "12": ["polyethylmethacrylate_TERM2", 16]}', 'substructure_query_id': 16}, 18: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 3], "2": ["polyethylmethacrylate", 3]}', 'substructure_query_id': 3}, 19: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 7], "2": ["polyethylmethacrylate", 7]}', 'substructure_query_id': 7}, 20: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 8], "2": ["polyethylmethacrylate", 8]}', 'substructure_query_id': 8}, 21: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 9], "2": ["polyethylmethacrylate", 9]}', 'substructure_query_id': 9}, 22: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 10], "2": ["polyethylmethacrylate", 10]}', 'substructure_query_id': 10}, 23: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 11], "2": ["polyethylmethacrylate", 11]}', 'substructure_query_id': 11}, 24: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 17], "1": ["polyethylmethacrylate", 17], "12": ["polyethylmethacrylate_TERM2", 18]}', 'substructure_query_id': 18}, 25: {'residue_name': 'polyethylmethacrylate_TERM2', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyethylmethacrylate", 19], "1": ["polyethylmethacrylate", 19], "12": ["polyethylmethacrylate_TERM2", 19]}', 'substructure_query_id': 19}, 26: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 4], "2": ["polyethylmethacrylate", 4]}', 'substructure_query_id': 4}, 27: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 5], "2": ["polyethylmethacrylate", 5]}', 'substructure_query_id': 5}, 28: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 6], "2": ["polyethylmethacrylate", 6]}', 'substructure_query_id': 6}, 29: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 15], "2": ["polyethylmethacrylate", 15]}', 'substructure_query_id': 15}, 30: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 16], "2": ["polyethylmethacrylate", 16]}', 'substructure_query_id': 16}, 31: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 12], "2": ["polyethylmethacrylate", 12]}', 'substructure_query_id': 12}, 32: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 13], "2": ["polyethylmethacrylate", 13]}', 'substructure_query_id': 13}, 33: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyethylmethacrylate", 14], "2": ["polyethylmethacrylate", 14]}', 'substructure_query_id': 14}, 34: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 1], "4": ["polyethylmethacrylate", 1]}', 'substructure_query_id': 1}, 35: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polyethylmethacrylate", 0], "3": ["polyethylmethacrylate", 0]}', 'substructure_query_id': 0}, 36: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 3], "4": ["polyethylmethacrylate", 3]}', 'substructure_query_id': 3}, 37: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 7], "4": ["polyethylmethacrylate", 7]}', 'substructure_query_id': 7}, 38: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 8], "4": ["polyethylmethacrylate", 8]}', 'substructure_query_id': 8}, 39: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 9], "4": ["polyethylmethacrylate", 9]}', 'substructure_query_id': 9}, 40: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 10], "4": ["polyethylmethacrylate", 10]}', 'substructure_query_id': 10}, 41: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 11], "4": ["polyethylmethacrylate", 11]}', 'substructure_query_id': 11}, 42: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polyethylmethacrylate", 17], "3": ["polyethylmethacrylate", 17]}', 'substructure_query_id': 17}, 43: {'residue_name': 'polyethylmethacrylate', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polyethylmethacrylate", 19], "3": ["polyethylmethacrylate", 19]}', 'substructure_query_id': 19}, 44: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 4], "4": ["polyethylmethacrylate", 4]}', 'substructure_query_id': 4}, 45: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 5], "4": ["polyethylmethacrylate", 5]}', 'substructure_query_id': 5}, 46: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 6], "4": ["polyethylmethacrylate", 6]}', 'substructure_query_id': 6}, 47: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 15], "4": ["polyethylmethacrylate", 15]}', 'substructure_query_id': 15}, 48: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 16], "4": ["polyethylmethacrylate", 16]}', 'substructure_query_id': 16}, 49: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 12], "4": ["polyethylmethacrylate", 12]}', 'substructure_query_id': 12}, 50: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 13], "4": ["polyethylmethacrylate", 13]}', 'substructure_query_id': 13}, 51: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyethylmethacrylate", 14], "4": ["polyethylmethacrylate", 14]}', 'substructure_query_id': 14}, 52: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 1], "6": ["polyethylmethacrylate", 1]}', 'substructure_query_id': 1}, 53: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polyethylmethacrylate", 0], "5": ["polyethylmethacrylate", 0]}', 'substructure_query_id': 0}, 54: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 3], "6": ["polyethylmethacrylate", 3]}', 'substructure_query_id': 3}, 55: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 7], "6": ["polyethylmethacrylate", 7]}', 'substructure_query_id': 7}, 56: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 8], "6": ["polyethylmethacrylate", 8]}', 'substructure_query_id': 8}, 57: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 9], "6": ["polyethylmethacrylate", 9]}', 'substructure_query_id': 9}, 58: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 10], "6": ["polyethylmethacrylate", 10]}', 'substructure_query_id': 10}, 59: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 11], "6": ["polyethylmethacrylate", 11]}', 'substructure_query_id': 11}, 60: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polyethylmethacrylate", 17], "5": ["polyethylmethacrylate", 17]}', 'substructure_query_id': 17}, 61: {'residue_name': 'polyethylmethacrylate', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polyethylmethacrylate", 19], "5": ["polyethylmethacrylate", 19]}', 'substructure_query_id': 19}, 62: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 4], "6": ["polyethylmethacrylate", 4]}', 'substructure_query_id': 4}, 63: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 5], "6": ["polyethylmethacrylate", 5]}', 'substructure_query_id': 5}, 64: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 6], "6": ["polyethylmethacrylate", 6]}', 'substructure_query_id': 6}, 65: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 15], "6": ["polyethylmethacrylate", 15]}', 'substructure_query_id': 15}, 66: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 16], "6": ["polyethylmethacrylate", 16]}', 'substructure_query_id': 16}, 67: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 12], "6": ["polyethylmethacrylate", 12]}', 'substructure_query_id': 12}, 68: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 13], "6": ["polyethylmethacrylate", 13]}', 'substructure_query_id': 13}, 69: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyethylmethacrylate", 14], "6": ["polyethylmethacrylate", 14]}', 'substructure_query_id': 14}, 70: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 1], "9": ["polyethylmethacrylate", 1]}', 'substructure_query_id': 1}, 71: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polyethylmethacrylate", 0], "7": ["polyethylmethacrylate", 0]}', 'substructure_query_id': 0}, 72: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 3], "9": ["polyethylmethacrylate", 3]}', 'substructure_query_id': 3}, 73: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 7], "9": ["polyethylmethacrylate", 7]}', 'substructure_query_id': 7}, 74: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 8], "9": ["polyethylmethacrylate", 8]}', 'substructure_query_id': 8}, 75: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 9], "9": ["polyethylmethacrylate", 9]}', 'substructure_query_id': 9}, 76: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 10], "9": ["polyethylmethacrylate", 10]}', 'substructure_query_id': 10}, 77: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 11], "9": ["polyethylmethacrylate", 11]}', 'substructure_query_id': 11}, 78: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polyethylmethacrylate", 17], "7": ["polyethylmethacrylate", 17]}', 'substructure_query_id': 17}, 79: {'residue_name': 'polyethylmethacrylate', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polyethylmethacrylate", 19], "7": ["polyethylmethacrylate", 19]}', 'substructure_query_id': 19}, 80: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 4], "9": ["polyethylmethacrylate", 4]}', 'substructure_query_id': 4}, 81: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 5], "9": ["polyethylmethacrylate", 5]}', 'substructure_query_id': 5}, 82: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 6], "9": ["polyethylmethacrylate", 6]}', 'substructure_query_id': 6}, 83: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 15], "9": ["polyethylmethacrylate", 15]}', 'substructure_query_id': 15}, 84: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 16], "9": ["polyethylmethacrylate", 16]}', 'substructure_query_id': 16}, 85: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 12], "9": ["polyethylmethacrylate", 12]}', 'substructure_query_id': 12}, 86: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 13], "9": ["polyethylmethacrylate", 13]}', 'substructure_query_id': 13}, 87: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyethylmethacrylate", 14], "9": ["polyethylmethacrylate", 14]}', 'substructure_query_id': 14}, 88: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 0], "11": ["polyethylmethacrylate", 3], "13": ["polyethylmethacrylate_TERM3", 0]}', 'substructure_query_id': 0}, 89: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 1], "10": ["polyethylmethacrylate", 1], "11": ["polyethylmethacrylate", 1], "13": ["polyethylmethacrylate_TERM3", 1]}', 'substructure_query_id': 1}, 90: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyethylmethacrylate", 0], "10": ["polyethylmethacrylate", 0], "11": ["polyethylmethacrylate", 0]}', 'substructure_query_id': 0}, 91: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 3], "10": ["polyethylmethacrylate", 3], "13": ["polyethylmethacrylate_TERM3", 3]}', 'substructure_query_id': 3}, 92: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 7], "10": ["polyethylmethacrylate", 7], "11": ["polyethylmethacrylate", 7], "13": ["polyethylmethacrylate_TERM3", 7]}', 'substructure_query_id': 7}, 93: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 8], "10": ["polyethylmethacrylate", 8], "11": ["polyethylmethacrylate", 8], "13": ["polyethylmethacrylate_TERM3", 8]}', 'substructure_query_id': 8}, 94: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 9], "10": ["polyethylmethacrylate", 9], "11": ["polyethylmethacrylate", 9], "13": ["polyethylmethacrylate_TERM3", 9]}', 'substructure_query_id': 9}, 95: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 10], "10": ["polyethylmethacrylate", 10], "11": ["polyethylmethacrylate", 10], "13": ["polyethylmethacrylate_TERM3", 10]}', 'substructure_query_id': 10}, 96: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 11], "10": ["polyethylmethacrylate", 11], "11": ["polyethylmethacrylate", 11], "13": ["polyethylmethacrylate_TERM3", 11]}', 'substructure_query_id': 11}, 97: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 17], "11": ["polyethylmethacrylate", 4], "13": ["polyethylmethacrylate_TERM3", 17]}', 'substructure_query_id': 17}, 98: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyethylmethacrylate", 5], "13": ["polyethylmethacrylate_TERM3", 18]}', 'substructure_query_id': 18}, 99: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 19], "11": ["polyethylmethacrylate", 6], "13": ["polyethylmethacrylate_TERM3", 19]}', 'substructure_query_id': 19}, 100: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyethylmethacrylate", 17], "10": ["polyethylmethacrylate", 17], "11": ["polyethylmethacrylate", 17]}', 'substructure_query_id': 17}, 101: {'residue_name': 'polyethylmethacrylate', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyethylmethacrylate", 19], "10": ["polyethylmethacrylate", 19], "11": ["polyethylmethacrylate", 19]}', 'substructure_query_id': 19}, 102: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 4], "10": ["polyethylmethacrylate", 4], "13": ["polyethylmethacrylate_TERM3", 4]}', 'substructure_query_id': 4}, 103: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 5], "10": ["polyethylmethacrylate", 5], "13": ["polyethylmethacrylate_TERM3", 5]}', 'substructure_query_id': 5}, 104: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 6], "10": ["polyethylmethacrylate", 6], "13": ["polyethylmethacrylate_TERM3", 6]}', 'substructure_query_id': 6}, 105: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 15], "10": ["polyethylmethacrylate", 15], "11": ["polyethylmethacrylate", 15], "13": ["polyethylmethacrylate_TERM3", 15]}', 'substructure_query_id': 15}, 106: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 16], "10": ["polyethylmethacrylate", 16], "11": ["polyethylmethacrylate", 16], "13": ["polyethylmethacrylate_TERM3", 16]}', 'substructure_query_id': 16}, 107: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 12], "10": ["polyethylmethacrylate", 12], "11": ["polyethylmethacrylate", 12], "13": ["polyethylmethacrylate_TERM3", 12]}', 'substructure_query_id': 12}, 108: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 13], "10": ["polyethylmethacrylate", 13], "11": ["polyethylmethacrylate", 13], "13": ["polyethylmethacrylate_TERM3", 13]}', 'substructure_query_id': 13}, 109: {'residue_name': 'polyethylmethacrylate_TERM3', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polyethylmethacrylate", 14], "10": ["polyethylmethacrylate", 14], "11": ["polyethylmethacrylate", 14], "13": ["polyethylmethacrylate_TERM3", 14]}', 'substructure_query_id': 14}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+0.12413984042677012 -0.15618817257610235 -0.13623304414478216 0.72851372015747162 -0.55073791491714386 -0.49275281774726781 0.12337976199659434 -0.13634492206302556 0.063330235603180796
+0.063330235603180796 0.063330235603180796 0.067205416682091623 0.067205416682091623 0.049522577497092157 0.049522577497092157 0.049522577497092157 -0.0859486882659522 -0.14259272563186559
+-0.14090010273185644 0.68562186014923188 -0.55230784165588287 -0.48946296918121251 0.12269398075613108 -0.13634492206302556 0.12544775259765711 0.12544775259765711 0.06476731103929606
+0.06476731103929606 0.06476731103929606 0.067205416682091623 0.067205416682091623 0.049522577497092157 0.049522577497092157 0.049522577497092157 -0.087100428816947073 -0.14468957233158025
+-0.14128552126613531 0.6851184989241037 -0.55230784165588287 -0.48946296918121251 0.12269398075613108 -0.13634492206302556 0.13016218197616664 0.13016218197616664 0.06476731103929606
+0.06476731103929606 0.06476731103929606 0.067205416682091623 0.067205416682091623 0.049522577497092157 0.049522577497092157 0.049522577497092157 -0.087100428816947073 -0.14497557031837377
+-0.14128552126613531 0.6851184989241037 -0.55230784165588287 -0.48946296918121251 0.12269398075613108 -0.13634492206302556 0.13016218197616664 0.13016218197616664 0.06476731103929606
+0.06476731103929606 0.06476731103929606 0.067205416682091623 0.067205416682091623 0.049522577497092157 0.049522577497092157 0.049522577497092157 -0.085224789855155081 -0.14497555541721258
+-0.14128552126613531 0.6851184989241037 -0.55230784165588287 -0.48946296918121251 0.12269398075613108 -0.13634492206302556 0.13016218197616664 0.13016218197616664 0.06476731103929606
+0.06476731103929606 0.06476731103929606 0.067205416682091623 0.067205416682091623 0.049522577497092157 0.049522577497092157 0.049522577497092157 -0.1433660660955039 -0.10826205211606893
+-0.14766245829788122 -0.1433660660955039 0.69074636948379609 -0.54655849683013824 -0.48900913941589269 0.12269398075613108 -0.13634492206302556 0.067596661570397287 0.067596661570397287
+0.067596661570397287 0.13145403814586726 0.13145403814586726 0.067596661570397287 0.067596661570397287 0.067596661570397287 0.067205416682091623 0.067205416682091623 0.049522577497092157
+0.049522577497092157 0.049522577497092157
+
+$$$$

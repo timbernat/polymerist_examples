@@ -1,0 +1,144 @@
+
+     RDKit          3D
+
+ 62 61  0  0  0  0  0  0  0  0999 V2000
+    3.1860    4.2750   -4.9640 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2860    2.7680   -4.6770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3270    2.4460   -4.8190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5510    4.4980   -5.9710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3090    5.1360   -3.8540 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860    4.8550   -4.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7930    5.9430   -4.9260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0990    4.4490   -5.5480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3690    1.8740   -5.5250 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7030    2.1230   -7.2740 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3230    2.1590   -5.3830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5380    0.3720   -5.2260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2680   -0.0600   -3.7740 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6170    0.4170   -3.2750 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9630    0.4580   -3.1080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5620    0.0700   -5.4880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8740   -0.1960   -5.8930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4590   -1.5800   -3.6210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1950   -2.1540   -2.2160 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1400   -2.0230   -1.9630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4550   -3.9300   -2.2910 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4870   -1.8270   -3.9200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8020   -2.0920   -4.3380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0600    2.6040   -3.6170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0850   -1.5290   -1.1300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9230   -2.1070    0.2910 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0860   -1.2390    1.3570 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2380   -3.1530    0.3020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1360   -1.6290   -1.4360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8810   -0.4520   -1.0830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4920   -1.9520    0.8420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7870   -2.4560    0.1700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2630   -2.4970    2.2640 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1880   -2.3220    2.7530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8540   -2.9060    2.1040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2780   -2.7620    3.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6370   -4.2570    2.3120 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9480   -2.0310    2.9770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7140   -0.8760    2.7990 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3300    0.1350    3.8420 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6720   -0.4450    1.7970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1650   -0.8510    3.3210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8520    0.5260    3.2890 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.2910    0.4970    3.8400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7340    1.4970    3.7300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8850   -0.1720    3.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2620    1.2710    3.8280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9390    1.1210    1.5890 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7660   -1.5570    2.7330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1630   -1.2350    4.3480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4410    0.0530    5.3040 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.4410    1.0900    6.3770 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0570   -0.9620    5.4340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2350   -0.8870    0.8130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8920    0.1150    5.8080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9020   -0.7160    5.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4540   -2.4340    4.9590 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0080   -0.3560    3.9930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2400    1.1570    5.8060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9230   -0.2030    6.8590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3790    4.6300   -3.8070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8820   -0.6340    5.5040 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  4  1  6
+  1  5  1  0
+  1  6  1  0
+  2  3  1  0
+  2  9  1  0
+  2 24  1  0
+  6  7  1  0
+  6  8  1  0
+  6 61  1  0
+  9 10  1  0
+  9 11  1  6
+  9 12  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 12 17  1  0
+ 13 14  1  0
+ 13 15  1  1
+ 13 18  1  0
+ 18 19  1  0
+ 18 22  1  0
+ 18 23  1  0
+ 19 20  1  1
+ 19 21  1  0
+ 19 25  1  0
+ 25 26  1  0
+ 25 29  1  0
+ 25 30  1  0
+ 26 27  1  0
+ 26 28  1  6
+ 26 31  1  0
+ 31 32  1  0
+ 31 33  1  0
+ 31 54  1  0
+ 33 34  1  0
+ 33 37  1  0
+ 33 38  1  1
+ 34 35  1  0
+ 34 36  1  0
+ 34 39  1  0
+ 39 40  1  0
+ 39 41  1  6
+ 39 42  1  0
+ 42 43  1  0
+ 42 49  1  0
+ 42 50  1  0
+ 43 44  1  0
+ 43 47  1  1
+ 43 48  1  0
+ 44 45  1  0
+ 44 46  1  0
+ 44 51  1  0
+ 51 52  1  0
+ 51 53  1  6
+ 51 55  1  0
+ 55 56  1  0
+ 55 59  1  0
+ 55 60  1  0
+ 56 57  1  0
+ 56 58  1  0
+ 56 62  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 4], "2": ["polyvinylchloride", 4], "20": ["polyvinylchloride_TERM4", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 1], "2": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 2], "2": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 6], "2": ["polyvinylchloride", 6], "20": ["polyvinylchloride_TERM4", 2]}', 'substructure_query_id': 2}, 4: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 5], "2": ["polyvinylchloride", 5], "20": ["polyvinylchloride_TERM4", 3]}', 'substructure_query_id': 3}, 5: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 1], "20": ["polyvinylchloride_TERM4", 4]}', 'substructure_query_id': 4}, 6: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["polyvinylchloride_TERM4", 5]}', 'substructure_query_id': 5}, 7: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 2], "20": ["polyvinylchloride_TERM4", 6]}', 'substructure_query_id': 6}, 8: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 4], "4": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 9: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 5], "4": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 10: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 6], "4": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 11: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 1], "4": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 12: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 4], "6": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 13: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 5], "6": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 14: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 6], "6": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 15: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 2], "4": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 16: {'residue_name': 'polyvinylchloride', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polyvinylchloride", 3], "4": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 17: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 1], "6": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 18: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 4], "8": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 19: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 6], "8": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 20: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 5], "8": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 21: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 2], "6": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 22: {'residue_name': 'polyvinylchloride', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polyvinylchloride", 3], "6": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 23: {'residue_name': 'polyvinylchloride', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polyvinylchloride", 3], "2": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 24: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 1], "8": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 25: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 4], "10": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 26: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 5], "10": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 27: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 6], "10": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 28: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 2], "8": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 29: {'residue_name': 'polyvinylchloride', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polyvinylchloride", 3], "8": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 30: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 1], "10": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 31: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 2], "10": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 32: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 4], "12": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 33: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 1], "12": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 34: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 2], "12": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 35: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 3], "12": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 36: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 5], "12": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 37: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 6], "12": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 38: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 4], "14": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 39: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 5], "14": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 40: {'residue_name': 'polyvinylchloride', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polyvinylchloride", 6], "14": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 41: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 1], "14": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 42: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 4], "16": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 43: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 1], "16": ["polyvinylchloride", 1]}', 'substructure_query_id': 1}, 44: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 2], "16": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 45: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 3], "16": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 46: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 6], "16": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 47: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 5], "16": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 48: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 2], "14": ["polyvinylchloride", 2]}', 'substructure_query_id': 2}, 49: {'residue_name': 'polyvinylchloride', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["polyvinylchloride", 3], "14": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 50: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 4], "18": ["polyvinylchloride", 4]}', 'substructure_query_id': 4}, 51: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 5], "18": ["polyvinylchloride", 5]}', 'substructure_query_id': 5}, 52: {'residue_name': 'polyvinylchloride', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["polyvinylchloride", 6], "18": ["polyvinylchloride", 6]}', 'substructure_query_id': 6}, 53: {'residue_name': 'polyvinylchloride', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polyvinylchloride", 3], "10": ["polyvinylchloride", 3]}', 'substructure_query_id': 3}, 54: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 1], "18": ["polyvinylchloride", 1], "19": ["polyvinylchloride_TERM2", 1]}', 'substructure_query_id': 1}, 55: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 4], "19": ["polyvinylchloride_TERM2", 2]}', 'substructure_query_id': 2}, 56: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 5], "19": ["polyvinylchloride_TERM2", 3]}', 'substructure_query_id': 3}, 57: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 6], "19": ["polyvinylchloride_TERM2", 4]}', 'substructure_query_id': 4}, 58: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 2], "18": ["polyvinylchloride", 2], "19": ["polyvinylchloride_TERM2", 6]}', 'substructure_query_id': 6}, 59: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["polyvinylchloride", 3], "18": ["polyvinylchloride", 3], "19": ["polyvinylchloride_TERM2", 7]}', 'substructure_query_id': 7}, 60: {'residue_name': 'polyvinylchloride_TERM4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polyvinylchloride", 3], "20": ["polyvinylchloride_TERM4", 7]}', 'substructure_query_id': 7}, 61: {'residue_name': 'polyvinylchloride_TERM2', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["polyvinylchloride_TERM2", 5]}', 'substructure_query_id': 5}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+-0.072876623681476044 -0.12177934389441245 0.13167941678435571 0.10097177434832819 -0.20774876963227026 -0.12317330282061331 0.085380659588882996 0.085380659588882996 -0.044352932682921807
+-0.19960598539440863 0.10209383923680551 -0.11541373174517386 -0.046327157727172295 -0.19960601519673102 0.10209383923680551 0.13054101277262933 0.13054101277262933 -0.11541370194285147
+-0.046327180078914086 0.10209384668738611 -0.19960601519673102 0.13054099787146814 0.13054099787146814 0.13167941678435571 -0.11541369449227087 -0.046327161452462594 -0.19960601519673102
+0.10209383923680551 0.13054099787146814 0.13054099787146814 -0.11541370194285147 0.13054101277262933 -0.046327180078914086 -0.11541371684401266 0.13054099787146814 0.13054099787146814
+-0.19960600029556982 0.10209384668738611 -0.046327168903043191 -0.19960601519673102 0.10209384668738611 -0.11541372429459326 -0.0463271465513014 -0.11477525424092047 0.13054099787146814
+0.13054099787146814 0.1020938615885473 -0.19960600029556982 0.13054102767379053 0.13054102767379053 -0.050061362645318429 -0.19966268431275122 0.10246023643882043 0.13054101277262933
+-0.11111687760679953 -0.070310837438990997 -0.20678655695049994 0.091347673126766754 0.12123634029299982 0.12123634029299982 0.085380637237141205 0.091347695478508545
+
+$$$$

@@ -1,0 +1,430 @@
+
+     RDKit          3D
+
+192201  0  0  0  0  0  0  0  0999 V2000
+   -0.1030    1.9840   -6.9860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7270    0.7470   -7.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9640   -0.2460   -6.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1460    0.5260   -8.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8340    1.5840   -9.2850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0550    2.8420   -8.4710 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1890    0.1090   -5.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4030   -0.9100   -4.0400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6130   -0.5560   -3.1900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2330    1.6390  -11.1030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4470    2.5820   -5.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0840    3.6300   -5.0800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6980    3.9750   -3.9230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8260    3.1690   -3.8350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2910    5.0570   -2.9580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9050    2.0280   -5.1130 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3310    4.4930   -1.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7360    5.6110   -0.7190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3470    5.0550    0.5580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8520    3.1730   -2.8240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1380    2.1590   -1.9350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2030    2.4850   -1.0250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6560    1.5520    0.0670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7030    3.7540   -1.2890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8950    4.5030   -2.6030 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1050    1.9480    1.4390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5800    0.9850    2.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0430    1.3800    3.8930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7380    4.4690   -0.5900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5890    5.6290    0.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8060    6.0720    0.7630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8640    7.2850    1.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8580    5.2190    0.4470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3580    3.9390   -0.5810 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9380    6.9190    3.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9960    8.1690    4.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0800    7.8100    5.4910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2260    5.2730    0.8990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8980    4.2990    1.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2400    4.6740    1.9650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5420    5.9400    1.4770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1360    3.7890    2.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2340    6.6150    0.5960 S   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2320    4.2490    4.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1460    3.3320    5.0600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2510    3.7890    6.5060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7470    6.7090    1.6590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8520    7.9350    2.2830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2010    8.4240    2.3570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5630    9.7140    3.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0780    7.5350    1.7480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2650    6.1710    1.1010 S   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1260    9.4850    4.4500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4770   10.8090    5.1290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0390   10.5860    6.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5120    7.6230    1.6460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4310    6.7720    2.2230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7940    7.1520    1.9720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9700    6.4040    2.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8470    8.2890    1.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2840    8.8540    0.7550 S   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5500    7.0910    3.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7390    6.3110    4.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3230    6.9940    5.5690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0090    9.0100    0.7290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3890   10.2790    1.1110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6220   10.7080    0.5100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2610   12.0370    0.8110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1180    9.7290   -0.3410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1100    8.3430   -0.3880 S   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3720   11.9200    1.8570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0010   13.2810    2.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1080   13.1690    3.1900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3300    9.7520   -1.1140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4570    8.9840   -0.9090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5060    9.2550   -1.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1100   10.2280   -2.7610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8310    8.5410   -1.8350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5160   10.7800   -2.4620 S   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8680    7.3610   -2.8090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2210    6.6510   -2.7700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2640    5.4800   -3.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8790   10.7850   -3.8430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0250   11.5480   -3.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5670   11.9380   -5.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7770   11.4320   -6.0270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0870   11.6830   -7.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8080   12.7740   -5.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4480   10.5320   -5.4770 S   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4910   14.2690   -5.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7670   15.0990   -5.3960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4580   16.5840   -5.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0750   -0.3190   -5.3710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1030   -1.2440   -6.4450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6530   -0.3690   -8.8160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0810    0.1500   -5.7970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0680    1.1080   -4.7230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5150   -0.9520   -3.4000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5440   -1.9090   -4.4680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7480   -1.2970   -2.3960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5250   -0.5350   -3.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4890    0.4250   -2.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0100    4.1230   -5.3550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4340    5.7200   -3.4490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    5.6880   -2.7150 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3780    3.8230   -1.1770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2110    3.8870   -1.9310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4600    6.2750   -1.2040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1400    6.2180   -0.4630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6350    4.4120    1.0850 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2440    4.4680    0.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6290    5.8710    1.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5920    1.2230   -1.9150 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7500    1.5100    0.0960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3250    0.5330   -0.1730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0080    1.9570    1.4080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4200    2.9670    1.6930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6760    0.9740    2.5610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2520   -0.0340    2.2920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3940    0.6780    4.6560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9480    1.3710    3.9010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3810    2.3830    4.1720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6350    6.1330    0.2510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9690    7.8980    1.4820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7120    7.9180    1.3740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8220    6.2990    3.3330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0640    6.3140    3.4140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1050    8.7850    3.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8680    8.7750    3.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9780    7.2210    5.7010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2060    7.2290    5.8040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1190    8.7190    6.1000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4390    3.3600    1.8940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1330    3.7390    2.3410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7470    2.7630    2.7650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2310    4.2640    4.6970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6130    5.2760    4.2970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1480    3.3160    4.6140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7630    2.3050    5.0340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6640    4.8020    6.5680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9100    3.1200    7.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2700    3.7870    6.9900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9980    8.4550    2.7030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6670   10.3450    3.1140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2780   10.2790    2.4370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0210    8.8540    4.4000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3920    8.9410    5.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5840   11.4410    5.1980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2140   11.3520    4.5270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9530    9.9840    6.4870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3140   10.0720    7.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2830   11.5450    6.9920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1430    5.9190    2.8280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7460    6.2830    1.7790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6520    5.3870    2.8090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7730    7.1830    4.5510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8690    8.1100    3.5330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5190    6.2190    3.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4260    5.2950    4.6110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1720    6.4200    5.9540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5770    7.0740    6.3660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6760    8.0010    5.3260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8190   10.8770    1.8140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4910   12.7290    1.1770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6540   12.4850   -0.1080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1480   11.2290    1.5060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9660   11.4920    2.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2350   13.9740    2.5200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4140   13.7090    1.2330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9070   12.5070    2.8410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7220   12.7720    4.1350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5440   14.1530    3.3880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5350    8.2570   -0.1080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0290    8.1790   -0.8180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6390    9.2440   -2.0660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6680    7.7100   -3.8300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0710    6.6490   -2.5590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4210    6.2870   -1.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.0190    7.3580   -3.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.2400    4.9870   -3.6940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0990    5.8160   -4.7670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4970    4.7390   -3.4920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4620   11.8250   -2.7860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3790   12.4520   -6.0390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4610   12.5950   -4.2960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9430   14.5880   -4.3580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8330   14.4600   -6.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3150   14.7890   -6.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4240   14.9210   -4.5370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.9370   16.9340   -4.5920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8280   16.8000   -6.3580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3840   17.1590   -5.5900 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  1 11  1  0
+  2  3  1  0
+  2  4  1  0
+  3  7  1  0
+  3 93  1  0
+  3 94  1  0
+  4  5  2  0
+  4 95  1  0
+  5  6  1  0
+  5 10  1  0
+  7  8  1  0
+  7 96  1  0
+  7 97  1  0
+  8  9  1  0
+  8 98  1  0
+  8 99  1  0
+  9100  1  0
+  9101  1  0
+  9102  1  0
+ 11 12  2  0
+ 11 16  1  0
+ 12 13  1  0
+ 12103  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 16  1  0
+ 14 20  1  0
+ 15 17  1  0
+ 15104  1  0
+ 15105  1  0
+ 17 18  1  0
+ 17106  1  0
+ 17107  1  0
+ 18 19  1  0
+ 18108  1  0
+ 18109  1  0
+ 19110  1  0
+ 19111  1  0
+ 19112  1  0
+ 20 21  2  0
+ 20 25  1  0
+ 21 22  1  0
+ 21113  1  0
+ 22 23  1  0
+ 22 24  2  0
+ 23 26  1  0
+ 23114  1  0
+ 23115  1  0
+ 24 25  1  0
+ 24 29  1  0
+ 26 27  1  0
+ 26116  1  0
+ 26117  1  0
+ 27 28  1  0
+ 27118  1  0
+ 27119  1  0
+ 28120  1  0
+ 28121  1  0
+ 28122  1  0
+ 29 30  2  0
+ 29 34  1  0
+ 30 31  1  0
+ 30123  1  0
+ 31 32  1  0
+ 31 33  2  0
+ 32 35  1  0
+ 32124  1  0
+ 32125  1  0
+ 33 34  1  0
+ 33 38  1  0
+ 35 36  1  0
+ 35126  1  0
+ 35127  1  0
+ 36 37  1  0
+ 36128  1  0
+ 36129  1  0
+ 37130  1  0
+ 37131  1  0
+ 37132  1  0
+ 38 39  2  0
+ 38 43  1  0
+ 39 40  1  0
+ 39133  1  0
+ 40 41  2  0
+ 40 42  1  0
+ 41 43  1  0
+ 41 47  1  0
+ 42 44  1  0
+ 42134  1  0
+ 42135  1  0
+ 44 45  1  0
+ 44136  1  0
+ 44137  1  0
+ 45 46  1  0
+ 45138  1  0
+ 45139  1  0
+ 46140  1  0
+ 46141  1  0
+ 46142  1  0
+ 47 48  2  0
+ 47 52  1  0
+ 48 49  1  0
+ 48143  1  0
+ 49 50  1  0
+ 49 51  2  0
+ 50 53  1  0
+ 50144  1  0
+ 50145  1  0
+ 51 52  1  0
+ 51 56  1  0
+ 53 54  1  0
+ 53146  1  0
+ 53147  1  0
+ 54 55  1  0
+ 54148  1  0
+ 54149  1  0
+ 55150  1  0
+ 55151  1  0
+ 55152  1  0
+ 56 57  2  0
+ 56 61  1  0
+ 57 58  1  0
+ 57153  1  0
+ 58 59  1  0
+ 58 60  2  0
+ 59 62  1  0
+ 59154  1  0
+ 59155  1  0
+ 60 61  1  0
+ 60 65  1  0
+ 62 63  1  0
+ 62156  1  0
+ 62157  1  0
+ 63 64  1  0
+ 63158  1  0
+ 63159  1  0
+ 64160  1  0
+ 64161  1  0
+ 64162  1  0
+ 65 66  2  0
+ 65 70  1  0
+ 66 67  1  0
+ 66163  1  0
+ 67 68  1  0
+ 67 69  2  0
+ 68 71  1  0
+ 68164  1  0
+ 68165  1  0
+ 69 70  1  0
+ 69 74  1  0
+ 71 72  1  0
+ 71166  1  0
+ 71167  1  0
+ 72 73  1  0
+ 72168  1  0
+ 72169  1  0
+ 73170  1  0
+ 73171  1  0
+ 73172  1  0
+ 74 75  2  0
+ 74 79  1  0
+ 75 76  1  0
+ 75173  1  0
+ 76 77  2  0
+ 76 78  1  0
+ 77 79  1  0
+ 77 83  1  0
+ 78 80  1  0
+ 78174  1  0
+ 78175  1  0
+ 80 81  1  0
+ 80176  1  0
+ 80177  1  0
+ 81 82  1  0
+ 81178  1  0
+ 81179  1  0
+ 82180  1  0
+ 82181  1  0
+ 82182  1  0
+ 83 84  2  0
+ 83 89  1  0
+ 84 85  1  0
+ 84183  1  0
+ 85 86  2  0
+ 85 88  1  0
+ 86 87  1  0
+ 86 89  1  0
+ 88 90  1  0
+ 88184  1  0
+ 88185  1  0
+ 90 91  1  0
+ 90186  1  0
+ 90187  1  0
+ 91 92  1  0
+ 91188  1  0
+ 91189  1  0
+ 92190  1  0
+ 92191  1  0
+ 92192  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 4], "10": ["polythiophene_TERM1", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 3], "10": ["polythiophene_TERM1", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 7], "10": ["polythiophene_TERM1", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 2], "10": ["polythiophene_TERM1", 15]}', 'substructure_query_id': 15}, 4: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 1], "10": ["polythiophene_TERM1", 16]}', 'substructure_query_id': 16}, 5: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 5], "10": ["polythiophene_TERM1", 17]}', 'substructure_query_id': 17}, 6: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 8], "10": ["polythiophene_TERM1", 3]}', 'substructure_query_id': 3}, 7: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 9], "10": ["polythiophene_TERM1", 4]}', 'substructure_query_id': 4}, 8: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 10], "10": ["polythiophene_TERM1", 5]}', 'substructure_query_id': 5}, 9: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"10": ["polythiophene_TERM1", 18]}', 'substructure_query_id': 18}, 10: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 1]}', 'substructure_query_id': 1}, 11: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 2]}', 'substructure_query_id': 2}, 12: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 3]}', 'substructure_query_id': 3}, 13: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 4]}', 'substructure_query_id': 4}, 14: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 7]}', 'substructure_query_id': 7}, 15: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 5]}', 'substructure_query_id': 5}, 16: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 8]}', 'substructure_query_id': 8}, 17: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 9]}', 'substructure_query_id': 9}, 18: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 10]}', 'substructure_query_id': 10}, 19: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 1]}', 'substructure_query_id': 1}, 20: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 2]}', 'substructure_query_id': 2}, 21: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 3]}', 'substructure_query_id': 3}, 22: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 7]}', 'substructure_query_id': 7}, 23: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 4]}', 'substructure_query_id': 4}, 24: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 5]}', 'substructure_query_id': 5}, 25: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 8]}', 'substructure_query_id': 8}, 26: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 9]}', 'substructure_query_id': 9}, 27: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 10]}', 'substructure_query_id': 10}, 28: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 1]}', 'substructure_query_id': 1}, 29: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 2]}', 'substructure_query_id': 2}, 30: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 3]}', 'substructure_query_id': 3}, 31: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 7]}', 'substructure_query_id': 7}, 32: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 4]}', 'substructure_query_id': 4}, 33: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 5]}', 'substructure_query_id': 5}, 34: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 8]}', 'substructure_query_id': 8}, 35: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 9]}', 'substructure_query_id': 9}, 36: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 10]}', 'substructure_query_id': 10}, 37: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 1]}', 'substructure_query_id': 1}, 38: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 2]}', 'substructure_query_id': 2}, 39: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 3]}', 'substructure_query_id': 3}, 40: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 4]}', 'substructure_query_id': 4}, 41: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 7]}', 'substructure_query_id': 7}, 42: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 5]}', 'substructure_query_id': 5}, 43: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 8]}', 'substructure_query_id': 8}, 44: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 9]}', 'substructure_query_id': 9}, 45: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 10]}', 'substructure_query_id': 10}, 46: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 1]}', 'substructure_query_id': 1}, 47: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 2]}', 'substructure_query_id': 2}, 48: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 3]}', 'substructure_query_id': 3}, 49: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 7]}', 'substructure_query_id': 7}, 50: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 4]}', 'substructure_query_id': 4}, 51: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 5]}', 'substructure_query_id': 5}, 52: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 8]}', 'substructure_query_id': 8}, 53: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 9]}', 'substructure_query_id': 9}, 54: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 10]}', 'substructure_query_id': 10}, 55: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 1]}', 'substructure_query_id': 1}, 56: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 2]}', 'substructure_query_id': 2}, 57: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 3]}', 'substructure_query_id': 3}, 58: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 7]}', 'substructure_query_id': 7}, 59: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 4]}', 'substructure_query_id': 4}, 60: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 5]}', 'substructure_query_id': 5}, 61: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 8]}', 'substructure_query_id': 8}, 62: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 9]}', 'substructure_query_id': 9}, 63: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 10]}', 'substructure_query_id': 10}, 64: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 1]}', 'substructure_query_id': 1}, 65: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 2]}', 'substructure_query_id': 2}, 66: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 3]}', 'substructure_query_id': 3}, 67: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 7]}', 'substructure_query_id': 7}, 68: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 4]}', 'substructure_query_id': 4}, 69: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 5]}', 'substructure_query_id': 5}, 70: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 8]}', 'substructure_query_id': 8}, 71: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 9]}', 'substructure_query_id': 9}, 72: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 10]}', 'substructure_query_id': 10}, 73: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 1]}', 'substructure_query_id': 1}, 74: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 2]}', 'substructure_query_id': 2}, 75: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 3]}', 'substructure_query_id': 3}, 76: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 4]}', 'substructure_query_id': 4}, 77: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 7]}', 'substructure_query_id': 7}, 78: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 5]}', 'substructure_query_id': 5}, 79: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 8]}', 'substructure_query_id': 8}, 80: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 9]}', 'substructure_query_id': 9}, 81: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 10]}', 'substructure_query_id': 10}, 82: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 1], "11": ["polythiophene_TERM2", 1]}', 'substructure_query_id': 1}, 83: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 2], "11": ["polythiophene_TERM2", 2]}', 'substructure_query_id': 2}, 84: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 3], "11": ["polythiophene_TERM2", 3]}', 'substructure_query_id': 3}, 85: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 4], "11": ["polythiophene_TERM2", 4]}', 'substructure_query_id': 4}, 86: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["polythiophene_TERM2", 5]}', 'substructure_query_id': 5}, 87: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 7], "11": ["polythiophene_TERM2", 7]}', 'substructure_query_id': 7}, 88: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 5], "11": ["polythiophene_TERM2", 6]}', 'substructure_query_id': 6}, 89: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 8], "11": ["polythiophene_TERM2", 8]}', 'substructure_query_id': 8}, 90: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 9], "11": ["polythiophene_TERM2", 9]}', 'substructure_query_id': 9}, 91: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 10], "11": ["polythiophene_TERM2", 10]}', 'substructure_query_id': 10}, 92: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 18], "10": ["polythiophene_TERM1", 13]}', 'substructure_query_id': 13}, 93: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 19], "10": ["polythiophene_TERM1", 14]}', 'substructure_query_id': 14}, 94: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 20], "10": ["polythiophene_TERM1", 19]}', 'substructure_query_id': 19}, 95: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 16], "10": ["polythiophene_TERM1", 11]}', 'substructure_query_id': 11}, 96: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 17], "10": ["polythiophene_TERM1", 12]}', 'substructure_query_id': 12}, 97: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 14], "10": ["polythiophene_TERM1", 9]}', 'substructure_query_id': 9}, 98: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 15], "10": ["polythiophene_TERM1", 10]}', 'substructure_query_id': 10}, 99: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 11], "10": ["polythiophene_TERM1", 6]}', 'substructure_query_id': 6}, 100: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 12], "10": ["polythiophene_TERM1", 7]}', 'substructure_query_id': 7}, 101: {'residue_name': 'polythiophene_TERM1', 'residue_number': 10, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polythiophene", 13], "10": ["polythiophene_TERM1", 8]}', 'substructure_query_id': 8}, 102: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 20]}', 'substructure_query_id': 20}, 103: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 18]}', 'substructure_query_id': 18}, 104: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 19]}', 'substructure_query_id': 19}, 105: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 16]}', 'substructure_query_id': 16}, 106: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 17]}', 'substructure_query_id': 17}, 107: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 14]}', 'substructure_query_id': 14}, 108: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 15]}', 'substructure_query_id': 15}, 109: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 11]}', 'substructure_query_id': 11}, 110: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 12]}', 'substructure_query_id': 12}, 111: {'residue_name': 'polythiophene', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polythiophene", 13]}', 'substructure_query_id': 13}, 112: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 20]}', 'substructure_query_id': 20}, 113: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 18]}', 'substructure_query_id': 18}, 114: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 19]}', 'substructure_query_id': 19}, 115: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 16]}', 'substructure_query_id': 16}, 116: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 17]}', 'substructure_query_id': 17}, 117: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 14]}', 'substructure_query_id': 14}, 118: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 15]}', 'substructure_query_id': 15}, 119: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 11]}', 'substructure_query_id': 11}, 120: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 12]}', 'substructure_query_id': 12}, 121: {'residue_name': 'polythiophene', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polythiophene", 13]}', 'substructure_query_id': 13}, 122: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 20]}', 'substructure_query_id': 20}, 123: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 18]}', 'substructure_query_id': 18}, 124: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 19]}', 'substructure_query_id': 19}, 125: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 16]}', 'substructure_query_id': 16}, 126: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 17]}', 'substructure_query_id': 17}, 127: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 14]}', 'substructure_query_id': 14}, 128: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 15]}', 'substructure_query_id': 15}, 129: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 11]}', 'substructure_query_id': 11}, 130: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 12]}', 'substructure_query_id': 12}, 131: {'residue_name': 'polythiophene', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polythiophene", 13]}', 'substructure_query_id': 13}, 132: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 20]}', 'substructure_query_id': 20}, 133: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 18]}', 'substructure_query_id': 18}, 134: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 19]}', 'substructure_query_id': 19}, 135: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 16]}', 'substructure_query_id': 16}, 136: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 17]}', 'substructure_query_id': 17}, 137: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 14]}', 'substructure_query_id': 14}, 138: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 15]}', 'substructure_query_id': 15}, 139: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 11]}', 'substructure_query_id': 11}, 140: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 12]}', 'substructure_query_id': 12}, 141: {'residue_name': 'polythiophene', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["polythiophene", 13]}', 'substructure_query_id': 13}, 142: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 20]}', 'substructure_query_id': 20}, 143: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 18]}', 'substructure_query_id': 18}, 144: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 19]}', 'substructure_query_id': 19}, 145: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 16]}', 'substructure_query_id': 16}, 146: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 17]}', 'substructure_query_id': 17}, 147: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 14]}', 'substructure_query_id': 14}, 148: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 15]}', 'substructure_query_id': 15}, 149: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 11]}', 'substructure_query_id': 11}, 150: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 12]}', 'substructure_query_id': 12}, 151: {'residue_name': 'polythiophene', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["polythiophene", 13]}', 'substructure_query_id': 13}, 152: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 20]}', 'substructure_query_id': 20}, 153: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 18]}', 'substructure_query_id': 18}, 154: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 19]}', 'substructure_query_id': 19}, 155: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 16]}', 'substructure_query_id': 16}, 156: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 17]}', 'substructure_query_id': 17}, 157: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 14]}', 'substructure_query_id': 14}, 158: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 15]}', 'substructure_query_id': 15}, 159: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 11]}', 'substructure_query_id': 11}, 160: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 12]}', 'substructure_query_id': 12}, 161: {'residue_name': 'polythiophene', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["polythiophene", 13]}', 'substructure_query_id': 13}, 162: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 20]}', 'substructure_query_id': 20}, 163: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 18]}', 'substructure_query_id': 18}, 164: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 19]}', 'substructure_query_id': 19}, 165: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 16]}', 'substructure_query_id': 16}, 166: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 17]}', 'substructure_query_id': 17}, 167: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 14]}', 'substructure_query_id': 14}, 168: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 15]}', 'substructure_query_id': 15}, 169: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 11]}', 'substructure_query_id': 11}, 170: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 12]}', 'substructure_query_id': 12}, 171: {'residue_name': 'polythiophene', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["polythiophene", 13]}', 'substructure_query_id': 13}, 172: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 20]}', 'substructure_query_id': 20}, 173: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 18]}', 'substructure_query_id': 18}, 174: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 19]}', 'substructure_query_id': 19}, 175: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 16]}', 'substructure_query_id': 16}, 176: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 17]}', 'substructure_query_id': 17}, 177: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 14]}', 'substructure_query_id': 14}, 178: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 15]}', 'substructure_query_id': 15}, 179: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 11]}', 'substructure_query_id': 11}, 180: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 12]}', 'substructure_query_id': 12}, 181: {'residue_name': 'polythiophene', 'residue_number': 8, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["polythiophene", 13]}', 'substructure_query_id': 13}, 182: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 20], "11": ["polythiophene_TERM2", 20]}', 'substructure_query_id': 20}, 183: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 18], "11": ["polythiophene_TERM2", 18]}', 'substructure_query_id': 18}, 184: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 19], "11": ["polythiophene_TERM2", 19]}', 'substructure_query_id': 19}, 185: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 16], "11": ["polythiophene_TERM2", 16]}', 'substructure_query_id': 16}, 186: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 17], "11": ["polythiophene_TERM2", 17]}', 'substructure_query_id': 17}, 187: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 14], "11": ["polythiophene_TERM2", 14]}', 'substructure_query_id': 14}, 188: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 15], "11": ["polythiophene_TERM2", 15]}', 'substructure_query_id': 15}, 189: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 11], "11": ["polythiophene_TERM2", 11]}', 'substructure_query_id': 11}, 190: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 12], "11": ["polythiophene_TERM2", 12]}', 'substructure_query_id': 12}, 191: {'residue_name': 'polythiophene_TERM2', 'residue_number': 11, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["polythiophene", 13], "11": ["polythiophene_TERM2", 13]}', 'substructure_query_id': 13}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+-0.13112676927509406 0.023912578433131177 -0.11003259608211617 -0.24550838062229255 -0.41411081740322214 0.51082723548946285 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567
+0.20745824983653924 0.040794744699572526 -0.34633676001491648 0.020527708887433011 -0.06934007296028237 -0.11004842111530404 0.0018175575726975997 -0.1214221347278605 -0.13368571588459113
+-0.12328133770885567 -0.021961594388509791 -0.34633673021259409 0.020527699574207265 -0.11004843601646523 -0.069340058059121176 0.0018175575726975997 -0.1214221347278605
+-0.13368571588459113 -0.12328133770885567 -0.021961588800574344 -0.34633673021259409 0.020527699574207265 -0.11004843601646523 -0.069340058059121176 0.0018175575726975997
+-0.1214221347278605 -0.13368571588459113 -0.12328133770885567 -0.021961581349993747 -0.34633676001491648 0.020527708887433011 -0.06934007296028237 -0.11004842111530404
+0.0018175575726975997 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567 -0.021961594388509791 -0.34633673021259409 0.020527699574207265 -0.11004843601646523
+-0.069340058059121176 0.0018175575726975997 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567 -0.021961588800574344 -0.34633673021259409 0.020527699574207265
+-0.11004843601646523 -0.069340058059121176 0.0018175575726975997 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567 -0.021961588800574344 -0.34633673021259409
+0.020527699574207265 -0.11004843601646523 -0.069340058059121176 0.0018175575726975997 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567 -0.021961581349993747
+-0.34633676001491648 0.020527708887433011 0.0055469419651975231 -0.11004842111530404 0.0018175575726975997 -0.1214221347278605 -0.13368571588459113 -0.12328133770885567
+-0.021580569834137957 -0.36278332063617807 0.023192787154888112 -0.50575364419880009 0.21629307380256554 -0.10778825023832421 0.53309874942836666 -0.1222712922996531 -0.13368571588459113
+-0.12328133770885567 0.086082718878363565 0.086082718878363565 0.14877390077648064 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499
+0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082726328944162 0.086082726328944162 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741
+0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082718878363565 0.086082718878363565 0.083398930340384439 0.083398930340384439 0.081208683162306741
+0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082718878363565 0.086082718878363565 0.083398930340384439 0.083398930340384439
+0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082726328944162 0.086082726328944162 0.083398930340384439
+0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082718878363565 0.086082718878363565
+0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238 0.086082718878363565
+0.086082718878363565 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499 0.1397514711910238
+0.086082718878363565 0.086082718878363565 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499 0.059576198070620499
+0.1397514711910238 0.086082726328944162 0.086082726328944162 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499 0.059576198070620499
+0.059576198070620499 0.15837878695068261 0.089820108919714883 0.089820108919714883 0.083398930340384439 0.083398930340384439 0.081208683162306741 0.081208683162306741 0.059576198070620499
+0.059576198070620499 0.059576198070620499
+
+$$$$

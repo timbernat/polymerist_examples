@@ -1,0 +1,433 @@
+
+     RDKit          3D
+
+191205  0  0  0  0  0  0  0  0999 V2000
+   19.7820   17.8560   18.3650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0670   16.6310   19.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8840   15.8040   19.2960 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.8090   16.4930   19.8780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2910   14.9140   18.2490 C   0  0  2  0  0  0  0  0  0  0  0  0
+   18.0300   13.5790   18.7050 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0400   15.6990   17.8460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5920   16.2960   19.1390 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.7430   17.4960   19.0500 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3700   17.3020   19.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8770   16.1790   19.0500 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5680   18.3910   18.9110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0620   19.6620   18.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2280   20.6810   18.8170 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4680   19.8620   18.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2520   18.7760   19.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0820   12.3760   18.5220 P   0  0  2  0  0  5  0  0  0  0  0  0
+   19.9240   12.7080   17.3440 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3650   11.0680   18.3920 O   0  0  0  0  0  1  0  0  0  0  0  0
+   19.9810   12.4160   19.8420 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3820   12.2130   21.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6390   12.4620   22.0400 C   0  0  2  0  0  0  0  0  0  0  0  0
+   20.9760   13.7820   21.7180 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3680   12.3230   23.4940 C   0  0  2  0  0  0  0  0  0  0  0  0
+   20.5400   11.1200   24.1840 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9500   13.5420   24.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2970   14.4650   23.0200 C   0  0  1  0  0  0  0  0  0  0  0  0
+   20.5560   15.7200   22.9980 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0810   17.0070   23.0510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1900   17.9420   22.9890 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9820   17.2650   22.8900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6460   17.7230   22.7870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2640   18.8960   22.7430 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7030   16.7360   22.7020 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0590   15.4100   22.7160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0450   14.5200   22.6220 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2820   14.9200   22.8100 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1990   15.8960   22.8950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5210   10.0370   24.7210 P   0  0  2  0  0  5  0  0  0  0  0  0
+   20.2260    8.8090   25.3160 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7080    9.6280   23.5170 O   0  0  0  0  0  1  0  0  0  0  0  0
+   18.6600   10.7050   25.9160 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5880    9.8190   26.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4010   10.6990   26.6990 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.7930   11.9790   27.1560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4660   10.8990   25.5400 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.1130   10.6160   25.9120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6520   12.3880   25.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9120   12.9690   26.5690 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.5360   14.3050   26.4760 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6750   15.3760   26.3590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4310   15.2370   26.3140 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2180   16.6400   26.2790 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5450   16.8370   26.3010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9930   18.0900   26.2250 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4310   15.7170   26.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8680   14.5110   26.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6810    9.0990   26.2250 P   0  0  2  0  0  5  0  0  0  0  0  0
+   14.1860    8.2620   25.0970 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1600    9.0900   26.2920 O   0  0  0  0  0  1  0  0  0  0  0  0
+   14.4160    8.6930   27.5360 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1140    8.9910   28.8930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9770    7.9390   29.6360 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.3170    8.0620   29.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9180    8.1080   31.1260 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.0300    7.2280   31.7620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3530    8.0160   31.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1840    8.1260   30.3430 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.8860    9.4250   30.3610 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2480    9.6340   30.4010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5730   10.8960   30.4100 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3650   11.5600   30.3520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0570   12.9600   30.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8720   13.8900   30.3700 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7230   13.2500   30.2850 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7540   12.2740   30.2580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5100   12.7540   30.2000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9790   10.9450   30.2850 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3060   10.6740   30.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5250    7.4310   32.1910 P   0  0  2  0  0  5  0  0  0  0  0  0
+   12.2950    6.2190   33.0600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5490    7.4740   31.0370 O   0  0  0  0  0  1  0  0  0  0  0  0
+   12.4650    8.8220   32.9750 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5180    8.9690   34.0670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3960   10.4740   34.2820 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.6170   10.9260   34.8230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9460   12.2310   34.2550 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.4290   12.2680   34.1390 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1790   11.1360   34.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0130   13.5300   33.9820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3140   14.5390   33.9590 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3600   13.5970   33.8560 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1370   12.4710   33.8970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4640   12.5880   33.7710 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3650   11.4340   33.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5200   11.1910   34.0530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4550   11.9850   32.7640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1210   11.3020   33.0690 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1800   12.3850   33.2880 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6520   12.0930   33.7000 P   0  0  2  0  0  5  0  0  0  0  0  0
+    8.1040   11.1730   32.7060 O   0  0  0  0  0  1  0  0  0  0  0  0
+    8.0070   13.4530   33.7850 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8440   11.4030   35.1230 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1540   11.7570   36.3450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5170   10.4500   36.7660 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.4160    9.3790   36.5820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0410   10.3570   38.2120 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.9260    9.4400   38.4040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3160    9.8280   38.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8340    8.8650   37.8760 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.3040    8.7850   37.9430 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0450    7.6090   38.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3180    7.8280   38.0550 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4370    9.2340   37.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5770   10.0680   37.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7530    9.7970   37.9740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2850   11.4130   37.8220 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0020   11.8890   37.7510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0000   13.2250   37.6520 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9160   11.1360   37.7730 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1940    9.8220   37.8670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4490   20.1540   36.8150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0350   18.8500   37.2940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6110   18.6650   36.7790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4330   17.3640   36.3090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5360   18.8990   37.7730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4180   19.6130   37.2490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0690   17.4830   38.1450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2230   16.7640   36.8150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5670   15.3330   36.9990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5400   14.4590   37.3340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3880   14.8560   37.4820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8660   13.1450   37.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1130   12.6830   37.3210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3790   11.3940   37.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1650   13.5940   36.9670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8410   14.8800   36.8200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0820   21.1140   37.4820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6680   21.6870   38.7440 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6250   21.2160   37.3750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8890   21.8590   36.2330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4300   21.2770   34.9130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4230   21.8810   33.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6730   21.2900   34.2280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1250   21.6280   32.4560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4610   22.6070   31.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4910   21.2770   31.8650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3650   20.9450   33.0060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8660   19.5730   33.0780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1770   19.1760   33.0870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3320   17.8800   33.1810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0530   17.3730   33.2660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5500   16.0530   33.3950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2190   15.0070   33.4490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1870   15.9390   33.4630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3780   17.0590   33.4040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0530   16.8500   33.4800 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7970   18.3200   33.2790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1290   18.4130   33.2160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9920   22.8130   31.1800 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8720   24.0680   30.3380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1360   22.9670   32.4290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5410   21.5640   30.3250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4460   21.6990   29.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0950   20.2130   29.1340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2280   19.4900   28.7000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6870   19.5450   30.4370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6550   18.5390   30.2080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0170   18.8650   30.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3920   18.2590   29.4650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8250   17.8650   29.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0670   16.5140   29.7970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1320   15.6960   29.8820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3710   16.1110   29.9000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3940   16.9940   29.8060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6430   16.5240   29.9270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1260   18.3820   29.5910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8460   18.7480   29.4880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1680   19.2680   30.1680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0960   20.1170   31.4310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2650   18.1330   30.0970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2600   20.2440   28.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8250   19.7330   27.6040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8570   20.8620   26.6100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9020   21.7670   26.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8800   20.4370   25.1510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6130   20.3140   24.5460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9450   21.2590   24.5020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5720   22.0800   25.5890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0180   21.9050   25.6880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9510   22.9080   25.7190 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  7  1  0
+  8  9  1  0
+  8  4  1  0
+ 10  9  1  0
+ 10 12  1  0
+ 10 11  2  0
+  7  5  1  0
+  5  3  1  0
+  5  6  1  0
+ 13 15  1  0
+ 13 12  2  0
+ 13 14  1  0
+  3  2  1  0
+  3  4  1  0
+ 15 16  2  0
+  2  1  1  0
+ 16  9  1  0
+  6 17  1  0
+ 27 26  1  0
+ 27 28  1  0
+ 27 23  1  0
+ 35 34  1  0
+ 35 36  1  0
+ 35 37  2  0
+ 26 24  1  0
+ 24 22  1  0
+ 24 25  1  0
+ 38 31  2  0
+ 38 37  1  0
+ 38 28  1  0
+ 22 21  1  0
+ 22 23  1  0
+ 31 32  1  0
+ 31 30  1  0
+ 21 20  1  0
+ 32 34  1  0
+ 32 33  2  0
+ 29 30  2  0
+ 29 28  1  0
+ 20 17  1  0
+ 18 17  2  0
+ 17 19  1  6
+ 25 39  1  0
+ 49 48  1  0
+ 49 50  1  0
+ 49 45  1  0
+ 51 50  1  0
+ 51 53  1  0
+ 51 52  2  0
+ 48 46  1  0
+ 46 44  1  0
+ 46 47  1  0
+ 54 56  1  0
+ 54 53  2  0
+ 54 55  1  0
+ 44 43  1  0
+ 44 45  1  0
+ 56 57  2  0
+ 43 42  1  0
+ 57 50  1  0
+ 42 39  1  0
+ 40 39  2  0
+ 39 41  1  6
+ 47 58  1  0
+ 68 67  1  0
+ 68 69  1  0
+ 68 64  1  0
+ 76 75  1  0
+ 76 77  1  0
+ 76 78  2  0
+ 67 65  1  0
+ 65 63  1  0
+ 65 66  1  0
+ 79 72  2  0
+ 79 78  1  0
+ 79 69  1  0
+ 63 62  1  0
+ 63 64  1  0
+ 72 73  1  0
+ 72 71  1  0
+ 62 61  1  0
+ 73 75  1  0
+ 73 74  2  0
+ 70 71  2  0
+ 70 69  1  0
+ 61 58  1  0
+ 59 58  2  0
+ 58 60  1  1
+ 99100  1  0
+110109  1  0
+110111  1  0
+110106  1  0
+118117  1  0
+118119  1  0
+118120  2  0
+109107  1  0
+107105  1  0
+107108  1  0
+121114  2  0
+121120  1  0
+121111  1  0
+105104  1  0
+105106  1  0
+114115  1  0
+114113  1  0
+104103  1  0
+115117  1  0
+115116  2  0
+112113  2  0
+112111  1  0
+103100  1  0
+100101  1  6
+102100  2  0
+  1122  1  0
+  2123  1  0
+  2124  1  0
+  3125  1  1
+  5126  1  6
+  7127  1  0
+  7128  1  0
+  8129  1  1
+ 14130  1  0
+ 14131  1  0
+ 15132  1  0
+ 16133  1  0
+ 21134  1  0
+ 21135  1  0
+ 22136  1  6
+ 24137  1  6
+ 26138  1  0
+ 26139  1  0
+ 27140  1  6
+ 29141  1  0
+ 34142  1  0
+ 36143  1  0
+ 36144  1  0
+ 43145  1  0
+ 43146  1  0
+ 44147  1  1
+ 46148  1  6
+ 48149  1  0
+ 48150  1  0
+ 49151  1  1
+ 55152  1  0
+ 55153  1  0
+ 56154  1  0
+ 57155  1  0
+ 62156  1  0
+ 62157  1  0
+ 63158  1  1
+ 65159  1  6
+ 66 80  1  0
+ 67160  1  0
+ 67161  1  0
+ 68162  1  6
+ 70163  1  0
+ 75164  1  0
+ 77165  1  0
+ 77166  1  0
+ 80 81  2  0
+ 80 82  1  6
+ 80 83  1  0
+ 83 84  1  0
+ 84 85  1  0
+ 84167  1  0
+ 84168  1  0
+ 85 86  1  0
+ 85 98  1  0
+ 85169  1  1
+ 86 87  1  0
+ 87 88  1  0
+ 87 97  1  0
+ 87170  1  1
+ 88 89  1  0
+ 88 90  1  0
+ 89 96  2  0
+ 89171  1  0
+ 90 91  2  0
+ 90 92  1  0
+ 92 93  2  0
+ 93 94  1  0
+ 93 96  1  0
+ 94 95  1  0
+ 94172  1  0
+ 95173  1  0
+ 95174  1  0
+ 95175  1  0
+ 96176  1  0
+ 97 98  1  0
+ 97177  1  0
+ 97178  1  0
+ 98 99  1  0
+ 98179  1  6
+104180  1  0
+104181  1  0
+105182  1  6
+107183  1  1
+108184  1  0
+109185  1  0
+109186  1  0
+110187  1  1
+112188  1  0
+117189  1  0
+119190  1  0
+119191  1  0
+M  CHG  5  19  -1  41  -1  60  -1  82  -1 101  -1
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 3]}', 'substructure_query_id': 3}, 4: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 6]}', 'substructure_query_id': 6}, 5: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 7]}', 'substructure_query_id': 7}, 6: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 5]}', 'substructure_query_id': 5}, 7: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"24": ["backbone_TERM1", 4]}', 'substructure_query_id': 4}, 8: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 1]}', 'substructure_query_id': 1}, 9: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 2]}', 'substructure_query_id': 2}, 10: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 3]}', 'substructure_query_id': 3}, 11: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 4]}', 'substructure_query_id': 4}, 12: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 5]}', 'substructure_query_id': 5}, 13: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 6]}', 'substructure_query_id': 6}, 14: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 9]}', 'substructure_query_id': 9}, 15: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"14": ["mid3", 10]}', 'substructure_query_id': 10}, 16: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 1]}', 'substructure_query_id': 1}, 17: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 2]}', 'substructure_query_id': 2}, 18: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 3]}', 'substructure_query_id': 3}, 19: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 4]}', 'substructure_query_id': 4}, 20: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 5]}', 'substructure_query_id': 5}, 21: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 6]}', 'substructure_query_id': 6}, 22: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 7]}', 'substructure_query_id': 7}, 23: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 10]}', 'substructure_query_id': 10}, 24: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 11]}', 'substructure_query_id': 11}, 25: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 9]}', 'substructure_query_id': 9}, 26: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"4": ["backbone", 8]}', 'substructure_query_id': 8}, 27: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 1]}', 'substructure_query_id': 1}, 28: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 2]}', 'substructure_query_id': 2}, 29: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 3]}', 'substructure_query_id': 3}, 30: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 4]}', 'substructure_query_id': 4}, 31: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 5]}', 'substructure_query_id': 5}, 32: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 6]}', 'substructure_query_id': 6}, 33: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 7]}', 'substructure_query_id': 7}, 34: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 8]}', 'substructure_query_id': 8}, 35: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 9]}', 'substructure_query_id': 9}, 36: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 12]}', 'substructure_query_id': 12}, 37: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"18": ["mid4", 13]}', 'substructure_query_id': 13}, 38: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 1]}', 'substructure_query_id': 1}, 39: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 2]}', 'substructure_query_id': 2}, 40: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 3]}', 'substructure_query_id': 3}, 41: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 4]}', 'substructure_query_id': 4}, 42: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 5]}', 'substructure_query_id': 5}, 43: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 6]}', 'substructure_query_id': 6}, 44: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 7]}', 'substructure_query_id': 7}, 45: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 10]}', 'substructure_query_id': 10}, 46: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 11]}', 'substructure_query_id': 11}, 47: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 9]}', 'substructure_query_id': 9}, 48: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"5": ["backbone", 8]}', 'substructure_query_id': 8}, 49: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 1]}', 'substructure_query_id': 1}, 50: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 2]}', 'substructure_query_id': 2}, 51: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 3]}', 'substructure_query_id': 3}, 52: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 4]}', 'substructure_query_id': 4}, 53: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 5]}', 'substructure_query_id': 5}, 54: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 6]}', 'substructure_query_id': 6}, 55: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 9]}', 'substructure_query_id': 9}, 56: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"15": ["mid3", 10]}', 'substructure_query_id': 10}, 57: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 1]}', 'substructure_query_id': 1}, 58: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 2]}', 'substructure_query_id': 2}, 59: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 3]}', 'substructure_query_id': 3}, 60: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 4]}', 'substructure_query_id': 4}, 61: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 5]}', 'substructure_query_id': 5}, 62: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 6]}', 'substructure_query_id': 6}, 63: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 7]}', 'substructure_query_id': 7}, 64: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 10]}', 'substructure_query_id': 10}, 65: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 11]}', 'substructure_query_id': 11}, 66: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 9]}', 'substructure_query_id': 9}, 67: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"6": ["backbone", 8]}', 'substructure_query_id': 8}, 68: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 1]}', 'substructure_query_id': 1}, 69: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 2]}', 'substructure_query_id': 2}, 70: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 3]}', 'substructure_query_id': 3}, 71: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 4]}', 'substructure_query_id': 4}, 72: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 5]}', 'substructure_query_id': 5}, 73: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 6]}', 'substructure_query_id': 6}, 74: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 7]}', 'substructure_query_id': 7}, 75: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 8]}', 'substructure_query_id': 8}, 76: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 9]}', 'substructure_query_id': 9}, 77: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 12]}', 'substructure_query_id': 12}, 78: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"19": ["mid4", 13]}', 'substructure_query_id': 13}, 79: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 1]}', 'substructure_query_id': 1}, 80: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 2]}', 'substructure_query_id': 2}, 81: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 3]}', 'substructure_query_id': 3}, 82: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 4]}', 'substructure_query_id': 4}, 83: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 5]}', 'substructure_query_id': 5}, 84: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 6]}', 'substructure_query_id': 6}, 85: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 7]}', 'substructure_query_id': 7}, 86: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 8]}', 'substructure_query_id': 8}, 87: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 1]}', 'substructure_query_id': 1}, 88: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 2]}', 'substructure_query_id': 2}, 89: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 14]}', 'substructure_query_id': 14}, 90: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 15]}', 'substructure_query_id': 15}, 91: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 13]}', 'substructure_query_id': 13}, 92: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 6]}', 'substructure_query_id': 6}, 93: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["NME", 1], "2": ["c34", 7]}', 'substructure_query_id': 7}, 94: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"0": ["NME", 2], "2": ["c34", 9]}', 'substructure_query_id': 9}, 95: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"2": ["c34", 4]}', 'substructure_query_id': 4}, 96: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 9]}', 'substructure_query_id': 9}, 97: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 10]}', 'substructure_query_id': 10}, 98: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"7": ["backbone", 11]}', 'substructure_query_id': 11}, 99: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 1], "26": ["backbone_TERM2", 1]}', 'substructure_query_id': 1}, 100: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 2], "26": ["backbone_TERM2", 2]}', 'substructure_query_id': 2}, 101: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 3], "26": ["backbone_TERM2", 3]}', 'substructure_query_id': 3}, 102: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 4], "26": ["backbone_TERM2", 4]}', 'substructure_query_id': 4}, 103: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 5], "26": ["backbone_TERM2", 5]}', 'substructure_query_id': 5}, 104: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 6], "26": ["backbone_TERM2", 6]}', 'substructure_query_id': 6}, 105: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 7], "26": ["backbone_TERM2", 7]}', 'substructure_query_id': 7}, 106: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 10], "26": ["backbone_TERM2", 10]}', 'substructure_query_id': 10}, 107: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 11], "26": ["backbone_TERM2", 11]}', 'substructure_query_id': 11}, 108: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 9], "26": ["backbone_TERM2", 9]}', 'substructure_query_id': 9}, 109: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"8": ["backbone", 8], "26": ["backbone_TERM2", 8]}', 'substructure_query_id': 8}, 110: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 1]}', 'substructure_query_id': 1}, 111: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 2]}', 'substructure_query_id': 2}, 112: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 3]}', 'substructure_query_id': 3}, 113: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 4]}', 'substructure_query_id': 4}, 114: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 5]}', 'substructure_query_id': 5}, 115: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 6]}', 'substructure_query_id': 6}, 116: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 7]}', 'substructure_query_id': 7}, 117: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 8]}', 'substructure_query_id': 8}, 118: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 9]}', 'substructure_query_id': 9}, 119: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 12]}', 'substructure_query_id': 12}, 120: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'A', 'match_info': '{"20": ["mid4", 13]}', 'substructure_query_id': 13}, 121: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 17]}', 'substructure_query_id': 17}, 122: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 15]}', 'substructure_query_id': 15}, 123: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 16]}', 'substructure_query_id': 16}, 124: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 14]}', 'substructure_query_id': 14}, 125: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 9]}', 'substructure_query_id': 9}, 126: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 10]}', 'substructure_query_id': 10}, 127: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 11]}', 'substructure_query_id': 11}, 128: {'residue_name': 'backbone_TERM1', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"24": ["backbone_TERM1", 13]}', 'substructure_query_id': 13}, 129: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"14": ["mid3", 7]}', 'substructure_query_id': 7}, 130: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"14": ["mid3", 8]}', 'substructure_query_id': 8}, 131: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"14": ["mid3", 12]}', 'substructure_query_id': 12}, 132: {'residue_name': 'mid3', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"14": ["mid3", 11]}', 'substructure_query_id': 11}, 133: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 19]}', 'substructure_query_id': 19}, 134: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 20]}', 'substructure_query_id': 20}, 135: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 18]}', 'substructure_query_id': 18}, 136: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 13]}', 'substructure_query_id': 13}, 137: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 14]}', 'substructure_query_id': 14}, 138: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 15]}', 'substructure_query_id': 15}, 139: {'residue_name': 'backbone', 'residue_number': 4, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"4": ["backbone", 17]}', 'substructure_query_id': 17}, 140: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"18": ["mid4", 15]}', 'substructure_query_id': 15}, 141: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"18": ["mid4", 14]}', 'substructure_query_id': 14}, 142: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"18": ["mid4", 10]}', 'substructure_query_id': 10}, 143: {'residue_name': 'mid4', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"18": ["mid4", 11]}', 'substructure_query_id': 11}, 144: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 19]}', 'substructure_query_id': 19}, 145: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 20]}', 'substructure_query_id': 20}, 146: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 18]}', 'substructure_query_id': 18}, 147: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 13]}', 'substructure_query_id': 13}, 148: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 14]}', 'substructure_query_id': 14}, 149: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 15]}', 'substructure_query_id': 15}, 150: {'residue_name': 'backbone', 'residue_number': 5, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"5": ["backbone", 17]}', 'substructure_query_id': 17}, 151: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"15": ["mid3", 7]}', 'substructure_query_id': 7}, 152: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"15": ["mid3", 8]}', 'substructure_query_id': 8}, 153: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"15": ["mid3", 12]}', 'substructure_query_id': 12}, 154: {'residue_name': 'mid3', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"15": ["mid3", 11]}', 'substructure_query_id': 11}, 155: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 19]}', 'substructure_query_id': 19}, 156: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 20]}', 'substructure_query_id': 20}, 157: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 18]}', 'substructure_query_id': 18}, 158: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 13]}', 'substructure_query_id': 13}, 159: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 14]}', 'substructure_query_id': 14}, 160: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 15]}', 'substructure_query_id': 15}, 161: {'residue_name': 'backbone', 'residue_number': 6, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"6": ["backbone", 17]}', 'substructure_query_id': 17}, 162: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"19": ["mid4", 15]}', 'substructure_query_id': 15}, 163: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"19": ["mid4", 14]}', 'substructure_query_id': 14}, 164: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"19": ["mid4", 10]}', 'substructure_query_id': 10}, 165: {'residue_name': 'mid4', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"19": ["mid4", 11]}', 'substructure_query_id': 11}, 166: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 19]}', 'substructure_query_id': 19}, 167: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 20]}', 'substructure_query_id': 20}, 168: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 18]}', 'substructure_query_id': 18}, 169: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 17]}', 'substructure_query_id': 17}, 170: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"2": ["c34", 3]}', 'substructure_query_id': 3}, 171: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"0": ["NME", 6], "2": ["c34", 8]}', 'substructure_query_id': 8}, 172: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"0": ["NME", 3], "2": ["c34", 10]}', 'substructure_query_id': 10}, 173: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"0": ["NME", 4], "2": ["c34", 11]}', 'substructure_query_id': 11}, 174: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"0": ["NME", 5], "2": ["c34", 12]}', 'substructure_query_id': 12}, 175: {'residue_name': 'c34', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"2": ["c34", 5]}', 'substructure_query_id': 5}, 176: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 14]}', 'substructure_query_id': 14}, 177: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 15]}', 'substructure_query_id': 15}, 178: {'residue_name': 'backbone', 'residue_number': 7, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"7": ["backbone", 13]}', 'substructure_query_id': 13}, 179: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 19], "26": ["backbone_TERM2", 19]}', 'substructure_query_id': 19}, 180: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 20], "26": ["backbone_TERM2", 20]}', 'substructure_query_id': 20}, 181: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 18], "26": ["backbone_TERM2", 18]}', 'substructure_query_id': 18}, 182: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 13], "26": ["backbone_TERM2", 13]}', 'substructure_query_id': 13}, 183: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"26": ["backbone_TERM2", 12]}', 'substructure_query_id': 12}, 184: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 14], "26": ["backbone_TERM2", 14]}', 'substructure_query_id': 14}, 185: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 15], "26": ["backbone_TERM2", 15]}', 'substructure_query_id': 15}, 186: {'residue_name': 'backbone_TERM2', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"8": ["backbone", 17], "26": ["backbone_TERM2", 17]}', 'substructure_query_id': 17}, 187: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"20": ["mid4", 15]}', 'substructure_query_id': 15}, 188: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"20": ["mid4", 14]}', 'substructure_query_id': 14}, 189: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"20": ["mid4", 10]}', 'substructure_query_id': 10}, 190: {'residue_name': 'mid4', 'residue_number': 20, 'insertion_code': ' ', 'chain_id': 'B', 'match_info': '{"20": ["mid4", 11]}', 'substructure_query_id': 11}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+-0.71030416846743427 0.14291155576237832 0.057255643005458476 -0.47527637839785419 0.43773156642445721 -0.69018789887896381 -0.24395073712340201 0.32190355896481671 -0.2916913306759914
+0.70155039667615093 -0.620442179446133 -0.74278530240526996 0.56142422794827618 -0.88317665219775043 -0.43941685319414936 0.041741865272609355 1.7015784704638401 -0.74517670035830341
+-0.71721055865755878 -0.65753504395953022 0.28839779138096966 0.095284471805183055 -0.48096227407923542 0.44107496976384319 -0.69035389781466328 -0.25036759436598621 0.33436522125729717
+-0.19794517517557944 0.27505344390401043 -0.34484910727015339 -0.19726437092295493 0.65346142887601055 -0.72744074225893818 -0.41694763064852558 0.48425790905484356 -0.70014729857912861
+-0.54304918408861957 0.28954538940915264 1.7015784704638401 -0.74517670035830341 -0.71721055865755878 -0.65753504395953022 0.29100674628743328 0.072113441820232035 -0.47705653071871601
+0.43249184131154217 -0.69018789887896381 -0.24395073712340201 0.32190355896481671 -0.2916913306759914 0.70155039667615093 -0.620442179446133 -0.74278530240526996 0.56142422794827618
+-0.88317665219775043 -0.43941685319414936 0.041741865272609355 1.7015784704638401 -0.74517670035830341 -0.71721055865755878 -0.65753504395953022 0.28839779138096966 0.095284486706344249
+-0.48096227407923542 0.44107499956616558 -0.69035377860537372 -0.25036759436598621 0.33436522125729717 -0.19794517517557944 0.27505344390401043 -0.34484910727015339 -0.19726437092295493
+0.65346142887601055 -0.72744074225893818 -0.41694763064852558 0.48425790905484356 -0.70014729857912861 -0.54304918408861957 0.28954538940915264 1.701578232045261 -0.74517664075365864
+-0.71721049905291401 -0.65753510356417499 0.29100671648511089 0.072113397116748454 -0.47705650091639362 0.32190355896481671 -0.2916913306759914 0.032975076283303859 0.69299403070935406
+-0.62044206023684345 -0.76161584020129047 0.52147075771817364 -0.72257515550127827 0.014750930066196082 -0.43121084332934223 -0.24395070732107962 0.43249187111386456 -0.69018789887896381
+1.701578232045261 -0.71721049905291401 -0.74517658114901386 -0.65753504395953022 0.29491311549672283 0.075412618513194682 -0.47361579299441181 0.20204884051808511 -0.73098852992525898
+-0.26564945042601429 0.34259611606129803 -0.19794517517557944 0.27505344390401043 -0.34484910727015339 -0.19726437092295493 0.65346142887601055 -0.72744074225893818 -0.41694763064852558
+0.48425790905484356 -0.70014729857912861 -0.54304918408861957 0.28954538940915264 0.35433438658246197 0.057774218316165568 0.057774218316165568 0.091455417270747782 0.10287310420998728
+0.10463181375989115 0.10463181375989115 0.085051449532596232 0.26732221483716168 0.26732221483716168 0.10217879950532115 0.12138976394662059 0.065600337977496745 0.065600337977496745
+0.09904022752770579 0.10306217014321482 0.10470636426934397 0.10470636426934397 0.078907819981662394 0.10664095222481883 0.25915912031659283 0.25434863805302776 0.25434863805302776
+0.065600337977496745 0.065600337977496745 0.098313095564929606 0.10287310420998728 0.10463181375989115 0.10463181375989115 0.085051449532596232 0.26732221483716168 0.26732221483716168
+0.10217879950532115 0.12138976394662059 0.065600337977496745 0.065600337977496745 0.09904022752770579 0.10306217014321482 0.10470636426934397 0.10470636426934397 0.078907819981662394
+0.10664095222481883 0.25915912031659283 0.25434863805302776 0.25434863805302776 0.065600330526916148 0.065600330526916148 0.098313147718993785 0.085051449532596232 0.12138977884778178
+0.2987538003874699 0.00089143082031404794 0.00089143082031404794 0.00089143082031404794 0.11648434638508952 0.10463178395756877 0.10463178395756877 0.10287310420998728 0.065600330526916148
+0.065600330526916148 0.097690957183925273 0.072140204305736186 0.37971782922276653 0.10612885891923106 0.10612885891923106 0.078907819981662394 0.10664095222481883 0.2591591799212376
+0.25434863805302776 0.25434863805302776
+
+$$$$

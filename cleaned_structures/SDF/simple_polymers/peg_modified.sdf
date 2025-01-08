@@ -1,0 +1,564 @@
+
+     RDKit          3D
+
+261260  0  0  0  0  0  0  0  0999 V2000
+   -9.5390   -7.0090   17.6880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3820  -10.3080   17.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6230   -6.7970   17.0690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0290  -11.1450   16.9750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0560   -9.1530   17.8160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6860   -7.8980   17.3270 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8360   -9.1060   15.9950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9210   -6.8770   15.9980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3450   -9.1140   17.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6340   -6.6320   17.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0630   -2.7410    7.1640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8490   -5.3370   18.5400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5230   -1.8210    6.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.5760   -5.3230   18.6190 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.6820   -5.6700   18.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8780   -5.6260   16.9170 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1300   -4.6190   18.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1410   -3.7390   18.9800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2020   -2.7550   17.7310 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.5440   -4.1160   19.2590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8390   -3.7940   18.0850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.0580   -4.7130   17.3280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1140   -4.4090   16.9780 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.0740   -5.6270   17.7400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1580   -5.3420   17.4330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5700   -0.6470    8.5180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3240   -1.1750    6.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9040   -2.2410    3.9110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9480   -3.7000    4.9070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3270   -2.9520    4.4550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4570    4.5520   -6.2270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5130  -11.5000   10.4990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2840   -8.0260    9.1340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3540  -12.6580   11.8320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5370  -10.6200    8.8190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2170  -11.0030   11.2920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5380  -12.1000   12.3510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6360  -10.2920   11.8320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3650   -8.2360    9.9910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6270  -12.7410   12.4460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1670   -9.9570    9.4470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1720   -9.8710    9.0160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4620  -10.5120   10.7250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6060   -8.5150    9.3590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3010   -7.9180    9.9670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7330   -8.9250    8.8740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6210   -7.5370    8.1670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8850   -7.6200   10.7330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7250   -8.1440    8.3060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2730   -7.1470    9.8530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8380  -10.2890   18.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9290  -11.6090   13.5620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3050  -10.5150   14.3000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8720  -11.4120   14.5410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1670  -12.2940   14.5790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5460  -11.2950   15.9480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7530  -11.0690   16.6330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4730  -10.2280   16.0320 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0080  -12.3310   16.2230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4070   -7.0560    9.1540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0110   -7.2390    0.9780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3260   -7.1020    0.2190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0100   -7.7680    1.8030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -6.8360    1.2380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9240   -1.4810   11.2590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4300   -2.9270    9.8730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4050   -0.4360    9.1740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4240   -2.1680   10.5690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2070   -1.2000    9.5670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9700   -0.5950   10.1400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8040   -1.0930    7.8550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8990   -1.8750    8.6020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1370   -2.8740   11.0960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9820   -4.8710   10.2440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7440   -3.5560   11.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4310   -3.4770   10.7540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5900   -2.6960   10.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9720   -5.9080   10.1680 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5920   -4.6960    9.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2220   -0.2980    7.3570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2020   -5.0940   16.8550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2350   -5.2750   10.9650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860   -1.8830   -9.2450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4780   -1.2190   -7.5460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0920    1.3750   -7.4870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5790    3.9260   -8.5340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0980    0.8760   -7.3070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3350   -3.6210    3.3600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0040    3.4750   -8.2530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4630   -0.2540   -9.0820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0080   -0.4350   -8.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5990   -6.3490    1.2090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3670   -3.5390    0.8490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1180   -2.3980   -2.5130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8440   -1.7760  -10.1870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0800    1.3730    2.8590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7560   -0.8740    3.3560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2510   -5.8720    2.1680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1720   -1.5690   -2.4960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4160   -4.1840   -1.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5290   -1.0500   -4.0270 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0550   -2.2780   -2.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8670   -2.8710   -3.4600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0640   -3.4960   -0.8940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1940   -3.0440   -1.3950 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3520   -1.6080   -2.7360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2840    0.8750   -5.8700 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4060    4.4980   -5.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6750   -2.2430    5.5990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810   -0.7270   -8.3610 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5190   -0.8890   -1.9510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1390   -2.8230   -8.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5950   -2.6510    2.6740 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2690    0.9060   -3.3600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5170   -0.0520   -4.0120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4080   -5.4870    0.0870 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5630    0.3600   -5.5420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7050   -2.6100   -0.7880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0710   -4.2090    0.4540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4390   -0.0680    2.3380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5660   -1.0190    5.4880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7910   -3.2670    1.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0850   -1.2630    0.8670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7640   -5.8060    1.8880 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5910    4.2660   -9.9880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6980   -2.2600    1.1880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7870    0.9130    3.2430 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0600    0.6980    4.9000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3720   -0.1040    1.1650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5310   -0.2990    4.8760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3290   -4.1920    2.0920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6320   -2.0970    2.1300 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4440   -1.0170    3.7120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400   -4.2730    0.9590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9440    0.1050    4.7130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7490   -0.9660    2.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3520   -0.3260    4.6340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2640   -2.6340    0.2950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8200    1.5870   -7.7580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7010   -4.4340    3.7700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8820   -3.6330    1.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0080   -1.2040    3.3880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9990   -4.1620    2.6630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7590   -0.3060    4.0310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390   -0.8770    4.1460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9770   -1.6840    4.9020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9890    2.2980    2.2600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2030    3.4560   -5.5780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9530   12.6290  -10.4020 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9820   10.7700   -8.2180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2380   12.3650   -7.0660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8610   12.1340   -7.9970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8920   12.4200   -7.7090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2920   13.8630   -8.9140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1920   12.5290   -9.3840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2500   13.4380  -11.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2500   12.7830   -9.2070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1340    7.3090   -8.5130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1130   14.4900  -10.8830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8560    7.4070   -9.7560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2340   13.0400  -11.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8850   13.4430  -12.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6020    8.1490   -9.6880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8340   12.3090  -13.0050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2130    7.6460  -10.6770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2730   14.0070  -13.5210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4680    5.0690   -6.8170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0420    5.1680   -9.7190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6730    6.0930   -9.8920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8060    5.9150   -9.0070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2720   13.6100  -12.6650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3770    5.1900   -8.6580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0960    6.0500  -10.9510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6300   10.0450   -7.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5770    7.3630   -9.6920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3950    5.0330   -5.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8250    8.2880   -8.5490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1190   10.3280   -6.3360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000    8.5480   -7.4960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1900    8.1880   -7.1630 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1350    6.8410   -8.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9550    6.2220   -7.5430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0420    6.8670   -7.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0160    5.8050   -9.1250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6390    4.5330   -8.1680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1200    7.9350   -6.7850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4730    6.5180   -6.7400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3720    4.5930   -8.9610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5240   13.3980  -14.7980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4880   -7.0750    2.2960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1740   -3.0060  -10.1660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0080   -2.1460   -9.5720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8460   -5.0300    3.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3740    0.1920   -8.9550 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5430   -0.8790  -11.3570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1640   -1.4490  -10.5130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8140   -1.1130  -10.2030 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5140   -2.3170   -8.5680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1420   -2.4600  -10.8930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0260   -1.1850   -9.2370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9200    0.5240   -8.5280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9460   -1.7340   -9.2950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9070    0.3820    1.9900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6850    2.5320   -9.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4590    2.9750   -8.1760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1830    2.7610   -7.3680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2140    2.4250   -7.8780 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4520   -1.5290   -8.3460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3460    1.0090   -7.7000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0050    0.2560   -7.6520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1150   -0.7920   -7.2900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1990   -6.0830    1.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1220   -5.2230    2.4670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8120    0.7980   -6.7610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3600    1.1580   -5.7160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3420    0.8320   -6.8760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4760   -0.5240   -3.6800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4970   -0.6700    2.7100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6270    1.6810    3.7430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3090   -0.7090    1.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7630    1.0280    1.6150 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7020   -2.6190    3.6790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0520   -5.0030    2.6340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8430   -0.5180   -6.1290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7480   -3.6930    2.1340 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0300   -1.6450    0.9550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7200   -2.7380    2.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7030   -3.1740    2.3230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4450   -1.4220    1.9220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3490    4.4950   -8.4030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5810   -6.0170    0.9000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9340   13.4240  -13.7820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5050   13.1930  -13.8060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2210   10.3490  -12.6090 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1910   12.9330  -12.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2790   11.3470  -13.5810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2530   12.4650  -12.8300 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7140   12.6610  -13.0270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6980   14.3310  -13.7140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7950   11.0150  -14.5060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2300    5.9660  -10.8080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2160    7.5640  -11.3610 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7100    6.7820   -9.2990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2850    4.7620   -8.9470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0890    7.9140  -12.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0910    9.0910  -13.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3870   11.5070  -13.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4660    5.9970   -9.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2520    8.3080  -11.5090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1740    8.9700  -13.7630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0460    8.9790  -13.7540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0340    6.4080  -10.5670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6150    6.9720  -12.6000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4760    6.6450   -9.6260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8730   12.8340  -14.8350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9280   12.9620  -13.7960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260    5.5670  -11.1920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2360    5.1400   -7.4770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2760    4.7220   -9.3110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8960   11.8700  -13.7630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7170   10.3280   -7.1110 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  4  1  0
+  2  9  1  0
+  2 51  1  0
+  2 58  1  0
+  3  6  1  0
+  3  8  1  0
+  3 25  1  0
+  5  9  1  0
+  6  9  1  0
+  7  9  1  0
+ 10 24  1  0
+ 11 13  1  0
+ 12 25  1  0
+ 13 27  1  0
+ 13 71  1  0
+ 13109  1  0
+ 14 24  1  0
+ 15 17  1  0
+ 16 24  1  0
+ 17 20  1  0
+ 17 21  1  0
+ 17 22  1  0
+ 18 21  1  0
+ 19 21  1  0
+ 21 23  1  0
+ 22 24  1  0
+ 23 25  1  0
+ 25 81  1  0
+ 26 71  1  0
+ 28 30  1  0
+ 29 30  1  0
+ 30 88  1  0
+ 30109  1  0
+ 31108  1  0
+ 32 36  1  0
+ 33 39  1  0
+ 33 46  1  0
+ 33 47  1  0
+ 33 50  1  0
+ 34 37  1  0
+ 35 41  1  0
+ 36 37  1  0
+ 36 38  1  0
+ 36 43  1  0
+ 37 40  1  0
+ 37 52  1  0
+ 39 44  1  0
+ 41 42  1  0
+ 41 43  1  0
+ 41 44  1  0
+ 44 45  1  0
+ 44 49  1  0
+ 48 50  1  0
+ 50 60  1  0
+ 50 78  1  0
+ 52 54  1  0
+ 53 54  1  0
+ 54 55  1  0
+ 54 56  1  0
+ 56 57  1  0
+ 56 58  1  0
+ 56 59  1  0
+ 61 92  1  0
+ 62 64  1  0
+ 63 64  1  0
+ 64 92  1  0
+ 64124  1  0
+ 65 68  1  0
+ 66 68  1  0
+ 66 76  1  0
+ 67 69  1  0
+ 68 69  1  0
+ 68 73  1  0
+ 69 70  1  0
+ 69 72  1  0
+ 71 72  1  0
+ 71 80  1  0
+ 74 76  1  0
+ 74 78  1  0
+ 74 79  1  0
+ 74 82  1  0
+ 75 76  1  0
+ 76 77  1  0
+ 83 95  1  0
+ 83110  1  0
+ 83112  1  0
+ 83192  1  0
+ 84 91  1  0
+ 85 87  1  0
+ 86188  1  0
+ 87 91  1  0
+ 87107  1  0
+ 87139  1  0
+ 88113  1  0
+ 88140  1  0
+ 88143  1  0
+ 89185  1  0
+ 90 91  1  0
+ 91110  1  0
+ 92 98  1  0
+ 92116  1  0
+ 93122  1  0
+ 94106  1  0
+ 96127  1  0
+ 96147  1  0
+ 96203  1  0
+ 96219  1  0
+ 97136  1  0
+ 99102  1  0
+100104  1  0
+101106  1  0
+101115  1  0
+102103  1  0
+102105  1  0
+102106  1  0
+104105  1  0
+104118  1  0
+104119  1  0
+106111  1  0
+107117  1  0
+108148  1  0
+108167  1  0
+108176  1  0
+113122  1  0
+114115  1  0
+115117  1  0
+115217  1  0
+116119  1  0
+117215  1  0
+117224  1  0
+119134  1  0
+119141  1  0
+120136  1  0
+121137  1  0
+122126  1  0
+122131  1  0
+123126  1  0
+124212  1  0
+125188  1  0
+126132  1  0
+126138  1  0
+127144  1  0
+128137  1  0
+129203  1  0
+130144  1  0
+132136  1  0
+133137  1  0
+133145  1  0
+135145  1  0
+136145  1  0
+137144  1  0
+142144  1  0
+145146  1  0
+149156  1  0
+149157  1  0
+150152  1  0
+150174  1  0
+151152  1  0
+152153  1  0
+152157  1  0
+154157  1  0
+155157  1  0
+156159  1  0
+156161  1  0
+156162  1  0
+158160  1  0
+158181  1  0
+160163  1  0
+160165  1  0
+160169  1  0
+162164  1  0
+162166  1  0
+162171  1  0
+167185  1  0
+168169  1  0
+169170  1  0
+169173  1  0
+170188  1  0
+171256  1  0
+172185  1  0
+174178  1  0
+174179  1  0
+174261  1  0
+175181  1  0
+177179  1  0
+179180  1  0
+179186  1  0
+180183  1  0
+181183  1  0
+181184  1  0
+182183  1  0
+183187  1  0
+185188  1  0
+189256  1  0
+190212  1  0
+191192  1  0
+192197  1  0
+192198  1  0
+193223  1  0
+194200  1  0
+194210  1  0
+195196  1  0
+196197  1  0
+196199  1  0
+196200  1  0
+200202  1  0
+200208  1  0
+201209  1  0
+203218  1  0
+203221  1  0
+204205  1  0
+205206  1  0
+205207  1  0
+205230  1  0
+207209  1  0
+209210  1  0
+209214  1  0
+210211  1  0
+210216  1  0
+212223  1  0
+212231  1  0
+213223  1  0
+218229  1  0
+220229  1  0
+222227  1  0
+223225  1  0
+225227  1  0
+226229  1  0
+227228  1  0
+227229  1  0
+230244  1  0
+230258  1  0
+230259  1  0
+232238  1  0
+233237  1  0
+233239  1  0
+233255  1  0
+233256  1  0
+234236  1  0
+234246  1  0
+235238  1  0
+236238  1  0
+236240  1  0
+236247  1  0
+237238  1  0
+241248  1  0
+242245  1  0
+242252  1  0
+243248  1  0
+245246  1  0
+245249  1  0
+245253  1  0
+246250  1  0
+246251  1  0
+248252  1  0
+248259  1  0
+252254  1  0
+252257  1  0
+256260  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 1], "6": ["peg", 4]}', 'substructure_query_id': 1}, 1: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 0], "2": ["peg", 3]}', 'substructure_query_id': 0}, 2: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 0], "6": ["peg", 3]}', 'substructure_query_id': 0}, 3: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 1], "2": ["peg", 4]}', 'substructure_query_id': 1}, 4: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 4], "2": ["peg", 1]}', 'substructure_query_id': 4}, 5: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 6], "6": ["peg", 6]}', 'substructure_query_id': 6}, 6: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 5], "2": ["peg", 2]}', 'substructure_query_id': 5}, 7: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 2], "6": ["peg", 5]}', 'substructure_query_id': 2}, 8: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 3], "2": ["peg", 0]}', 'substructure_query_id': 3}, 9: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"72": ["peg_TERM2", 8], "74": ["peg_TERM3", 10]}', 'substructure_query_id': 8}, 10: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 1], "19": ["peg", 4]}', 'substructure_query_id': 1}, 11: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 4], "6": ["peg", 1]}', 'substructure_query_id': 4}, 12: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 0], "19": ["peg", 3]}', 'substructure_query_id': 0}, 13: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"72": ["peg_TERM2", 9], "74": ["peg_TERM3", 11]}', 'substructure_query_id': 9}, 14: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 1], "5": ["peg", 4], "72": ["peg_TERM2", 4], "74": ["peg_TERM3", 1]}', 'substructure_query_id': 4}, 15: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"72": ["peg_TERM2", 10], "74": ["peg_TERM3", 12]}', 'substructure_query_id': 10}, 16: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 0], "5": ["peg", 3], "72": ["peg_TERM2", 3], "74": ["peg_TERM3", 0]}', 'substructure_query_id': 3}, 17: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 4], "5": ["peg", 1], "72": ["peg_TERM2", 1], "74": ["peg_TERM3", 4]}', 'substructure_query_id': 1}, 18: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 5], "5": ["peg", 2], "72": ["peg_TERM2", 2], "74": ["peg_TERM3", 5]}', 'substructure_query_id': 2}, 19: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 2], "5": ["peg", 5], "72": ["peg_TERM2", 5], "74": ["peg_TERM3", 2]}', 'substructure_query_id': 5}, 20: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["peg", 3], "5": ["peg", 0], "72": ["peg_TERM2", 0], "74": ["peg_TERM3", 3]}', 'substructure_query_id': 0}, 21: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["peg", 6], "72": ["peg_TERM2", 6], "74": ["peg_TERM3", 8]}', 'substructure_query_id': 6}, 22: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 6], "4": ["peg", 6], "74": ["peg_TERM3", 6]}', 'substructure_query_id': 6}, 23: {'residue_name': 'peg_TERM2', 'residue_number': 72, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"72": ["peg_TERM2", 7], "74": ["peg_TERM3", 9]}', 'substructure_query_id': 7}, 24: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 3], "6": ["peg", 0]}', 'substructure_query_id': 3}, 25: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 4], "19": ["peg", 1]}', 'substructure_query_id': 4}, 26: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 2], "19": ["peg", 5]}', 'substructure_query_id': 2}, 27: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 1], "24": ["peg", 4]}', 'substructure_query_id': 4}, 28: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 2], "24": ["peg", 5]}', 'substructure_query_id': 5}, 29: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 0], "24": ["peg", 3]}', 'substructure_query_id': 3}, 30: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"73": ["peg_TERM2", 8], "75": ["peg_TERM3", 10]}', 'substructure_query_id': 10}, 31: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 1], "10": ["peg", 4]}', 'substructure_query_id': 1}, 32: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 0], "13": ["peg", 3]}', 'substructure_query_id': 3}, 33: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 4], "10": ["peg", 1]}', 'substructure_query_id': 4}, 34: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 1], "12": ["peg", 4]}', 'substructure_query_id': 4}, 35: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 0], "10": ["peg", 3]}', 'substructure_query_id': 0}, 36: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 3], "10": ["peg", 0]}', 'substructure_query_id': 3}, 37: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 2], "10": ["peg", 5]}', 'substructure_query_id': 2}, 38: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 6], "13": ["peg", 6]}', 'substructure_query_id': 6}, 39: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 5], "10": ["peg", 2]}', 'substructure_query_id': 5}, 40: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 0], "12": ["peg", 3]}', 'substructure_query_id': 3}, 41: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 2], "12": ["peg", 5]}', 'substructure_query_id': 5}, 42: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"10": ["peg", 6], "12": ["peg", 6]}', 'substructure_query_id': 6}, 43: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 3], "12": ["peg", 0]}', 'substructure_query_id': 0}, 44: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 4], "12": ["peg", 1]}', 'substructure_query_id': 1}, 45: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 1], "13": ["peg", 4]}', 'substructure_query_id': 4}, 46: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 2], "13": ["peg", 5]}', 'substructure_query_id': 5}, 47: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 4], "13": ["peg", 1]}', 'substructure_query_id': 1}, 48: {'residue_name': 'peg', 'residue_number': 12, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["peg", 5], "12": ["peg", 2]}', 'substructure_query_id': 2}, 49: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 3], "13": ["peg", 0]}', 'substructure_query_id': 0}, 50: {'residue_name': 'peg', 'residue_number': 0, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["peg", 2], "2": ["peg", 5]}', 'substructure_query_id': 2}, 51: {'residue_name': 'peg', 'residue_number': 9, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["peg", 6], "15": ["peg", 6]}', 'substructure_query_id': 6}, 52: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 1], "15": ["peg", 4]}', 'substructure_query_id': 1}, 53: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 0], "15": ["peg", 3]}', 'substructure_query_id': 0}, 54: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 2], "15": ["peg", 5]}', 'substructure_query_id': 2}, 55: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 3], "15": ["peg", 0]}', 'substructure_query_id': 3}, 56: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 4], "15": ["peg", 1]}', 'substructure_query_id': 4}, 57: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["peg", 6], "14": ["peg", 6]}', 'substructure_query_id': 6}, 58: {'residue_name': 'peg', 'residue_number': 14, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["peg", 5], "15": ["peg", 2]}', 'substructure_query_id': 5}, 59: {'residue_name': 'peg', 'residue_number': 13, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 5], "13": ["peg", 2]}', 'substructure_query_id': 2}, 60: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 4], "26": ["peg", 1]}', 'substructure_query_id': 1}, 61: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 1], "26": ["peg", 4]}', 'substructure_query_id': 4}, 62: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 2], "26": ["peg", 5]}', 'substructure_query_id': 5}, 63: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 0], "26": ["peg", 3]}', 'substructure_query_id': 3}, 64: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 1], "18": ["peg", 4]}', 'substructure_query_id': 4}, 65: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["peg", 6], "20": ["peg", 6]}', 'substructure_query_id': 6}, 66: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 4], "18": ["peg", 1]}', 'substructure_query_id': 1}, 67: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 0], "18": ["peg", 3]}', 'substructure_query_id': 3}, 68: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 3], "18": ["peg", 0]}', 'substructure_query_id': 0}, 69: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 5], "18": ["peg", 2]}', 'substructure_query_id': 2}, 70: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 3], "19": ["peg", 0]}', 'substructure_query_id': 3}, 71: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 6], "17": ["peg", 6]}', 'substructure_query_id': 6}, 72: {'residue_name': 'peg', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["peg", 2], "18": ["peg", 5]}', 'substructure_query_id': 5}, 73: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 0], "21": ["peg", 3]}', 'substructure_query_id': 3}, 74: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 4], "21": ["peg", 1]}', 'substructure_query_id': 1}, 75: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 3], "21": ["peg", 0]}', 'substructure_query_id': 0}, 76: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 5], "21": ["peg", 2]}', 'substructure_query_id': 2}, 77: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["peg", 6], "21": ["peg", 6]}', 'substructure_query_id': 6}, 78: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 1], "21": ["peg", 4]}', 'substructure_query_id': 4}, 79: {'residue_name': 'peg', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["peg", 5], "19": ["peg", 2]}', 'substructure_query_id': 5}, 80: {'residue_name': 'peg', 'residue_number': 1, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["peg", 5], "6": ["peg", 2]}', 'substructure_query_id': 5}, 81: {'residue_name': 'peg', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["peg", 2], "21": ["peg", 5]}', 'substructure_query_id': 5}, 82: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 0], "52": ["peg", 3]}', 'substructure_query_id': 3}, 83: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 4], "25": ["peg", 1]}', 'substructure_query_id': 1}, 84: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 1], "25": ["peg", 4]}', 'substructure_query_id': 4}, 85: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 4], "51": ["peg", 1], "73": ["peg_TERM2", 1], "75": ["peg_TERM3", 4]}', 'substructure_query_id': 4}, 86: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 0], "25": ["peg", 3]}', 'substructure_query_id': 3}, 87: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 3], "24": ["peg", 0]}', 'substructure_query_id': 0}, 88: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 1], "51": ["peg", 4], "73": ["peg_TERM2", 4], "75": ["peg_TERM3", 1]}', 'substructure_query_id': 1}, 89: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 5], "25": ["peg", 2]}', 'substructure_query_id': 2}, 90: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 3], "25": ["peg", 0]}', 'substructure_query_id': 0}, 91: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 3], "26": ["peg", 0]}', 'substructure_query_id': 0}, 92: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 1], "35": ["peg", 4]}', 'substructure_query_id': 4}, 93: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 4], "30": ["peg", 1]}', 'substructure_query_id': 1}, 94: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 1], "52": ["peg", 4]}', 'substructure_query_id': 4}, 95: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 0], "55": ["peg", 3]}', 'substructure_query_id': 3}, 96: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 1], "39": ["peg", 4]}', 'substructure_query_id': 4}, 97: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 5], "26": ["peg", 2]}', 'substructure_query_id': 2}, 98: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 1], "30": ["peg", 4]}', 'substructure_query_id': 4}, 99: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 1], "33": ["peg", 4]}', 'substructure_query_id': 1}, 100: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 6], "32": ["peg", 6]}', 'substructure_query_id': 6}, 101: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 0], "30": ["peg", 3]}', 'substructure_query_id': 3}, 102: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 2], "30": ["peg", 5]}', 'substructure_query_id': 5}, 103: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 0], "33": ["peg", 3]}', 'substructure_query_id': 0}, 104: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"30": ["peg", 6], "33": ["peg", 6]}', 'substructure_query_id': 6}, 105: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 3], "30": ["peg", 0]}', 'substructure_query_id': 0}, 106: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"25": ["peg", 6], "31": ["peg", 6]}', 'substructure_query_id': 6}, 107: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"73": ["peg_TERM2", 7], "75": ["peg_TERM3", 9]}', 'substructure_query_id': 9}, 108: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["peg", 6], "24": ["peg", 6]}', 'substructure_query_id': 6}, 109: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 6], "52": ["peg", 6]}', 'substructure_query_id': 6}, 110: {'residue_name': 'peg', 'residue_number': 30, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"28": ["peg", 5], "30": ["peg", 2]}', 'substructure_query_id': 2}, 111: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 2], "52": ["peg", 5]}', 'substructure_query_id': 5}, 112: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 6], "35": ["peg", 6]}', 'substructure_query_id': 6}, 113: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 1], "32": ["peg", 4]}', 'substructure_query_id': 4}, 114: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 0], "32": ["peg", 3]}', 'substructure_query_id': 3}, 115: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["peg", 6], "29": ["peg", 6]}', 'substructure_query_id': 6}, 116: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 3], "32": ["peg", 0]}', 'substructure_query_id': 0}, 117: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 2], "33": ["peg", 5]}', 'substructure_query_id': 2}, 118: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 3], "33": ["peg", 0]}', 'substructure_query_id': 3}, 119: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 2], "39": ["peg", 5]}', 'substructure_query_id': 5}, 120: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 1], "38": ["peg", 4]}', 'substructure_query_id': 4}, 121: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 0], "35": ["peg", 3]}', 'substructure_query_id': 3}, 122: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 4], "35": ["peg", 1]}', 'substructure_query_id': 1}, 123: {'residue_name': 'peg', 'residue_number': 26, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"26": ["peg", 6], "60": ["peg", 6]}', 'substructure_query_id': 6}, 124: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 5], "51": ["peg", 2], "73": ["peg_TERM2", 2], "75": ["peg_TERM3", 5]}', 'substructure_query_id': 5}, 125: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 3], "35": ["peg", 0]}', 'substructure_query_id': 0}, 126: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 6], "55": ["peg", 6]}', 'substructure_query_id': 6}, 127: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 2], "38": ["peg", 5]}', 'substructure_query_id': 5}, 128: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 4], "55": ["peg", 1]}', 'substructure_query_id': 1}, 129: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 4], "38": ["peg", 1]}', 'substructure_query_id': 1}, 130: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 2], "35": ["peg", 5]}', 'substructure_query_id': 5}, 131: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 6], "39": ["peg", 6]}', 'substructure_query_id': 6}, 132: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 6], "38": ["peg", 6]}', 'substructure_query_id': 6}, 133: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 4], "33": ["peg", 1]}', 'substructure_query_id': 4}, 134: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 4], "39": ["peg", 1]}', 'substructure_query_id': 1}, 135: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 0], "39": ["peg", 3]}', 'substructure_query_id': 3}, 136: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 0], "38": ["peg", 3]}', 'substructure_query_id': 3}, 137: {'residue_name': 'peg', 'residue_number': 35, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"34": ["peg", 5], "35": ["peg", 2]}', 'substructure_query_id': 2}, 138: {'residue_name': 'peg', 'residue_number': 25, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"23": ["peg", 2], "25": ["peg", 5]}', 'substructure_query_id': 5}, 139: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 4], "24": ["peg", 1]}', 'substructure_query_id': 1}, 140: {'residue_name': 'peg', 'residue_number': 29, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"29": ["peg", 5], "33": ["peg", 2]}', 'substructure_query_id': 5}, 141: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 5], "38": ["peg", 2]}', 'substructure_query_id': 2}, 142: {'residue_name': 'peg', 'residue_number': 24, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["peg", 5], "24": ["peg", 2]}', 'substructure_query_id': 2}, 143: {'residue_name': 'peg', 'residue_number': 38, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"37": ["peg", 3], "38": ["peg", 0]}', 'substructure_query_id': 0}, 144: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 3], "39": ["peg", 0]}', 'substructure_query_id': 0}, 145: {'residue_name': 'peg', 'residue_number': 39, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"36": ["peg", 5], "39": ["peg", 2]}', 'substructure_query_id': 2}, 146: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 1], "55": ["peg", 4]}', 'substructure_query_id': 4}, 147: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"73": ["peg_TERM2", 9], "75": ["peg_TERM3", 11]}', 'substructure_query_id': 11}, 148: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 6], "44": ["peg", 6]}', 'substructure_query_id': 6}, 149: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"42": ["peg", 6], "47": ["peg", 6]}', 'substructure_query_id': 6}, 150: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 1], "42": ["peg", 4]}', 'substructure_query_id': 1}, 151: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 0], "42": ["peg", 3]}', 'substructure_query_id': 0}, 152: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 2], "42": ["peg", 5]}', 'substructure_query_id': 2}, 153: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 4], "42": ["peg", 1]}', 'substructure_query_id': 4}, 154: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 5], "42": ["peg", 2]}', 'substructure_query_id': 5}, 155: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 0], "44": ["peg", 3]}', 'substructure_query_id': 0}, 156: {'residue_name': 'peg', 'residue_number': 40, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"40": ["peg", 3], "42": ["peg", 0]}', 'substructure_query_id': 3}, 157: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"45": ["peg", 6], "49": ["peg", 6]}', 'substructure_query_id': 6}, 158: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 1], "44": ["peg", 4]}', 'substructure_query_id': 1}, 159: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 0], "45": ["peg", 3]}', 'substructure_query_id': 3}, 160: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 2], "44": ["peg", 5]}', 'substructure_query_id': 2}, 161: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 3], "44": ["peg", 0]}', 'substructure_query_id': 3}, 162: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 1], "45": ["peg", 4]}', 'substructure_query_id': 4}, 163: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 4], "44": ["peg", 1]}', 'substructure_query_id': 4}, 164: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 2], "45": ["peg", 5]}', 'substructure_query_id': 5}, 165: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 5], "44": ["peg", 2]}', 'substructure_query_id': 5}, 166: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"51": ["peg", 6], "73": ["peg_TERM2", 6], "75": ["peg_TERM3", 8]}', 'substructure_query_id': 8}, 167: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 4], "45": ["peg", 1]}', 'substructure_query_id': 1}, 168: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 3], "45": ["peg", 0]}', 'substructure_query_id': 0}, 169: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 6], "50": ["peg", 6], "75": ["peg_TERM3", 6]}', 'substructure_query_id': 6}, 170: {'residue_name': 'peg', 'residue_number': 41, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"41": ["peg", 6], "64": ["peg", 6]}', 'substructure_query_id': 6}, 171: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 2], "51": ["peg", 5], "73": ["peg_TERM2", 5], "75": ["peg_TERM3", 2]}', 'substructure_query_id': 2}, 172: {'residue_name': 'peg', 'residue_number': 45, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"43": ["peg", 5], "45": ["peg", 2]}', 'substructure_query_id': 2}, 173: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 0], "47": ["peg", 3]}', 'substructure_query_id': 3}, 174: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 1], "49": ["peg", 4]}', 'substructure_query_id': 1}, 175: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"73": ["peg_TERM2", 10], "75": ["peg_TERM3", 12]}', 'substructure_query_id': 12}, 176: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 4], "47": ["peg", 1]}', 'substructure_query_id': 1}, 177: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 1], "47": ["peg", 4]}', 'substructure_query_id': 4}, 178: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 3], "47": ["peg", 0]}', 'substructure_query_id': 0}, 179: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 6], "48": ["peg", 6]}', 'substructure_query_id': 6}, 180: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 0], "49": ["peg", 3]}', 'substructure_query_id': 0}, 181: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 4], "49": ["peg", 1]}', 'substructure_query_id': 4}, 182: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 3], "49": ["peg", 0]}', 'substructure_query_id': 3}, 183: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 2], "49": ["peg", 5]}', 'substructure_query_id': 2}, 184: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 0], "51": ["peg", 3], "73": ["peg_TERM2", 3], "75": ["peg_TERM3", 0]}', 'substructure_query_id': 0}, 185: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 5], "47": ["peg", 2]}', 'substructure_query_id': 2}, 186: {'residue_name': 'peg', 'residue_number': 48, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"48": ["peg", 5], "49": ["peg", 2]}', 'substructure_query_id': 5}, 187: {'residue_name': 'peg_TERM3', 'residue_number': 75, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"50": ["peg", 3], "51": ["peg", 0], "73": ["peg_TERM2", 0], "75": ["peg_TERM3", 3]}', 'substructure_query_id': 3}, 188: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 4], "71": ["peg", 1]}', 'substructure_query_id': 1}, 189: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 1], "60": ["peg", 4]}', 'substructure_query_id': 1}, 190: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 4], "52": ["peg", 1]}', 'substructure_query_id': 1}, 191: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 3], "52": ["peg", 0]}', 'substructure_query_id': 0}, 192: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 4], "60": ["peg", 1]}', 'substructure_query_id': 4}, 193: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 6], "57": ["peg", 6]}', 'substructure_query_id': 6}, 194: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 1], "54": ["peg", 4]}', 'substructure_query_id': 4}, 195: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 0], "54": ["peg", 3]}', 'substructure_query_id': 3}, 196: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 6], "54": ["peg", 6]}', 'substructure_query_id': 6}, 197: {'residue_name': 'peg', 'residue_number': 52, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["peg", 5], "52": ["peg", 2]}', 'substructure_query_id': 2}, 198: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 2], "54": ["peg", 5]}', 'substructure_query_id': 5}, 199: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 3], "54": ["peg", 0]}', 'substructure_query_id': 0}, 200: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 1], "58": ["peg", 4]}', 'substructure_query_id': 1}, 201: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 4], "54": ["peg", 1]}', 'substructure_query_id': 1}, 202: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 3], "55": ["peg", 0]}', 'substructure_query_id': 0}, 203: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 1], "63": ["peg", 4]}', 'substructure_query_id': 4}, 204: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 0], "63": ["peg", 3]}', 'substructure_query_id': 3}, 205: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 2], "63": ["peg", 5]}', 'substructure_query_id': 5}, 206: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"58": ["peg", 6], "63": ["peg", 6]}', 'substructure_query_id': 6}, 207: {'residue_name': 'peg', 'residue_number': 54, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"53": ["peg", 5], "54": ["peg", 2]}', 'substructure_query_id': 2}, 208: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 0], "58": ["peg", 3]}', 'substructure_query_id': 0}, 209: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 3], "58": ["peg", 0]}', 'substructure_query_id': 3}, 210: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 4], "58": ["peg", 1]}', 'substructure_query_id': 4}, 211: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 0], "60": ["peg", 3]}', 'substructure_query_id': 0}, 212: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 5], "60": ["peg", 2]}', 'substructure_query_id': 5}, 213: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 2], "58": ["peg", 5]}', 'substructure_query_id': 2}, 214: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 4], "32": ["peg", 1]}', 'substructure_query_id': 1}, 215: {'residue_name': 'peg', 'residue_number': 57, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"57": ["peg", 5], "58": ["peg", 2]}', 'substructure_query_id': 5}, 216: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 2], "32": ["peg", 5]}', 'substructure_query_id': 5}, 217: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 6], "61": ["peg", 6]}', 'substructure_query_id': 6}, 218: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 2], "55": ["peg", 5]}', 'substructure_query_id': 5}, 219: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 4], "62": ["peg", 1]}', 'substructure_query_id': 4}, 220: {'residue_name': 'peg', 'residue_number': 55, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"27": ["peg", 5], "55": ["peg", 2]}', 'substructure_query_id': 2}, 221: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 1], "62": ["peg", 4]}', 'substructure_query_id': 1}, 222: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 3], "60": ["peg", 0]}', 'substructure_query_id': 3}, 223: {'residue_name': 'peg', 'residue_number': 32, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"31": ["peg", 5], "32": ["peg", 2]}', 'substructure_query_id': 2}, 224: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 6], "62": ["peg", 6]}', 'substructure_query_id': 6}, 225: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 5], "62": ["peg", 2]}', 'substructure_query_id': 5}, 226: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 0], "62": ["peg", 3]}', 'substructure_query_id': 0}, 227: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 2], "62": ["peg", 5]}', 'substructure_query_id': 2}, 228: {'residue_name': 'peg', 'residue_number': 61, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"61": ["peg", 3], "62": ["peg", 0]}', 'substructure_query_id': 3}, 229: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 3], "63": ["peg", 0]}', 'substructure_query_id': 0}, 230: {'residue_name': 'peg', 'residue_number': 59, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"59": ["peg", 2], "60": ["peg", 5]}', 'substructure_query_id': 2}, 231: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 4], "66": ["peg", 1]}', 'substructure_query_id': 1}, 232: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 0], "71": ["peg", 3]}', 'substructure_query_id': 3}, 233: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"66": ["peg", 6], "67": ["peg", 6]}', 'substructure_query_id': 6}, 234: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 5], "66": ["peg", 2]}', 'substructure_query_id': 2}, 235: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 0], "66": ["peg", 3]}', 'substructure_query_id': 3}, 236: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 6], "71": ["peg", 6]}', 'substructure_query_id': 6}, 237: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 3], "66": ["peg", 0]}', 'substructure_query_id': 0}, 238: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 1], "71": ["peg", 4]}', 'substructure_query_id': 4}, 239: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 1], "66": ["peg", 4]}', 'substructure_query_id': 4}, 240: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 1], "70": ["peg", 4]}', 'substructure_query_id': 4}, 241: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"68": ["peg", 6], "69": ["peg", 6]}', 'substructure_query_id': 6}, 242: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 2], "70": ["peg", 5]}', 'substructure_query_id': 5}, 243: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 4], "63": ["peg", 1]}', 'substructure_query_id': 1}, 244: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 0], "68": ["peg", 3]}', 'substructure_query_id': 3}, 245: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 3], "68": ["peg", 0]}', 'substructure_query_id': 0}, 246: {'residue_name': 'peg', 'residue_number': 66, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"65": ["peg", 2], "66": ["peg", 5]}', 'substructure_query_id': 5}, 247: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 0], "70": ["peg", 3]}', 'substructure_query_id': 3}, 248: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 1], "68": ["peg", 4]}', 'substructure_query_id': 4}, 249: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 4], "68": ["peg", 1]}', 'substructure_query_id': 1}, 250: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 5], "68": ["peg", 2]}', 'substructure_query_id': 2}, 251: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 3], "70": ["peg", 0]}', 'substructure_query_id': 0}, 252: {'residue_name': 'peg', 'residue_number': 68, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"67": ["peg", 2], "68": ["peg", 5]}', 'substructure_query_id': 5}, 253: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 4], "70": ["peg", 1]}', 'substructure_query_id': 1}, 254: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 2], "71": ["peg", 5]}', 'substructure_query_id': 5}, 255: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 3], "71": ["peg", 0]}', 'substructure_query_id': 0}, 256: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"69": ["peg", 5], "70": ["peg", 2]}', 'substructure_query_id': 2}, 257: {'residue_name': 'peg', 'residue_number': 63, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 5], "63": ["peg", 2]}', 'substructure_query_id': 2}, 258: {'residue_name': 'peg', 'residue_number': 70, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"56": ["peg", 6], "70": ["peg", 6]}', 'substructure_query_id': 6}, 259: {'residue_name': 'peg', 'residue_number': 71, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"64": ["peg", 5], "71": ["peg", 2]}', 'substructure_query_id': 2}, 260: {'residue_name': 'peg', 'residue_number': 47, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"46": ["peg", 2], "47": ["peg", 5]}', 'substructure_query_id': 5}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+0.090229952386740975 0.061160394600753128 0.061160387150172531 0.090229930034999184 0.090229922584418587 -0.48399821514713354 0.090229922584418587 0.090229952386740975 0.061160394600753128
+0.047260747901324569 0.090229922584418587 0.090229922584418587 0.061160357347850143 0.047260747901324569 0.090295159868125252 0.047260747901324569 0.070020893267516426 0.090229922584418587
+0.090229922584418587 0.090295159868125252 0.062753514996890358 -0.46853584642040319 -0.48399821514713354 0.087809594026927285 0.06116036479843074 0.090229922584418587 0.090229922584418587
+0.090229922584418587 0.090229922584418587 0.06116036479843074 0.047260747901324569 0.09022991513383799 0.061160387150172531 0.09022991513383799 0.090229937485579781 0.061160402051333725
+0.061160402051333725 0.09022991513383799 -0.48399818534481115 0.09022991513383799 0.061160372249011337 0.090229937485579781 -0.48399821514713354 0.061160394600753128 0.090229930034999184
+0.090229922584418587 0.090229922584418587 0.090229944936160378 0.090229930034999184 0.061160416952494918 0.090229930034999184 -0.48399821514713354 0.090229952386740975 0.061160379699591934
+0.090229952386740975 0.06116036479843074 0.090229922584418587 -0.48399821514713354 0.090229922584418587 0.090229944936160378 0.090229922584418587 0.090229952386740975 0.090229952386740975
+0.061160357347850143 0.090229922584418587 -0.48399821514713354 0.090229930034999184 0.061160394600753128 0.061160409501914322 0.090229930034999184 0.061160387150172531 -0.48399821514713354
+0.090229922584418587 0.061160409501914322 0.090229930034999184 0.061160379699591934 0.090229930034999184 -0.48399821514713354 0.090229930034999184 0.090229922584418587 0.090229922584418587
+0.090229930034999184 0.061160379699591934 0.090229930034999184 0.090229922584418587 0.090229922584418587 0.061160387150172531 0.061160402051333725 0.090295152417544655 0.090229930034999184
+0.061160409501914322 0.061160424403075515 0.090229930034999184 0.090229930034999184 0.090229952386740975 0.061160387150172531 0.09022991513383799 0.090229922584418587 0.090229922584418587
+0.090229937485579781 -0.48399818534481115 0.061160379699591934 0.090229922584418587 0.061160379699591934 -0.48399821514713354 0.061160372249011337 -0.48399821514713354 0.087809586576346688
+-0.48399821514713354 -0.48399821514713354 0.090229930034999184 0.090229952386740975 -0.48399818534481115 0.090229922584418587 0.06116036479843074 -0.48399821514713354 0.061160409501914322
+0.090229937485579781 0.061160424403075515 0.09022991513383799 0.09022991513383799 0.061160372249011337 0.090229922584418587 -0.48399818534481115 0.090229922584418587 0.06116036479843074
+-0.48399827475177831 0.09022991513383799 0.090229922584418587 0.090229930034999184 0.090229930034999184 -0.48399821514713354 -0.48399818534481115 0.090229930034999184 0.090229922584418587
+0.061160379699591934 0.061160379699591934 0.090229922584418587 0.090229922584418587 0.090229930034999184 0.090229930034999184 0.090229930034999184 0.090229930034999184 0.061160372249011337
+0.061160387150172531 0.090229922584418587 0.090229930034999184 0.047260747901324569 -0.48399818534481115 -0.48399821514713354 0.090229937485579781 0.06116036479843074 0.090229937485579781
+0.090229930034999184 0.090229930034999184 0.061160387150172531 0.061160402051333725 -0.48399821514713354 0.090229922584418587 0.061160379699591934 0.090229922584418587 0.061160394600753128
+0.090229952386740975 0.090229922584418587 0.090229952386740975 0.090229922584418587 -0.46853587622272558 0.090229922584418587 0.061160379699591934 -0.48399818534481115 -0.48399821514713354
+0.090295152417544655 0.090229922584418587 0.061160372249011337 0.090229922584418587 0.047260747901324569 0.090229922584418587 0.090229922584418587 0.06116036479843074 -0.48399821514713354
+0.061160379699591934 0.090229930034999184 0.061160402051333725 0.090229922584418587 0.070020870915774636 0.090229922584418587 0.090229930034999184 0.062753477743987374 0.090229930034999184
+0.090229922584418587 0.090229922584418587 0.061160379699591934 0.09022991513383799 -0.48399824494945592 0.090229937485579781 0.061160379699591934 -0.48399821514713354 0.090229922584418587
+0.090229937485579781 0.061160402051333725 0.090229922584418587 0.090229930034999184 0.06116036479843074 0.09022991513383799 0.061160379699591934 0.09022991513383799 -0.48399821514713354
+0.090229930034999184 0.061160379699591934 0.061160402051333725 0.090229930034999184 0.061160387150172531 0.09022991513383799 0.090229922584418587 0.090229930034999184 0.090229930034999184
+0.090229922584418587 -0.48399818534481115 0.090229930034999184 0.090229922584418587 0.090229922584418587 0.09022991513383799 0.061160424403075515 0.090229930034999184 -0.48399821514713354
+0.090229922584418587 0.061160379699591934 0.09022991513383799 0.061160394600753128 0.061160394600753128 0.090229922584418587 0.090229922584418587 0.06116036479843074 -0.48399824494945592
+0.090229922584418587 0.061160387150172531 -0.48399815554248876 0.061160379699591934 0.090229922584418587 0.090229930034999184 0.090229922584418587 -0.48399824494945592 0.090229922584418587
+0.090229930034999184 0.061160424403075515 0.061160424403075515 0.090229930034999184 0.061160357347850143 0.090229900232676796 0.090229900232676796 0.090229900232676796 0.061160387150172531
+0.090229900232676796 0.090229930034999184 0.090229922584418587 0.061160394600753128 0.090229930034999184 0.090229930034999184 -0.48399821514713354 0.090229930034999184 0.090229922584418587
+
+$$$$

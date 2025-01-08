@@ -1,0 +1,275 @@
+
+     RDKit          3D
+
+118129  0  0  0  0  0  0  0  0999 V2000
+   -1.4390   -0.6190    5.5200 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7840    0.5230    3.6510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4570    6.1670   10.4210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0690   -1.5530    4.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7750   -2.4280    6.7160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1100   -1.2800    6.6440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -0.8200    8.6130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2400    1.5950    8.1650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7940    1.0960    7.5010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5360    2.4680    5.8470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6300    0.8630    3.9340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0260    0.6680    4.9910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7680   -0.8490    4.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7730   -2.1560    5.1690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2370    1.8990    6.6380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4280    1.6680    4.9120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3240   -0.0600    8.2630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5480   -1.7080    7.6670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950   -1.1930    7.8910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0010   -1.3750    7.6790 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1620    0.2640    3.7230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4430   -1.9460    6.4630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9700   -1.2100    8.2730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7300    2.4680    8.6370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2350    1.7350    6.8260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4240    2.2970   11.9780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1360    4.6410   12.3520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0870    5.3440    8.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3910    3.0100    7.7170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5700   -0.9350    5.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0200   -1.3710    6.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3300   -0.5020    7.6130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7100    0.9690    7.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2580    1.4190    6.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9380    0.5430    4.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0450   -1.1010    5.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7310    1.2690    5.8850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8060   -0.6570    7.4780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2890   -0.2160    6.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7560   -0.3550    5.9020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9590   -0.8610    6.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5660   -0.9640    6.8480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0770   -0.5360    5.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6720   -0.0610    4.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0730    0.0090    4.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2340   -0.1630    6.5470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2940   -0.9800    6.9380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1560   -0.5620    7.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9730    0.6890    8.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9090    1.5090    8.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0480    1.0870    7.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9020    1.0900    9.6440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3190    2.5040    9.8280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5540    2.9650   11.1290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9570    4.2840   11.3400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1380    5.1400   10.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9270    4.6780    8.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5230    3.3590    8.7380 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3330    0.2310   10.4090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4100   -2.9820  -11.7700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1590   -3.0750  -12.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5590   -1.6770  -12.8500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6010   -0.7640  -13.5160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8620   -0.6730  -12.6410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4480   -2.0770  -12.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0240   -2.3790  -10.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4890   -0.0790  -11.2710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1690   -1.0910  -11.4810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4110   -0.9440  -10.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0110   -0.3100   -9.1990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2090   -0.9950   -7.9820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8490   -0.4370   -6.7500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2620    0.8220   -6.7030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0740    1.5400   -7.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4380    0.9760   -9.1060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2090    0.7040   -4.6030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9060   -0.0670   -4.9430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5940   -0.7650   -3.9480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1880   -0.6680   -2.6110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0710    0.1080   -2.2750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6170    0.8040   -3.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9400   -1.4360   -1.5870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1420   -0.9100   -0.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3450    0.4550    0.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5460    0.9060    1.3360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5420    0.0010    2.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3810   -1.3660    2.1550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1810   -1.8200    0.8500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4070   -2.5320   -1.8840 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8330   -3.9820  -11.6240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4200   -3.7400  -12.1900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4170   -3.5140  -13.6250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6690   -1.7460  -13.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1790    0.2370  -13.6710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8620   -1.1560  -14.5070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6040   -0.0310  -13.1300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3570   -2.0240  -11.8330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7420   -2.5000  -13.4140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9210   -2.3500   -9.7750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3070   -3.0530   -9.9190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1450    0.9480  -11.4310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3880   -0.0020  -10.6430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6760   -0.1300  -11.6550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4180   -1.7340  -11.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6550   -1.9850   -7.9530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0370   -0.9970   -5.8370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6390    2.5330   -7.8230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2440   -0.1330   -5.9730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4510   -1.3800   -4.2160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2840    0.1690   -1.2500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4800    1.4130   -3.0140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3730    1.1730   -0.7860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7130    1.9640    1.5260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4260   -2.0850    2.9690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0620   -2.8860    0.6630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2230    1.7120  -10.2390 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8410    2.5710   -9.9980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9130    1.4430   -5.5260 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 43  1  0
+  1 46  1  0
+  2 45  1  0
+  2 86  1  0
+  3 56  1  0
+  4 30  1  0
+  5 31  1  0
+  6 31  1  0
+  7 32  1  0
+  8 33  1  0
+  9 33  1  0
+ 10 34  1  0
+ 11 35  1  0
+ 12 35  1  0
+ 13 36  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 18 38  1  0
+ 19 41  1  0
+ 20 42  1  0
+ 21 44  1  0
+ 22 47  1  0
+ 23 48  1  0
+ 24 50  1  0
+ 25 51  1  0
+ 26 54  1  0
+ 27 55  1  0
+ 28 57  1  0
+ 29 58  1  0
+ 30 31  1  0
+ 30 35  1  0
+ 30 36  1  0
+ 31 32  1  0
+ 32 33  1  0
+ 32 38  1  0
+ 33 34  1  0
+ 34 35  1  0
+ 34 37  1  0
+ 36 39  1  0
+ 37 39  1  0
+ 38 39  1  0
+ 39 40  1  0
+ 40 41  2  0
+ 40 45  1  0
+ 41 42  1  0
+ 42 43  2  0
+ 43 44  1  0
+ 44 45  2  0
+ 46 47  2  0
+ 46 51  1  0
+ 47 48  1  0
+ 48 49  2  0
+ 49 50  1  0
+ 49 52  1  0
+ 50 51  2  0
+ 52 53  1  0
+ 52 59  2  0
+ 53 54  2  0
+ 53 58  1  0
+ 54 55  1  0
+ 55 56  2  0
+ 56 57  1  0
+ 57 58  2  0
+ 60 61  1  0
+ 60 65  1  0
+ 60 66  1  0
+ 60 90  1  0
+ 61 62  1  0
+ 61 91  1  0
+ 61 92  1  0
+ 62 63  1  0
+ 62 68  1  0
+ 62 93  1  0
+ 63 64  1  0
+ 63 94  1  0
+ 63 95  1  0
+ 64 65  1  0
+ 64 67  1  0
+ 64 96  1  0
+ 65 97  1  0
+ 65 98  1  0
+ 66 69  1  0
+ 66 99  1  0
+ 66100  1  0
+ 67 69  1  0
+ 67101  1  0
+ 67102  1  0
+ 68 69  1  0
+ 68103  1  0
+ 68104  1  0
+ 69 70  1  0
+ 70 71  2  0
+ 70 75  1  0
+ 71 72  1  0
+ 71105  1  0
+ 72 73  2  0
+ 72106  1  0
+ 73 74  1  0
+ 73118  1  0
+ 74 75  2  0
+ 74107  1  0
+ 75116  1  0
+ 76 77  2  0
+ 76 81  1  0
+ 76118  1  0
+ 77 78  1  0
+ 77108  1  0
+ 78 79  2  0
+ 78109  1  0
+ 79 80  1  0
+ 79 82  1  0
+ 80 81  2  0
+ 80110  1  0
+ 81111  1  0
+ 82 83  1  0
+ 82 89  2  0
+ 83 84  2  0
+ 83 88  1  0
+ 84 85  1  0
+ 84112  1  0
+ 85 86  2  0
+ 85113  1  0
+ 86 87  1  0
+ 87 88  2  0
+ 87114  1  0
+ 88115  1  0
+116117  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 14], "3": ["polymethylketone_TERM25", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 47], "3": ["polymethylketone_TERM25", 33]}', 'substructure_query_id': 33}, 2: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["polymethylketone_TERM25", 54]}', 'substructure_query_id': 54}, 3: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 41], "3": ["polymethylketone_TERM25", 12]}', 'substructure_query_id': 12}, 4: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 39], "3": ["polymethylketone_TERM25", 14]}', 'substructure_query_id': 14}, 5: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 40], "3": ["polymethylketone_TERM25", 15]}', 'substructure_query_id': 15}, 6: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 38], "3": ["polymethylketone_TERM25", 17]}', 'substructure_query_id': 17}, 7: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 33], "3": ["polymethylketone_TERM25", 19]}', 'substructure_query_id': 19}, 8: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 34], "3": ["polymethylketone_TERM25", 20]}', 'substructure_query_id': 20}, 9: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 32], "3": ["polymethylketone_TERM25", 22]}', 'substructure_query_id': 22}, 10: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 27], "3": ["polymethylketone_TERM25", 24]}', 'substructure_query_id': 24}, 11: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 28], "3": ["polymethylketone_TERM25", 25]}', 'substructure_query_id': 25}, 12: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 42], "3": ["polymethylketone_TERM25", 9]}', 'substructure_query_id': 9}, 13: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 43], "3": ["polymethylketone_TERM25", 10]}', 'substructure_query_id': 10}, 14: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 30], "3": ["polymethylketone_TERM25", 27]}', 'substructure_query_id': 27}, 15: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 31], "3": ["polymethylketone_TERM25", 28]}', 'substructure_query_id': 28}, 16: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 36], "3": ["polymethylketone_TERM25", 30]}', 'substructure_query_id': 30}, 17: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 37], "3": ["polymethylketone_TERM25", 31]}', 'substructure_query_id': 31}, 18: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 49], "3": ["polymethylketone_TERM25", 5]}', 'substructure_query_id': 5}, 19: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 50], "3": ["polymethylketone_TERM25", 3]}', 'substructure_query_id': 3}, 20: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 46], "3": ["polymethylketone_TERM25", 36]}', 'substructure_query_id': 36}, 21: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 51], "3": ["polymethylketone_TERM25", 39]}', 'substructure_query_id': 39}, 22: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 52], "3": ["polymethylketone_TERM25", 41]}', 'substructure_query_id': 41}, 23: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 12], "3": ["polymethylketone_TERM25", 44]}', 'substructure_query_id': 44}, 24: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 13], "3": ["polymethylketone_TERM25", 46]}', 'substructure_query_id': 46}, 25: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 58], "3": ["polymethylketone_TERM25", 50]}', 'substructure_query_id': 50}, 26: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 59], "3": ["polymethylketone_TERM25", 52]}', 'substructure_query_id': 52}, 27: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 56], "3": ["polymethylketone_TERM25", 56]}', 'substructure_query_id': 56}, 28: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 57], "3": ["polymethylketone_TERM25", 58]}', 'substructure_query_id': 58}, 29: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 21], "3": ["polymethylketone_TERM25", 11]}', 'substructure_query_id': 11}, 30: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 22], "3": ["polymethylketone_TERM25", 13]}', 'substructure_query_id': 13}, 31: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 23], "3": ["polymethylketone_TERM25", 16]}', 'substructure_query_id': 16}, 32: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 24], "3": ["polymethylketone_TERM25", 18]}', 'substructure_query_id': 18}, 33: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 25], "3": ["polymethylketone_TERM25", 21]}', 'substructure_query_id': 21}, 34: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 26], "3": ["polymethylketone_TERM25", 23]}', 'substructure_query_id': 23}, 35: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 20], "3": ["polymethylketone_TERM25", 8]}', 'substructure_query_id': 8}, 36: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 29], "3": ["polymethylketone_TERM25", 26]}', 'substructure_query_id': 26}, 37: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 35], "3": ["polymethylketone_TERM25", 29]}', 'substructure_query_id': 29}, 38: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 19], "3": ["polymethylketone_TERM25", 7]}', 'substructure_query_id': 7}, 39: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 18], "3": ["polymethylketone_TERM25", 6]}', 'substructure_query_id': 6}, 40: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 17], "3": ["polymethylketone_TERM25", 4]}', 'substructure_query_id': 4}, 41: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 16], "3": ["polymethylketone_TERM25", 2]}', 'substructure_query_id': 2}, 42: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 15], "3": ["polymethylketone_TERM25", 1]}', 'substructure_query_id': 1}, 43: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 45], "3": ["polymethylketone_TERM25", 35]}', 'substructure_query_id': 35}, 44: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 44], "3": ["polymethylketone_TERM25", 32]}', 'substructure_query_id': 32}, 45: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 9], "3": ["polymethylketone_TERM25", 37]}', 'substructure_query_id': 37}, 46: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 8], "3": ["polymethylketone_TERM25", 38]}', 'substructure_query_id': 38}, 47: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 7], "3": ["polymethylketone_TERM25", 40]}', 'substructure_query_id': 40}, 48: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 6], "3": ["polymethylketone_TERM25", 42]}', 'substructure_query_id': 42}, 49: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 11], "3": ["polymethylketone_TERM25", 43]}', 'substructure_query_id': 43}, 50: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 10], "3": ["polymethylketone_TERM25", 45]}', 'substructure_query_id': 45}, 51: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 5], "3": ["polymethylketone_TERM25", 47]}', 'substructure_query_id': 47}, 52: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 4], "3": ["polymethylketone_TERM25", 48]}', 'substructure_query_id': 48}, 53: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 3], "3": ["polymethylketone_TERM25", 49]}', 'substructure_query_id': 49}, 54: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 2], "3": ["polymethylketone_TERM25", 51]}', 'substructure_query_id': 51}, 55: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 1], "3": ["polymethylketone_TERM25", 53]}', 'substructure_query_id': 53}, 56: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 55], "3": ["polymethylketone_TERM25", 55]}', 'substructure_query_id': 55}, 57: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 54], "3": ["polymethylketone_TERM25", 57]}', 'substructure_query_id': 57}, 58: {'residue_name': 'polymethylketone_TERM25', 'residue_number': 3, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["polymethylketone", 53], "3": ["polymethylketone_TERM25", 59]}', 'substructure_query_id': 59}, 59: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 21], "2": ["polymethylketone_TERM24", 21]}', 'substructure_query_id': 21}, 60: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 22], "2": ["polymethylketone_TERM24", 22]}', 'substructure_query_id': 22}, 61: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 23], "2": ["polymethylketone_TERM24", 23]}', 'substructure_query_id': 23}, 62: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 24], "2": ["polymethylketone_TERM24", 24]}', 'substructure_query_id': 24}, 63: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 25], "2": ["polymethylketone_TERM24", 25]}', 'substructure_query_id': 25}, 64: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 26], "2": ["polymethylketone_TERM24", 26]}', 'substructure_query_id': 26}, 65: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 20], "2": ["polymethylketone_TERM24", 20]}', 'substructure_query_id': 20}, 66: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 29], "2": ["polymethylketone_TERM24", 29]}', 'substructure_query_id': 29}, 67: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 35], "2": ["polymethylketone_TERM24", 35]}', 'substructure_query_id': 35}, 68: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 19], "2": ["polymethylketone_TERM24", 19]}', 'substructure_query_id': 19}, 69: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 18], "2": ["polymethylketone_TERM24", 18]}', 'substructure_query_id': 18}, 70: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 17], "2": ["polymethylketone_TERM24", 17]}', 'substructure_query_id': 17}, 71: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 16], "2": ["polymethylketone_TERM24", 16]}', 'substructure_query_id': 16}, 72: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 15], "2": ["polymethylketone_TERM24", 15]}', 'substructure_query_id': 15}, 73: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 45], "2": ["polymethylketone_TERM24", 45]}', 'substructure_query_id': 45}, 74: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 44], "2": ["polymethylketone_TERM24", 44]}', 'substructure_query_id': 44}, 75: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 9], "2": ["polymethylketone_TERM24", 9]}', 'substructure_query_id': 9}, 76: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 8], "2": ["polymethylketone_TERM24", 8]}', 'substructure_query_id': 8}, 77: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 7], "2": ["polymethylketone_TERM24", 7]}', 'substructure_query_id': 7}, 78: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 6], "2": ["polymethylketone_TERM24", 6]}', 'substructure_query_id': 6}, 79: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 11], "2": ["polymethylketone_TERM24", 11]}', 'substructure_query_id': 11}, 80: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 10], "2": ["polymethylketone_TERM24", 10]}', 'substructure_query_id': 10}, 81: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 5], "2": ["polymethylketone_TERM24", 5]}', 'substructure_query_id': 5}, 82: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 4], "2": ["polymethylketone_TERM24", 4]}', 'substructure_query_id': 4}, 83: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 3], "2": ["polymethylketone_TERM24", 3]}', 'substructure_query_id': 3}, 84: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 2], "2": ["polymethylketone_TERM24", 2]}', 'substructure_query_id': 2}, 85: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 1], "2": ["polymethylketone_TERM24", 1]}', 'substructure_query_id': 1}, 86: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 55], "2": ["polymethylketone_TERM24", 55]}', 'substructure_query_id': 55}, 87: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 54], "2": ["polymethylketone_TERM24", 54]}', 'substructure_query_id': 54}, 88: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 53], "2": ["polymethylketone_TERM24", 53]}', 'substructure_query_id': 53}, 89: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 41], "2": ["polymethylketone_TERM24", 41]}', 'substructure_query_id': 41}, 90: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 39], "2": ["polymethylketone_TERM24", 39]}', 'substructure_query_id': 39}, 91: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 40], "2": ["polymethylketone_TERM24", 40]}', 'substructure_query_id': 40}, 92: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 38], "2": ["polymethylketone_TERM24", 38]}', 'substructure_query_id': 38}, 93: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 33], "2": ["polymethylketone_TERM24", 33]}', 'substructure_query_id': 33}, 94: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 34], "2": ["polymethylketone_TERM24", 34]}', 'substructure_query_id': 34}, 95: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 32], "2": ["polymethylketone_TERM24", 32]}', 'substructure_query_id': 32}, 96: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 27], "2": ["polymethylketone_TERM24", 27]}', 'substructure_query_id': 27}, 97: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 28], "2": ["polymethylketone_TERM24", 28]}', 'substructure_query_id': 28}, 98: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 42], "2": ["polymethylketone_TERM24", 42]}', 'substructure_query_id': 42}, 99: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 43], "2": ["polymethylketone_TERM24", 43]}', 'substructure_query_id': 43}, 100: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 30], "2": ["polymethylketone_TERM24", 30]}', 'substructure_query_id': 30}, 101: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 31], "2": ["polymethylketone_TERM24", 31]}', 'substructure_query_id': 31}, 102: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 36], "2": ["polymethylketone_TERM24", 36]}', 'substructure_query_id': 36}, 103: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 37], "2": ["polymethylketone_TERM24", 37]}', 'substructure_query_id': 37}, 104: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 49], "2": ["polymethylketone_TERM24", 49]}', 'substructure_query_id': 49}, 105: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 50], "2": ["polymethylketone_TERM24", 50]}', 'substructure_query_id': 50}, 106: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 46], "2": ["polymethylketone_TERM24", 46]}', 'substructure_query_id': 46}, 107: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 51], "2": ["polymethylketone_TERM24", 51]}', 'substructure_query_id': 51}, 108: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 52], "2": ["polymethylketone_TERM24", 52]}', 'substructure_query_id': 52}, 109: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 12], "2": ["polymethylketone_TERM24", 12]}', 'substructure_query_id': 12}, 110: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 13], "2": ["polymethylketone_TERM24", 13]}', 'substructure_query_id': 13}, 111: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 58], "2": ["polymethylketone_TERM24", 58]}', 'substructure_query_id': 58}, 112: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 59], "2": ["polymethylketone_TERM24", 59]}', 'substructure_query_id': 59}, 113: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 56], "2": ["polymethylketone_TERM24", 56]}', 'substructure_query_id': 56}, 114: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 57], "2": ["polymethylketone_TERM24", 57]}', 'substructure_query_id': 57}, 115: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 47], "2": ["polymethylketone_TERM24", 47]}', 'substructure_query_id': 47}, 116: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["polymethylketone_TERM24", 48]}', 'substructure_query_id': 48}, 117: {'residue_name': 'polymethylketone_TERM24', 'residue_number': 2, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["polymethylketone", 14], "2": ["polymethylketone_TERM24", 14]}', 'substructure_query_id': 14}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+-0.30583802494615064 -0.29554603132813917 0.20764141645819201 0.089691260127129691 0.11097053554445757 0.11097053554445757 0.089691260127129691 0.11097053554445757 0.11097053554445757
+0.089691260127129691 0.11097053554445757 0.11097053554445757 0.11274352785736574 0.11274352785736574 0.11274352785736574 0.11274352785736574 0.11274352785736574 0.11274352785736574
+0.19951472547441973 0.20799728598982348 0.21188723411947741 0.20270139840036883 0.20240106549650683 0.20240106549650683 0.20270139840036883 0.20394965377241625 0.20046707358747973
+0.20046704378515734 0.20394965377241625 -0.064901864858565195 -0.17664796743005262 -0.064901864858565195 -0.17664796743005262 -0.064901864858565195 -0.17664796743005262
+-0.15395761165231214 -0.15395761165231214 -0.15395761165231214 0.0086559813895846823 -0.27418545517533766 -0.17030098173230634 -0.32466540369599806 0.27024763193518175 -0.32962746057122694
+0.20482621457964434 0.22527385619074358 -0.28064451250642286 -0.012096016438898899 -0.42289841804116712 -0.01209602668344722 -0.28064445290177809 0.83070384827047838 -0.39759943518250929
+-0.071765607925352914 -0.2363273266276692 -0.2387341025790547 -0.23632735642999159 -0.071765593024191721 -0.62541711959451185 -0.064901849957404001 -0.17664798233121382
+-0.064901849957404001 -0.17664798233121382 -0.064901849957404001 -0.17664798233121382 -0.15395761165231214 -0.15395761165231214 -0.15395761165231214 0.022360285041632795
+-0.38046464953034864 -0.12428511563151823 -0.32466531428903089 0.3341641661205913 -0.45348728332131849 0.32028409209639086 0.22527381148726 -0.2806444230994557 -0.012096008988318302
+-0.42289838823884474 -0.012096008988318302 -0.2806444230994557 0.83070384827047838 -0.42289838823884474 -0.012096085356769421 -0.2806444230994557 0.2315662440338756 -0.2806444230994557
+-0.012096085356769421 -0.62541711959451185 0.089691275028290884 0.11097055044561877 0.11097055044561877 0.089691275028290884 0.11097055044561877 0.11097055044561877 0.089691275028290884
+0.11097055044561877 0.11097055044561877 0.11274355020910753 0.11274355020910753 0.11274355020910753 0.11274355020910753 0.11274355020910753 0.11274355020910753 0.19951471057325854
+0.20799731579214586 0.21758785214811815 0.20270144310385241 0.20240106549650683 0.20240106549650683 0.20270144310385241 0.20240105059534563 0.20270142820269121 0.20270142820269121
+0.20240105059534563 -0.65295172366708265 0.42502635088354601 -0.30583793553918348
+
+$$$$

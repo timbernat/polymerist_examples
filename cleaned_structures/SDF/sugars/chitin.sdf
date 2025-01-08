@@ -1,0 +1,426 @@
+
+     RDKit          3D
+
+192198  0  0  0  0  0  0  0  0999 V2000
+    8.6850    5.6370   -1.0490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0700    6.3780   -1.5220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3900    5.9540   -1.8410 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.9860    6.0070   -0.9300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0680    6.8510   -2.9260 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.1400    6.6580   -2.8390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8540    8.2930   -2.6410 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0070    8.5170   -2.1380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6410    9.2930   -3.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2240   10.7170   -2.6340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9070   10.7270   -1.5900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0630   11.4040   -2.7530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3990   11.0550   -3.2630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6250    9.0860   -3.7610 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6530    6.5220   -4.3880 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.7260    7.0520   -4.6120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7030    7.0260   -5.2640 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0830    7.8430   -4.8840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4320    5.0160   -4.6880 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.4040    4.5290   -4.7960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6510    4.3040   -3.5700 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.6450    4.7240   -3.5330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4960    2.7870   -3.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9200    2.6000   -4.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9570    2.3400   -2.9650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7800    2.1460   -3.9240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2730    2.2960   -3.1090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3020    4.5500   -2.2490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6220    4.8450   -5.9260 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3600    4.3460   -7.0960 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.9510    3.4780   -6.7980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2540    5.3920   -7.5780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1410    4.9880   -8.6810 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.6700    4.0760   -8.3940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1670    6.1100   -8.9060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6660    7.0220   -9.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8890    5.8200   -9.6700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8640    6.3780   -7.6770 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2010    6.5410   -6.9870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2640    4.7120   -9.9080 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.8710    5.6710  -10.2570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0690    3.7570   -9.6210 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.4460    2.7340   -9.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0680    3.9340  -10.6730 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2250    3.5170  -10.4030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3780    3.9390   -8.2300 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.6470    4.7450   -8.3250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6510    2.7070   -7.8350 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0640    2.1420   -7.1120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4810    2.3320   -8.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9660    2.9470   -9.2820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8310    1.0740   -7.7460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8060    1.1530   -6.6580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8100    0.9640   -8.1120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4060    0.1910   -8.0290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1570    4.1100  -10.9380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1580    4.7950  -12.2400 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.4260    5.8410  -12.0830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8220    4.7200  -12.8170 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6300    5.5350  -14.0250 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.9300    6.5630  -13.8040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1350    5.5180  -14.3830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8260    4.5130  -14.6730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9360    6.1920  -15.2170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3600    5.9320  -13.2450 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6000    5.3620  -12.4960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5230    4.9610  -15.1320 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.0660    4.0270  -15.4700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9890    4.6640  -14.6930 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.5560    5.5920  -14.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5540    3.6860  -15.6230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3790    3.3120  -15.2490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1630    4.1400  -13.2280 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.9640    3.0660  -13.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5490    4.3430  -12.7390 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6830    5.0200  -12.0070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5970    3.6120  -13.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5030    2.7810  -14.0220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9320    3.8960  -12.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7900    3.8720  -11.3270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6730    3.1430  -12.6820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3030    4.8790  -12.7010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5160    5.9710  -16.2260 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1220    5.4520  -17.5440 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.1480    4.9690  -17.4500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1080    4.4720  -17.9780 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7230    3.7140  -19.1750 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.7360    3.2740  -19.0090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7440    2.5830  -19.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7290    2.9950  -19.5950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4450    1.9430  -20.2070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8270    1.7910  -18.1770 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0230    2.3870  -17.4360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6600    4.6940  -20.3540 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.6880    4.9480  -20.6260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8840    6.0140  -20.0590 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.8230    5.8180  -20.2240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3210    7.0250  -21.0220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0390    7.9130  -20.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0440    6.5800  -18.6080 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.9830    7.1360  -18.5650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9450    7.5160  -18.2660 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2830    7.2140  -17.5710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8460    8.7610  -18.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6110    9.1840  -19.5960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7010    9.6200  -18.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7230    9.5970  -17.0730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8050   10.6540  -18.4950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7420    9.2330  -18.5120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9940    3.9530  -21.4580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7570    3.9020  -22.7120 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.7540    3.5140  -22.4970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8680    5.2500  -23.2540 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7860    5.3690  -24.3960 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.7560    4.9560  -24.1090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9570    6.8610  -24.7200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0090    7.2900  -25.0460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6880    6.9960  -25.5170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4060    7.5600  -23.5460 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7850    7.3690  -22.8250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2040    4.5580  -25.5610 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.3510    5.1160  -25.9580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7240    3.1260  -25.1780 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.5930    2.4660  -25.2010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7760    2.6760  -26.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2690    1.9070  -25.8650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0630    2.9970  -23.7660 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.0250    3.3270  -23.8470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0600    1.5910  -23.2930 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6750    1.3580  -22.5330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2230    0.6530  -23.7410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4710    0.8660  -24.6860 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2800   -0.7130  -23.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1960   -0.5780  -21.9510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4580   -1.3470  -23.3680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2250   -1.2070  -23.2590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2890    4.4730  -26.5730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9330    4.9840  -27.9040 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.5290    5.9920  -27.7910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9150    4.1190  -28.4880 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3330    4.6200  -29.7430 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.9440    5.6260  -29.5700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1680    3.6960  -30.1320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5320    2.6880  -30.3310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6710    4.0670  -31.0290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2140    3.6460  -29.0570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6820    3.3740  -28.2510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4440    4.6750  -30.8010 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.6890    3.6490  -31.0860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7460    5.3750  -30.3150 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.5920    6.4540  -30.3720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8180    5.0130  -31.2400 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6910    5.1380  -30.8170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1650    5.0270  -28.8500 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.6170    4.0320  -28.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1660    5.9850  -28.3230 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8610    6.6280  -27.6130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4600    5.9690  -28.6480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8890    5.2270  -29.5250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3720    6.9520  -27.8880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2180    6.8500  -26.8120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4190    6.7450  -28.1130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1400    7.9750  -28.1890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8780    5.4200  -31.9540 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7490    4.6390  -33.1930 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.2310    3.7060  -32.9610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0830    4.3290  -33.7130 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1140    3.4560  -34.9100 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.6100    2.5180  -34.6660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5820    3.1540  -35.2590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0860    4.0620  -35.5910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6410    2.4150  -36.0580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2610    2.6460  -34.0940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1230    3.2760  -33.3720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3510    4.1730  -36.0400 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.9280    5.0410  -36.3650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2110    3.2630  -37.1510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6080    3.6850  -37.7780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9330    4.6360  -35.6140 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.2990    3.7560  -35.4910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3870    5.4440  -36.7040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8210    6.1600  -36.3510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9370    5.4180  -34.2660 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.4250    6.3820  -34.4300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5620    5.6750  -33.7730 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2490    5.1440  -32.9780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7720    6.6420  -34.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0880    7.2990  -35.2280 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4360    6.8600  -33.5040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6070    6.9160  -32.4270 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9730    7.7900  -33.8340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7600    6.0310  -33.7180 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  1
+  3  5  1  0
+  3 28  1  0
+  5  6  1  6
+  5  7  1  0
+  5 15  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+  9 14  2  0
+ 10 11  1  0
+ 10 12  1  0
+ 10 13  1  0
+ 15 16  1  6
+ 15 17  1  0
+ 15 19  1  0
+ 17 18  1  0
+ 19 20  1  6
+ 19 21  1  0
+ 19 29  1  0
+ 21 22  1  1
+ 21 23  1  0
+ 21 28  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+ 26 27  1  0
+ 29 30  1  0
+ 30 31  1  1
+ 30 32  1  0
+ 30 46  1  0
+ 32 33  1  0
+ 33 34  1  1
+ 33 35  1  0
+ 33 40  1  0
+ 35 36  1  0
+ 35 37  1  0
+ 35 38  1  0
+ 38 39  1  0
+ 40 41  1  6
+ 40 42  1  0
+ 40 56  1  0
+ 42 43  1  1
+ 42 44  1  0
+ 42 46  1  0
+ 44 45  1  0
+ 46 47  1  6
+ 46 48  1  0
+ 48 49  1  0
+ 48 50  1  0
+ 50 51  2  0
+ 50 52  1  0
+ 52 53  1  0
+ 52 54  1  0
+ 52 55  1  0
+ 56 57  1  0
+ 57 58  1  1
+ 57 59  1  0
+ 57 73  1  0
+ 59 60  1  0
+ 60 61  1  1
+ 60 62  1  0
+ 60 67  1  0
+ 62 63  1  0
+ 62 64  1  0
+ 62 65  1  0
+ 65 66  1  0
+ 67 68  1  6
+ 67 69  1  0
+ 67 83  1  0
+ 69 70  1  1
+ 69 71  1  0
+ 69 73  1  0
+ 71 72  1  0
+ 73 74  1  6
+ 73 75  1  0
+ 75 76  1  0
+ 75 77  1  0
+ 77 78  2  0
+ 77 79  1  0
+ 79 80  1  0
+ 79 81  1  0
+ 79 82  1  0
+ 83 84  1  0
+ 84 85  1  1
+ 84 86  1  0
+ 84100  1  0
+ 86 87  1  0
+ 87 88  1  1
+ 87 89  1  0
+ 87 94  1  0
+ 89 90  1  0
+ 89 91  1  0
+ 89 92  1  0
+ 92 93  1  0
+ 94 95  1  6
+ 94 96  1  0
+ 94110  1  0
+ 96 97  1  6
+ 96 98  1  0
+ 96100  1  0
+ 98 99  1  0
+100101  1  6
+100102  1  0
+102103  1  0
+102104  1  0
+104105  2  0
+104106  1  0
+106107  1  0
+106108  1  0
+106109  1  0
+110111  1  0
+111112  1  1
+111113  1  0
+111127  1  0
+113114  1  0
+114115  1  1
+114116  1  0
+114121  1  0
+116117  1  0
+116118  1  0
+116119  1  0
+119120  1  0
+121122  1  6
+121123  1  0
+121137  1  0
+123124  1  1
+123125  1  0
+123127  1  0
+125126  1  0
+127128  1  6
+127129  1  0
+129130  1  0
+129131  1  0
+131132  2  0
+131133  1  0
+133134  1  0
+133135  1  0
+133136  1  0
+137138  1  0
+138139  1  1
+138140  1  0
+138154  1  0
+140141  1  0
+141142  1  1
+141143  1  0
+141148  1  0
+143144  1  0
+143145  1  0
+143146  1  0
+146147  1  0
+148149  1  6
+148150  1  0
+148164  1  0
+150151  1  1
+150152  1  0
+150154  1  0
+152153  1  0
+154155  1  6
+154156  1  0
+156157  1  0
+156158  1  0
+158159  2  0
+158160  1  0
+160161  1  0
+160162  1  0
+160163  1  0
+164165  1  0
+165166  1  1
+165167  1  0
+165183  1  0
+167168  1  0
+168169  1  1
+168170  1  0
+168175  1  0
+170171  1  0
+170172  1  0
+170173  1  0
+173174  1  0
+175176  1  6
+175177  1  0
+175179  1  0
+177178  1  0
+179180  1  1
+179181  1  0
+179183  1  0
+181182  1  0
+183184  1  6
+183185  1  0
+185186  1  0
+185187  1  0
+187188  2  0
+187189  1  0
+189190  1  0
+189191  1  0
+189192  1  0
+M  END
+>  <charge_method>  (1) 
+Espaloma-AM1-BCC
+
+>  <metadata>  (1) 
+{0: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"21": ["chitin_TERM1", 0]}', 'substructure_query_id': 0}, 1: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"21": ["chitin_TERM1", 1]}', 'substructure_query_id': 1}, 2: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 1], "21": ["chitin_TERM1", 2]}', 'substructure_query_id': 2}, 3: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 2], "21": ["chitin_TERM1", 3]}', 'substructure_query_id': 3}, 4: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["PEPTIDE_BOND", 5], "14": ["chitin", 17], "21": ["chitin_TERM1", 4]}', 'substructure_query_id': 4}, 5: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 18], "21": ["chitin_TERM1", 5]}', 'substructure_query_id': 5}, 6: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["PEPTIDE_BOND", 3], "14": ["chitin", 19], "21": ["chitin_TERM1", 6]}', 'substructure_query_id': 6}, 7: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"7": ["PEPTIDE_BOND", 4], "14": ["chitin", 20], "21": ["chitin_TERM1", 7]}', 'substructure_query_id': 7}, 8: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 1], "7": ["PEPTIDE_BOND", 1], "14": ["chitin", 21], "21": ["chitin_TERM1", 8]}', 'substructure_query_id': 8}, 9: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 3], "14": ["chitin", 23], "21": ["chitin_TERM1", 9]}', 'substructure_query_id': 9}, 10: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 4], "14": ["chitin", 24], "21": ["chitin_TERM1", 10]}', 'substructure_query_id': 10}, 11: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 5], "14": ["chitin", 25], "21": ["chitin_TERM1", 11]}', 'substructure_query_id': 11}, 12: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 6], "14": ["chitin", 26], "21": ["chitin_TERM1", 12]}', 'substructure_query_id': 12}, 13: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"0": ["ACE", 2], "7": ["PEPTIDE_BOND", 2], "14": ["chitin", 22], "21": ["chitin_TERM1", 13]}', 'substructure_query_id': 13}, 14: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 13], "21": ["chitin_TERM1", 14]}', 'substructure_query_id': 14}, 15: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 14], "21": ["chitin_TERM1", 15]}', 'substructure_query_id': 15}, 16: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 15], "21": ["chitin_TERM1", 16]}', 'substructure_query_id': 16}, 17: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 16], "21": ["chitin_TERM1", 17]}', 'substructure_query_id': 17}, 18: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 11], "21": ["chitin_TERM1", 18]}', 'substructure_query_id': 18}, 19: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 12], "21": ["chitin_TERM1", 19]}', 'substructure_query_id': 19}, 20: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 4], "21": ["chitin_TERM1", 20]}', 'substructure_query_id': 20}, 21: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 5], "21": ["chitin_TERM1", 21]}', 'substructure_query_id': 21}, 22: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 6], "21": ["chitin_TERM1", 22]}', 'substructure_query_id': 22}, 23: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 7], "21": ["chitin_TERM1", 23]}', 'substructure_query_id': 23}, 24: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 8], "21": ["chitin_TERM1", 24]}', 'substructure_query_id': 24}, 25: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 9], "21": ["chitin_TERM1", 25]}', 'substructure_query_id': 25}, 26: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 10], "21": ["chitin_TERM1", 26]}', 'substructure_query_id': 26}, 27: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 3], "21": ["chitin_TERM1", 27]}', 'substructure_query_id': 27}, 28: {'residue_name': 'chitin_TERM1', 'residue_number': 21, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"14": ["chitin", 27], "21": ["chitin_TERM1", 28]}', 'substructure_query_id': 28}, 29: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 1]}', 'substructure_query_id': 1}, 30: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 2]}', 'substructure_query_id': 2}, 31: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 3]}', 'substructure_query_id': 3}, 32: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 4]}', 'substructure_query_id': 4}, 33: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 5]}', 'substructure_query_id': 5}, 34: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 6]}', 'substructure_query_id': 6}, 35: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 7]}', 'substructure_query_id': 7}, 36: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 8]}', 'substructure_query_id': 8}, 37: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 9]}', 'substructure_query_id': 9}, 38: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 10]}', 'substructure_query_id': 10}, 39: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 11]}', 'substructure_query_id': 11}, 40: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 12]}', 'substructure_query_id': 12}, 41: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 13]}', 'substructure_query_id': 13}, 42: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 14]}', 'substructure_query_id': 14}, 43: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 15]}', 'substructure_query_id': 15}, 44: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 16]}', 'substructure_query_id': 16}, 45: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["PEPTIDE_BOND", 5], "15": ["chitin", 17]}', 'substructure_query_id': 17}, 46: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 18]}', 'substructure_query_id': 18}, 47: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["PEPTIDE_BOND", 3], "15": ["chitin", 19]}', 'substructure_query_id': 19}, 48: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"8": ["PEPTIDE_BOND", 4], "15": ["chitin", 20]}', 'substructure_query_id': 20}, 49: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 1], "8": ["PEPTIDE_BOND", 1], "15": ["chitin", 21]}', 'substructure_query_id': 21}, 50: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 2], "8": ["PEPTIDE_BOND", 2], "15": ["chitin", 22]}', 'substructure_query_id': 22}, 51: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 3], "15": ["chitin", 23]}', 'substructure_query_id': 23}, 52: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 4], "15": ["chitin", 24]}', 'substructure_query_id': 24}, 53: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 5], "15": ["chitin", 25]}', 'substructure_query_id': 25}, 54: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"1": ["ACE", 6], "15": ["chitin", 26]}', 'substructure_query_id': 26}, 55: {'residue_name': 'chitin', 'residue_number': 15, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"15": ["chitin", 27]}', 'substructure_query_id': 27}, 56: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 1]}', 'substructure_query_id': 1}, 57: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 2]}', 'substructure_query_id': 2}, 58: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 3]}', 'substructure_query_id': 3}, 59: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 4]}', 'substructure_query_id': 4}, 60: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 5]}', 'substructure_query_id': 5}, 61: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 6]}', 'substructure_query_id': 6}, 62: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 7]}', 'substructure_query_id': 7}, 63: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 8]}', 'substructure_query_id': 8}, 64: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 9]}', 'substructure_query_id': 9}, 65: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 10]}', 'substructure_query_id': 10}, 66: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 11]}', 'substructure_query_id': 11}, 67: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 12]}', 'substructure_query_id': 12}, 68: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 13]}', 'substructure_query_id': 13}, 69: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 14]}', 'substructure_query_id': 14}, 70: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 15]}', 'substructure_query_id': 15}, 71: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 16]}', 'substructure_query_id': 16}, 72: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["PEPTIDE_BOND", 5], "16": ["chitin", 17]}', 'substructure_query_id': 17}, 73: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 18]}', 'substructure_query_id': 18}, 74: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["PEPTIDE_BOND", 3], "16": ["chitin", 19]}', 'substructure_query_id': 19}, 75: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"9": ["PEPTIDE_BOND", 4], "16": ["chitin", 20]}', 'substructure_query_id': 20}, 76: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 1], "9": ["PEPTIDE_BOND", 1], "16": ["chitin", 21]}', 'substructure_query_id': 21}, 77: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 2], "9": ["PEPTIDE_BOND", 2], "16": ["chitin", 22]}', 'substructure_query_id': 22}, 78: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 3], "16": ["chitin", 23]}', 'substructure_query_id': 23}, 79: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 4], "16": ["chitin", 24]}', 'substructure_query_id': 24}, 80: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 5], "16": ["chitin", 25]}', 'substructure_query_id': 25}, 81: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"2": ["ACE", 6], "16": ["chitin", 26]}', 'substructure_query_id': 26}, 82: {'residue_name': 'chitin', 'residue_number': 16, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"16": ["chitin", 27]}', 'substructure_query_id': 27}, 83: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 1]}', 'substructure_query_id': 1}, 84: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 2]}', 'substructure_query_id': 2}, 85: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 3]}', 'substructure_query_id': 3}, 86: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 4]}', 'substructure_query_id': 4}, 87: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 5]}', 'substructure_query_id': 5}, 88: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 6]}', 'substructure_query_id': 6}, 89: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 7]}', 'substructure_query_id': 7}, 90: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 8]}', 'substructure_query_id': 8}, 91: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 9]}', 'substructure_query_id': 9}, 92: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 10]}', 'substructure_query_id': 10}, 93: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 11]}', 'substructure_query_id': 11}, 94: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 12]}', 'substructure_query_id': 12}, 95: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 13]}', 'substructure_query_id': 13}, 96: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 14]}', 'substructure_query_id': 14}, 97: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 15]}', 'substructure_query_id': 15}, 98: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 16]}', 'substructure_query_id': 16}, 99: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"10": ["PEPTIDE_BOND", 5], "17": ["chitin", 17]}', 'substructure_query_id': 17}, 100: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 18]}', 'substructure_query_id': 18}, 101: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"10": ["PEPTIDE_BOND", 3], "17": ["chitin", 19]}', 'substructure_query_id': 19}, 102: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"10": ["PEPTIDE_BOND", 4], "17": ["chitin", 20]}', 'substructure_query_id': 20}, 103: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 1], "10": ["PEPTIDE_BOND", 1], "17": ["chitin", 21]}', 'substructure_query_id': 21}, 104: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 2], "10": ["PEPTIDE_BOND", 2], "17": ["chitin", 22]}', 'substructure_query_id': 22}, 105: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 3], "17": ["chitin", 23]}', 'substructure_query_id': 23}, 106: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 4], "17": ["chitin", 24]}', 'substructure_query_id': 24}, 107: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 5], "17": ["chitin", 25]}', 'substructure_query_id': 25}, 108: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"3": ["ACE", 6], "17": ["chitin", 26]}', 'substructure_query_id': 26}, 109: {'residue_name': 'chitin', 'residue_number': 17, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"17": ["chitin", 27]}', 'substructure_query_id': 27}, 110: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 1]}', 'substructure_query_id': 1}, 111: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 2]}', 'substructure_query_id': 2}, 112: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 3]}', 'substructure_query_id': 3}, 113: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 4]}', 'substructure_query_id': 4}, 114: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 5]}', 'substructure_query_id': 5}, 115: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 6]}', 'substructure_query_id': 6}, 116: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 7]}', 'substructure_query_id': 7}, 117: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 8]}', 'substructure_query_id': 8}, 118: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 9]}', 'substructure_query_id': 9}, 119: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 10]}', 'substructure_query_id': 10}, 120: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 11]}', 'substructure_query_id': 11}, 121: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 12]}', 'substructure_query_id': 12}, 122: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 13]}', 'substructure_query_id': 13}, 123: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 14]}', 'substructure_query_id': 14}, 124: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 15]}', 'substructure_query_id': 15}, 125: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 16]}', 'substructure_query_id': 16}, 126: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["PEPTIDE_BOND", 5], "18": ["chitin", 17]}', 'substructure_query_id': 17}, 127: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 18]}', 'substructure_query_id': 18}, 128: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["PEPTIDE_BOND", 3], "18": ["chitin", 19]}', 'substructure_query_id': 19}, 129: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"11": ["PEPTIDE_BOND", 4], "18": ["chitin", 20]}', 'substructure_query_id': 20}, 130: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 1], "11": ["PEPTIDE_BOND", 1], "18": ["chitin", 21]}', 'substructure_query_id': 21}, 131: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 2], "11": ["PEPTIDE_BOND", 2], "18": ["chitin", 22]}', 'substructure_query_id': 22}, 132: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 3], "18": ["chitin", 23]}', 'substructure_query_id': 23}, 133: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 4], "18": ["chitin", 24]}', 'substructure_query_id': 24}, 134: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 5], "18": ["chitin", 25]}', 'substructure_query_id': 25}, 135: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"4": ["ACE", 6], "18": ["chitin", 26]}', 'substructure_query_id': 26}, 136: {'residue_name': 'chitin', 'residue_number': 18, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"18": ["chitin", 27]}', 'substructure_query_id': 27}, 137: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 1]}', 'substructure_query_id': 1}, 138: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 2]}', 'substructure_query_id': 2}, 139: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 3]}', 'substructure_query_id': 3}, 140: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 4]}', 'substructure_query_id': 4}, 141: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 5]}', 'substructure_query_id': 5}, 142: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 6]}', 'substructure_query_id': 6}, 143: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 7]}', 'substructure_query_id': 7}, 144: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 8]}', 'substructure_query_id': 8}, 145: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 9]}', 'substructure_query_id': 9}, 146: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 10]}', 'substructure_query_id': 10}, 147: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 11]}', 'substructure_query_id': 11}, 148: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 12]}', 'substructure_query_id': 12}, 149: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 13]}', 'substructure_query_id': 13}, 150: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 14]}', 'substructure_query_id': 14}, 151: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 15]}', 'substructure_query_id': 15}, 152: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 16]}', 'substructure_query_id': 16}, 153: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"12": ["PEPTIDE_BOND", 5], "19": ["chitin", 17]}', 'substructure_query_id': 17}, 154: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 18]}', 'substructure_query_id': 18}, 155: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"12": ["PEPTIDE_BOND", 3], "19": ["chitin", 19]}', 'substructure_query_id': 19}, 156: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"12": ["PEPTIDE_BOND", 4], "19": ["chitin", 20]}', 'substructure_query_id': 20}, 157: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 1], "12": ["PEPTIDE_BOND", 1], "19": ["chitin", 21]}', 'substructure_query_id': 21}, 158: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 2], "12": ["PEPTIDE_BOND", 2], "19": ["chitin", 22]}', 'substructure_query_id': 22}, 159: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 3], "19": ["chitin", 23]}', 'substructure_query_id': 23}, 160: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 4], "19": ["chitin", 24]}', 'substructure_query_id': 24}, 161: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 5], "19": ["chitin", 25]}', 'substructure_query_id': 25}, 162: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"5": ["ACE", 6], "19": ["chitin", 26]}', 'substructure_query_id': 26}, 163: {'residue_name': 'chitin', 'residue_number': 19, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"19": ["chitin", 27]}', 'substructure_query_id': 27}, 164: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 1], "22": ["chitin_TERM2", 1]}', 'substructure_query_id': 1}, 165: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 2], "22": ["chitin_TERM2", 2]}', 'substructure_query_id': 2}, 166: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 3], "22": ["chitin_TERM2", 3]}', 'substructure_query_id': 3}, 167: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 4], "22": ["chitin_TERM2", 4]}', 'substructure_query_id': 4}, 168: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 5], "22": ["chitin_TERM2", 5]}', 'substructure_query_id': 5}, 169: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 6], "22": ["chitin_TERM2", 6]}', 'substructure_query_id': 6}, 170: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 7], "22": ["chitin_TERM2", 7]}', 'substructure_query_id': 7}, 171: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 8], "22": ["chitin_TERM2", 8]}', 'substructure_query_id': 8}, 172: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 9], "22": ["chitin_TERM2", 9]}', 'substructure_query_id': 9}, 173: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 10], "22": ["chitin_TERM2", 10]}', 'substructure_query_id': 10}, 174: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 11], "22": ["chitin_TERM2", 11]}', 'substructure_query_id': 11}, 175: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 12], "22": ["chitin_TERM2", 12]}', 'substructure_query_id': 12}, 176: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 27], "22": ["chitin_TERM2", 13]}', 'substructure_query_id': 13}, 177: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"22": ["chitin_TERM2", 14]}', 'substructure_query_id': 14}, 178: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 13], "22": ["chitin_TERM2", 15]}', 'substructure_query_id': 15}, 179: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 14], "22": ["chitin_TERM2", 16]}', 'substructure_query_id': 16}, 180: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 15], "22": ["chitin_TERM2", 17]}', 'substructure_query_id': 17}, 181: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 16], "22": ["chitin_TERM2", 18]}', 'substructure_query_id': 18}, 182: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["PEPTIDE_BOND", 5], "20": ["chitin", 17], "22": ["chitin_TERM2", 19]}', 'substructure_query_id': 19}, 183: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"20": ["chitin", 18], "22": ["chitin_TERM2", 20]}', 'substructure_query_id': 20}, 184: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["PEPTIDE_BOND", 3], "20": ["chitin", 19], "22": ["chitin_TERM2", 21]}', 'substructure_query_id': 21}, 185: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"13": ["PEPTIDE_BOND", 4], "20": ["chitin", 20], "22": ["chitin_TERM2", 22]}', 'substructure_query_id': 22}, 186: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 1], "13": ["PEPTIDE_BOND", 1], "20": ["chitin", 21], "22": ["chitin_TERM2", 23]}', 'substructure_query_id': 23}, 187: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 2], "13": ["PEPTIDE_BOND", 2], "20": ["chitin", 22], "22": ["chitin_TERM2", 24]}', 'substructure_query_id': 24}, 188: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 3], "20": ["chitin", 23], "22": ["chitin_TERM2", 25]}', 'substructure_query_id': 25}, 189: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 4], "20": ["chitin", 24], "22": ["chitin_TERM2", 26]}', 'substructure_query_id': 26}, 190: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 5], "20": ["chitin", 25], "22": ["chitin_TERM2", 27]}', 'substructure_query_id': 27}, 191: {'residue_name': 'chitin_TERM2', 'residue_number': 22, 'insertion_code': ' ', 'chain_id': ' ', 'match_info': '{"6": ["ACE", 6], "20": ["chitin", 26], "22": ["chitin_TERM2", 28]}', 'substructure_query_id': 28}}
+
+>  <atom.dprop.PartialCharge>  (1) 
+0.38544374448247254 -0.72260844963602722 0.60144382459111512 0.088877399684861302 0.04267061990685761 0.11650580656714737 -0.49841422098688781 0.31276741367764771 0.75651848060078919
+-0.25210005301050842 0.10790839535184205 0.10790839535184205 0.10790839535184205 -0.72096771257929504 0.13349136454053223 0.10335454088635743 -0.70171964424662292 0.40172195178456604
+0.013835826190188527 0.11566909146495163 0.13370695454068482 0.10352622461505234 0.10163914901204407 0.092192125739529729 0.092192125739529729 -0.67374348896555603 0.38905441504903138
+-0.49182978528551757 -0.42117396253161132 0.39135497552342713 0.089125280501320958 -0.4641662563662976 0.12937983614392579 0.10352625441737473 0.10163914901204407 0.092192162992432714
+0.092192162992432714 -0.6737435485702008 0.38905441504903138 0.013835826190188527 0.11566910636611283 0.12940188986249268 0.10335454088635743 -0.70171964424662292 0.40172198158688843
+0.078752805711701512 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842 0.10790841770358384 0.10790841770358384
+0.10790841770358384 -0.42117405193857849 0.39135491591878235 0.089125280501320958 -0.4641662563662976 0.12937983614392579 0.10352625441737473 0.10163914901204407 0.092192162992432714
+0.092192162992432714 -0.6737435485702008 0.38905441504903138 0.013835826190188527 0.11566910636611283 0.12940188986249268 0.10335454088635743 -0.70171964424662292 0.40172198158688843
+0.078752805711701512 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842 0.10790841770358384 0.10790841770358384
+0.10790841770358384 -0.42117405193857849 0.39135491591878235 0.089125280501320958 -0.4641662563662976 0.12937983614392579 0.10352625441737473 0.10163914901204407 0.092192162992432714
+0.092192162992432714 -0.6737435485702008 0.38905441504903138 0.013835826190188527 0.11566910636611283 0.12940188986249268 0.10335454088635743 -0.70171964424662292 0.40172198158688843
+0.078752805711701512 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842 0.10790841770358384 0.10790841770358384
+0.10790841770358384 -0.42117405193857849 0.39135491591878235 0.089125280501320958 -0.4641662563662976 0.12937983614392579 0.10352625441737473 0.10163914901204407 0.092192162992432714
+0.092192162992432714 -0.6737435485702008 0.38905441504903138 0.013835826190188527 0.11566910636611283 0.12940188986249268 0.10335454088635743 -0.70171964424662292 0.40172198158688843
+0.078752805711701512 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842 0.10790841770358384 0.10790841770358384
+0.10790841770358384 -0.42117405193857849 0.39135491591878235 0.089125280501320958 -0.4641662563662976 0.12937983614392579 0.10352625441737473 0.10163914901204407 0.092192162992432714
+0.092192162992432714 -0.6737435485702008 0.38905441504903138 0.013835826190188527 0.11566910636611283 0.12940188986249268 0.10335454088635743 -0.70171964424662292 0.40172198158688843
+0.078752805711701512 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842 0.10790841770358384 0.10790841770358384
+0.10790841770358384 -0.42117405193857849 0.39135497552342713 0.089125280501320958 -0.46166965621523559 0.098005806328728795 0.10354318958707154 0.10490570706315339 0.092192133190110326
+0.092192133190110326 -0.6737435485702008 0.38905441504903138 0.12373993289656937 0.10288197291083634 -0.70195257919840515 0.40237897378392518 0.096961674513295293 0.1037946913857013
+-0.69985151547007263 0.40172198158688843 0.083432038547471166 0.11321749282069504 -0.50246602552942932 0.31276738387532532 0.75651854020543396 -0.72096771257929504 -0.25210005301050842
+0.10790841770358384 0.10790841770358384 0.10790841770358384
+
+$$$$
