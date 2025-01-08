@@ -167,11 +167,10 @@ cython_debug/
 testing.ipynb
 
 # demo output files
-polymer_demos/*
+polymer_demo_files/*
 MD_demo_files/*
-
-rxn_demos/*
-RCT_demo/*
+RCT_demo_files/*
+rxn_demo_files/*
 
 4-vinylphenyl-boronic_acid/*
 

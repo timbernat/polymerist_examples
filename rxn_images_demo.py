@@ -23,7 +23,7 @@ from polymerist.rdutils.reactions.reactors import PolymerizationReactor
 
 
 # Initialize receiving directories
-RXN_DIR = Path('rxn_demos')
+RXN_DIR = Path('rxn_demo_files')
 RXN_DIR.mkdir(exist_ok=True)
 
 example_dir = RXN_DIR / 'MPD-TMC'
