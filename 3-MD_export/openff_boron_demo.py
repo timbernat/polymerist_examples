@@ -14,7 +14,7 @@ from polymerist.mdtools.openfftools.partialcharge import molchargers
 
 
 # CONFIGURE PARAMETERS HERE
-molname = '4-vinylphenyl-boronic_acid'
+molname = '4-vinylphenyl-boronic_acid2'
 box_padding = 1*nanometer # how far beyond the tight bounding box of the polymer to extend the periodic box
 
 # define molecule name and output directory
