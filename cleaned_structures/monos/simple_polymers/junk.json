@@ -1,0 +1,10 @@
+{
+    "author" : "Timotej Bernat",
+    "date" : "2025-07-15",
+    "random_junk" : "this is a deliberately invalid fragment file",
+    "the point is" : "to test the fault tolerance of the fragment file validator",
+    "foo" : "bar",
+    "monomers" : {
+        "this is" : "also fake"
+    }
+}
