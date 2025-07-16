@@ -68,5 +68,6 @@ testing.ipynb
 **/*demo_files/*
 **/4-vinylphenyl-boronic_acid*/*
 
-## internal folders
+## other companion repos
 polymerist/*
+polymer_examples/*
