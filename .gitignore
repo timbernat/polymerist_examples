@@ -67,6 +67,7 @@ testing.ipynb
 1-polymerization/polymer_build_files/**/*
 **/*demo_files/*
 **/4-vinylphenyl-boronic_acid*/*
+2-parameterization/scratch/**/*
 
 ## other companion repos
 polymerist/*
