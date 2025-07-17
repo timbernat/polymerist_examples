@@ -31,7 +31,8 @@ from polymerist.mdtools.openfftools.partialcharge.molchargers import NAGLCharger
 overwrites_allowed : bool = True
 
 # locate and initialize directories
-master_dir = Path('cleaned_structures')
+# master_dir = Path('cleaned_structures')
+master_dir = Path('.')
 pdb_dir  = master_dir / 'pdbs'
 mono_dir = master_dir / 'monos'
 
