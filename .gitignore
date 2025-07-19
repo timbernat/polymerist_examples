@@ -65,8 +65,7 @@ testing.ipynb
 
 ## demo output files
 1-polymerization/polymer_build_files/**/*
-2-preparation/scratch/**/*
-3-workflows/scratch_MD/**/*
+**/scratch*/**/*
 **/*demo_files/*
 **/4-vinylphenyl-boronic_acid*/*
 
