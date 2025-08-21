@@ -7,7 +7,7 @@
                 "time_step": {
                     "__class__": "Quantity",
                     "__values__": {
-                        "value": 1,
+                        "value": 2,
                         "unit": "femtosecond"
                     }
                 },
@@ -18,44 +18,45 @@
                         "unit": "picosecond"
                     }
                 },
-                "num_samples": 10
+                "num_samples": 100
             }
         },
         "thermo_params": {
             "__class__": "ThermoParameters",
             "__values__": {
-                "ensemble": "NPT",
-                "temperature": {
-                    "__class__": "Quantity",
+                "thermostat_params": {
+                    "__class__": "ThermostatParameters",
                     "__values__": {
-                        "value": 300,
-                        "unit": "kelvin"
+                        "temperature": {
+                            "__class__": "Quantity",
+                            "__values__": {
+                                "value": 300,
+                                "unit": "kelvin"
+                            }
+                        },
+                        "timescale": {
+                            "__class__": "Quantity",
+                            "__values__": {
+                                "value": 1,
+                                "unit": "/picosecond"
+                            }
+                        },
+                        "thermostat": {
+                            "__class__": "Thermostat",
+                            "__values__": "ANDERSEN"
+                        }
                     }
                 },
-                "pressure": {
-                    "__class__": "Quantity",
-                    "__values__": {
-                        "value": 1,
-                        "unit": "atmosphere"
-                    }
-                },
-                "friction_coeff": {
-                    "__class__": "Quantity",
-                    "__values__": {
-                        "value": 1,
-                        "unit": "/picosecond"
-                    }
-                },
-                "barostat_freq": 25
+                "barostat_params": null
             }
         },
         "reporter_params": {
             "__class__": "ReporterParameters",
             "__values__": {
                 "report_checkpoint": true,
-                "report_state": false,
+                "report_state": true,
                 "report_trajectory": true,
-                "report_state_data": false,
+                "report_state_data": true,
                 "traj_ext": "dcd",
                 "num_steps": 100000,
                 "state_data": {
