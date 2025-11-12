@@ -14,11 +14,11 @@
                 "total_time": {
                     "__class__": "Quantity",
                     "__values__": {
-                        "value": 100,
+                        "value": 20,
                         "unit": "picosecond"
                     }
                 },
-                "num_samples": 100
+                "num_samples": 50
             }
         },
         "thermo_params": {
