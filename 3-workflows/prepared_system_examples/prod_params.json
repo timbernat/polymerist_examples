@@ -14,7 +14,7 @@
                 "total_time": {
                     "__class__": "Quantity",
                     "__values__": {
-                        "value": 20,
+                        "value": 2,
                         "unit": "picosecond"
                     }
                 },
