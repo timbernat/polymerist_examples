@@ -12,8 +12,8 @@ for dirname in "${example_dirs[@]}"; do
     pushd "./$dirname"
     bash "./notebook_tests.sh" || batch_status="failing"
     popd
-
-    if [ $batch_status = "failing" ]; then
-        exit 1 # bubble up failure to CI if any of batches fail
-    fi
 done
+
+if [ $batch_status = "failing" ]; then
+    exit 1 # bubble up failure to CI if any of batches fail
+fi
