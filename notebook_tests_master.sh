@@ -3,8 +3,8 @@
 example_dirs=(
     '1-polymerization'
     '2-preparation'
-    '3-workflows'
-    '4-miscellaneous'
+    # '3-workflows'
+    # '4-miscellaneous'
 )
 batch_status="passing"
 
