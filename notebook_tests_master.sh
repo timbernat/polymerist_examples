@@ -10,7 +10,7 @@ batch_status="passing"
 
 for dirname in "${example_dirs[@]}"; do
     pushd "./$dirname"
-    source "./notebook_tests.sh" || batch_status="failing"
+    bash "./notebook_tests.sh" || batch_status="failing"
     popd
 done
 
