@@ -64,6 +64,7 @@ cython_debug/
 testing.ipynb
 
 ## demo output files
+0-reactions/*fragments*.sdf
 1-polymerization/polymer_build_files/**/*
 **/scratch*/**/*
 **/*demo_files/*
