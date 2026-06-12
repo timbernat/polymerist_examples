@@ -17,7 +17,11 @@ from pathlib import Path
 
 from openff.toolkit import Topology
 from openff.toolkit.utils.toolkits import RDKitToolkitWrapper
-from openff.toolkit.utils.exceptions import UnassignedChemistryInPDBError, IncorrectNumConformersWarning
+from openff.toolkit.utils.exceptions import (
+    UnassignedChemistryInPDBError,
+    IncorrectNumConformersWarning,
+    PDBMoleculeHasNoncontiguousAtomIndicesError,
+)
 warnings.filterwarnings('ignore', category=IncorrectNumConformersWarning)
 
 from polymerist.polymers.monomers.repr import MonomerGroup, LOGGER as monomer_logger
@@ -25,7 +29,7 @@ monomer_logger.setLevel(logging.WARNING) # suppress verbose fragment registratio
 
 from polymerist.mdtools.openfftools.topology import topology_to_sdf, get_largest_offmol
 from polymerist.mdtools.openfftools.partition import partition
-from polymerist.mdtools.openfftools.partialcharge.molchargers import NAGLCharger, EspalomaCharger
+from polymerist.mdtools.openfftools.partialcharge.molchargers import NAGLCharger
 
 
 overwrites_allowed : bool = True
@@ -40,7 +44,7 @@ sdf_dir  = master_dir / 'SDF'
 sdf_dir.mkdir(exist_ok=True)
 
 # collate available monomer
-charger = EspalomaCharger()
+charger = NAGLCharger()
 errors = defaultdict(list)
 monos_available : dict[str, MonomerGroup] = {}
 
@@ -56,7 +60,7 @@ for mono_path in mono_dir.glob('**/*.json'):
 
     monos_available[mono_path.stem] = monogrp
 
-# load PDBs which have correcsponding monomer templates defined
+# load PDBs which have corresponding monomer templates defined
 pdb_candidates = [pdb_path for pdb_path in pdb_dir.glob('**/*.pdb')] # NOTE: unpacking as list solely to get headcount on number of PDBs
 n_pdbs_total = len(pdb_candidates)
 n_successful : int = 0
@@ -77,6 +81,10 @@ for i, pdb_path in enumerate(pdb_candidates, start=1):
     except UnassignedChemistryInPDBError:
         logging.warning(f'Skipping {molname}...')
         errors['Bad residue cover'].append(molname)
+        continue
+    except PDBMoleculeHasNoncontiguousAtomIndicesError:
+        logging.warning(f'Skipping {molname}...')
+        errors['PDB index error'].append(molname)
         continue
 
     try:
